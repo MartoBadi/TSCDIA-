@@ -47,7 +47,7 @@ def paises_mas_influencers(df):
 
 # Función para encontrar la cuenta de marca con más seguidores
 def cuenta_marca_mas_seguidores(df):
-    marcas = df[df['Tipo'] == 'Marca']
+    marcas = df[df['Cuenta de marca'] == 'Sí']
     top_marca = marcas.nlargest(1, 'Seguidores(millones)')
     print(top_marca[['Propietario', 'Seguidores(millones)']])
     top_marca.plot(kind='bar', x='Propietario', y='Seguidores(millones)')
@@ -57,6 +57,8 @@ def cuenta_marca_mas_seguidores(df):
 def main():
     archivo = 'Lista_de_Influencer.xlsx'  # Reemplaza con la ruta de tu archivo .xlsx
     df = cargar_datos(archivo)
+
+    print(df.columns)
     
     while True:
         mostrar_menu()
