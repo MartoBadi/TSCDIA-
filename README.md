@@ -1,2 +1,2 @@
 # TSCDIA-
-Repositorio con mis trabajos de la Tecnicatura Superior en Ciencias de Datos e IA del IFTS 18.
+Repositorio con mis trabajos de la Tecnicatura Superior en Ciencia de Datos e IA del IFTS 18.
