@@ -1,0 +1,1451 @@
+﻿Meeting Transcription
+Meeting started: Mar 17, 2025, 9:36:07 PM
+Meeting duration: 128 minutes
+Meeting participants: Andrea Alvarez, Belen Lago, Caro Barreto, Deisy Rios, Diego 
+Antonic, ERICA BARROS, Emilce Alconz, Estefania Reyes, Facundo Michilini, 
+Gonzalo Juárez, Hernán Hamra, Lorena Sierra, Mariana Morales, Martín Badino, 
+Matias Arias, Miguel Carlos Pita, Nazarely Gomez Abularach, Noelia Rodriguez, 
+Nuria Arnaud, Rafael Rubiano Ramirez, Solange Demey, Solange K. Wladimirsky, 
+Victoria Spandonari
+
+View original transcript at Tactiq.
+
+Transcript
+00:00 Miguel C.P.: Ya somos somos bastantes. Bueno, buenas tardes. Cómo 
+andan?
+00:09 Caro B.: buenas
+00:12 Lorena S.: Buenas tardes.
+00:12 Solange D.: Buenas tardes.
+00:12 Martín B.: buenas
+00:13 Miguel C.P.: Buenas a todos aquellos, que se han ido conectando. Ya 
+somos somos 21 en el aula virtual somos 25, así que faltan poquitos.
+00:23 ERICA B.: Hi, I’m transcribing this call with my Tactiq AI Extension: https://
+tactiq.io/r/transcribing
+00:25 Miguel C.P.: Pero bueno, mientras vayamos conversando, si si pueden 
+seguirán conectando sí me gustaría comenzar pasando lista. De paso ya voy. Voy 
+asociando un poco la voz de ustedes. Si quiere alguno prender la cámara está 
+bien. Ahora voy a presentarme yo después me gustaría que cada uno de ustedes. 
+A no ser que algunos sea un poco tímidos se presente si nos conocemos prometo 
+que no lo voy a hacer hablar mucho por lo menos en las primeras clases, voy a 
+hablar un poco mayor. Y bueno, pero esta primera clase es importante.
+
+
+
+01:09 Miguel C.P.: Estamos manejándonos en un ambiente completamente 
+remoto y y a veces se humaniza un poco la clase. No es lo mismo que dar clases 
+presenciales y bueno, está bueno conocerse ya, ya nos veremos, seguramente a 
+fin de año, perdón a fin del cuatrimestre mejor dicho. Pero pero bueno, no quiero 
+dejar pasar la primer clase para no solamente introducir la materia hablar un poco 
+sobre los los lineamientos sobre los cuales vamos a dar la misma. Sino que que 
+bueno podamos conocernos también lo cual me parece muy importante. Bueno, 
+paso lista y empezamos a charlar un poquito acerca.
+01:57 Miguel C.P.: de de análisis y exploración de datos bueno alcons Acuña
+02:08 Emilce A.: presente
+02:11 Miguel C.P.: Álvarez Andrea
+02:11 Andrea A.: presente
+02:15 Miguel C.P.: Anthony griego
+02:15 Diego A.: Presente buenas tardes.
+02:19 Miguel C.P.: Hola, buenas tardes. Arias Matías Arnaud Nuria
+02:32 Nuria A.: presente
+02:32 Miguel C.P.: Si alguno le pronunció mal el apellido corrijanme, sí. Así lo 
+pronunció bien porque durante las clases paso por lo menos dos veces lista. así 
+que no quiero andar pronunciando mal su apellido Martín
+02:53 Martín B.: presente
+02:54 Miguel C.P.: Barreto Carolina
+02:55 Caro B.: presente
+03:04 Miguel C.P.: barro sérica
+03:04 ERICA B.: presente
+03:09 Miguel C.P.: Demey Solange
+03:12 Solange D.: presente
+03:16 Miguel C.P.: Díaz
+03:22 Nazarely G.A.: presente
+03:24 Miguel C.P.: Está bien pronunciado.
+03:27 Hernán H.: presente Sí, perfecto.
+03:34 Miguel C.P.: Juárez Gonzalo
+03:42 Gonzalo J.: presente
+03:51 Miguel C.P.: lago Elena
+
+
+
+03:53 Belen L.: presente
+03:54 Miguel C.P.: Michelin y Facundo
+03:58 Facundo M.: Buenas, cómo va presente?
+04:00 Miguel C.P.: Qué tal morales?
+04:06 Mariana M.: presente
+04:10 Miguel C.P.: Ortiz Reyes Estefanía
+04:16 Estefania R.: presente profe
+04:21 Miguel C.P.: Prius Daisy Rodríguez Noelia
+04:37 Noelia R.: presente
+04:48 Miguel C.P.: Rubiano Rafael
+04:48 Rafael R.R.: presente
+04:50 Miguel C.P.: sierra Marín
+04:50 Lorena S.: presente
+04:54 Miguel C.P.: spando Nari María
+04:56 Victoria S.: Sí, presente.
+04:59 Miguel C.P.: gualdimirsky Karen
+05:00 Solange K.W.: vladimirsky, gracias presente
+05:04 Miguel C.P.: Bueno, repito a los que no anoté. Arias
+05:13 Matias A.: presente
+05:17 Miguel C.P.: Díaz Iriart y algo Ortiz candelas bueno Yo mande los mail de 
+invitación entiendo que les ha llegado bien algunos no nombres de los que 
+estamos acá. que se equivocó de aula tenía que entrar a otro y dentro de esta 
+bueno manderos mails en función de lo que Figuraba en el ciego el médico 
+ustedes colocaron cuando se inscribieron en la materia o que tienen este. de 
+usuario, pero bueno, conocen a días caros y a Ortiz por si tal vez no les ha 
+llegado el mail de invitación y O puede ser que no estén o estén por conectar o 
+estén trabajando? Los conocen a alguien habló con ellos.
+06:21 Miguel C.P.: es más que nada esta primer clase para saber si vamos a estar 
+todos no si O si yo introdujo.
+06:26 Lorena S.: Sí, profe Iriarte y Antonella siguen activos en las clases, lo que 
+pasa es que supongo que hoy no, no pudieron o todavía no se han podido 
+conectar, no sé si
+06:34 Miguel C.P.: Bien.
+
+
+
+06:37 Lorena S.: se conecten en el transcurrir de la clase.
+06:39 Miguel C.P.: Bien.
+06:41 Facundo M.: Sí, todavía no puedo acomodarlo sobre eso en el trabajo, pero 
+también sigue. 
+06:49 Miguel C.P.: Ah, ríos no nombre de verdad tenés razón arriba no la no la 
+había nombrado. Bien, y me estaría faltando días. puede ser Ortiz
+07:03 Andrea A.: Que días es Antonella ahí gloria, dijo que sigue activa, pero nada 
+que
+07:07 Miguel C.P.: Me repetís, por favor.
+07:12 Andrea A.: todavía no se pudo conectar.
+07:13 Miguel C.P.: sí Y Ortiz candelas Florencia de ya saben algo. No, la conocen 
+o si la conocen?
+07:26 Nuria A.: este en el grupo general de WhatsApp y ahí mandamos el link, así 
+que
+07:33 Miguel C.P.: Ah, perfecto, bueno, genial, genial, excelente excelente bueno.
+07:33 Nuria A.: Lo tienen que ver.
+07:38 Miguel C.P.: Me imagino que ustedes ya vienen, vienen cursando la carrera 
+juntos por lo menos la mayoría. Algunos no vienen en el ritmo de la mayoría de del 
+resto de sus compañeros o de la mayoría que están acá por X motivo, no hace 
+falta todos caros que pasó.
+07:56 Caro B.: Este cuatrimestre, pero bueno, me fui quedando atrás en algunas 
+materias, el 4 pasado no cursé por motivos personales y este estoy arrancando 
+solo con esta materia como para volver a tomar ritmo de a poco, así que no 
+conozco a nadie de esta cursada, por ejemplo. claro
+08:16 Miguel C.P.: O sea, vos eras compañero, vos eras compañeras de los que 
+de los que tuve yo el cuatrimestre pasado. Está bien, está bien una un lindo curso 
+un muy lindo curso, es segura. Seguro
+08:28 Caro B.: tuvimos mucha variedad de profes en el recorrido que llegó y la 
+verdad que
+08:28 Miguel C.P.: que este que esté también esto es igual o mejor. Si me 
+escuchan, después me van a me van a decir algo, así que no le digan nada.
+08:41 Caro B.: debemos hablaron súper bien, así que Como que elegí la materia 
+por eso también.
+
+
+
+08:44 Miguel C.P.: bueno, bueno, la idea es en la clase de hoy vamos a hablar un 
+poco en general de cómo me gusta mirar las clases y Transmitirles también un 
+poco de tranquilidad. A mí me gusta en general. Hablo mucho en las clases trato 
+de aprovecharlas, no los mato con los horarios tampoco vamos a hablar un poco 
+de todo eso. Yo también entiendo un poco el contexto en el cual estamos todos 
+inmersos.
+09:15 Miguel C.P.: ustedes y yo también y la idea es venir a la clase, aprovecharla 
+generalmente trabajar por objetivos que Que se vayan cumpliendo por lo menos 
+la planificación que yo voy haciendo para poder tratar de dar la mayoría de los 
+contenidos, sí. Entiendo que bueno, no sé el caso tuyo Carolina que seguramente 
+que me decías que que te notaste solo en esta sé que hay muchos muchos son 
+cinco seis porque comparé las dos listas las de esta materia y la de la otra.
+09:55 Miguel C.P.: Y algunos están en esta y no están en minería de datos y 
+también a la inversa. quiénes son esos alumnos me podrían decir quienes están 
+anotados en la práctica profesionalizante o sea en solamente en la de los lunes 
+aparte tuyo a Carolina Alguno más de los que está presente aquí que no esté en 
+minería de datos.
+10:17 Gonzalo J.: Yo yo no estoy en minería de datos.
+10:23 Miguel C.P.: Por un tema de tiempos no te anotaste.
+10:24 Gonzalo J.: Porque porque me quedaron materias atrasadas, entonces creo 
+que se superponía
+10:24 Miguel C.P.: ok gracias Gonzalo
+10:30 Gonzalo J.: por los horarios.
+10:36 Miguel C.P.: Alguien más? y más que nada le comento esto porque En el 
+cuatrimestre pasado la mayoría de los alumnos los tenían las dos materias. Creo 
+que había una alumna había solamente una alumna que tenía en esta materia y en 
+la minería de datos había un alumno que estaba en minería y no estaba. En la 
+práctica sí hay muchos temas, no todos el enfoque es distinto de las dos 
+materias, pero hay muchos temas que se superponen y que tal vez son similares, 
+no? Entonces? los alumnos que estén en las dos materias van a empezar a ver 
+que hay cuestiones que que se repiten y que son abordados con un distinto 
+enfoque pero La idea no es darles lo mismo sí de hecho.
+11:30 Miguel C.P.: No van a ver lo mismo las dos materias, pero ir haciendo las 
+
+
+
+dos materias simultáneamente creo que está bueno. también cuando estuve 
+preparando la las distintas clases cuando lo fui a la fui dando lo armé con ese con 
+ese enfoque con esa con esa visión de Que las cosas que veamos en la en esta 
+materia los lunes sirvan para la para la siguiente la de los martes y de los 
+miércoles y también a la inversa no? Porque hay muchos temas que se van 
+relacionando y cuando empezamos a cuando empecemos a ver los distintos 
+contenidos ustedes se van a dar cuenta de que De que hay cosas que ya hemos 
+visto y vamos a ir progresando en base a esos a esos distintos temas de las dos 
+materias, no de manera conjunta, pero quédense tranquilos, Carolina y Gonzalo 
+que nada de lo que veamos en la otra materia lo voy a traer a esta sin hacer.
+12:30 Miguel C.P.: La referencia correspondiente y no hay nada que ustedes no 
+vayan a poder seguir el hilo porque lo hayamos visto en otra materia. Eso quiero 
+que se queden por demás, tranquilos. Pero al resto bueno, les quería hacer esa 
+esa aclaración. Bien, qué otra cosa quiero otra cuestión más que me fui anotando 
+un par de temas bueno. arrancamos el cuatrimestre sigue arrancamos el 
+cuatrimestre entiendo que ninguno de ustedes quería que llegue este día y llegó, 
+así que hay que ponerle la mejor de las ondas y de las voluntades para Para 
+arrancar sí, en algún momento hay que empezar y bueno, que mejor hacerlo con 
+buena. Con buena energía la importancia es 6 seguro.
+13:24 Solange K.W.: Queríamos de verdad, me parece.
+13:27 Miguel C.P.: muy bien, muy bien, no voy a poner a todos en el mismo 
+bolsillo, pero Bueno, sí, seguro seguro que sí, me imagino que si están en este 
+punto de la carrera que no le falta mucho es porque les gusta y está bueno por lo 
+menos cuando yo estaba en mi etapa de estudiante. Me gustaba que me enseñe 
+cosas, por lo menos cosas que me sirvan y hay materias que me no digo después 
+cada uno de ustedes sacará sus propias conclusiones, luego de tener las 
+materias eso.
+13:58 Miguel C.P.: Quedará en cada uno algunos les gustará más otros les 
+gustará menos. Es parte de la vida. Es parte de las de del estudio a todos nos ha 
+pasado, pero bueno, mi idea con con las materias que voy a dar es que ustedes 
+puedan llevarse herramientas interesantes y cosas de cosas que puedan hacerles 
+útiles el día mañana o actualmente, si es que alguno de ustedes está 
+desempeñando en ciencia de datos en su trabajo, no? O de manera hobbista o 
+
+
+
+como sea, pero lo importante es Que no sea una materia que haya que cumplir y 
+nada más sino que luego.
+14:38 Miguel C.P.: Tengan y puedan aplicar las cosas que vimos o algunas de las 
+cosas que hayamos visto ya con eso para mí el objetivo está cumplido. Y vamos a 
+ver conceptos muy interesantes, seguramente algunos de ustedes. Haya temas 
+que manejen y lo manejen muy bien y otros probablemente no tanto entonces 
+bueno, hay que tratar de ir equilibrando y balanceando un poco. Un poco las 
+cargas porque el curso es numeroso, son menos que el año pasado el año pasado 
+habrán en 33 34 por materia.
+15:12 Miguel C.P.: Somos un poco menos, pero para mí mejor tengo que corregir 
+un poco menos. Creo que también está bueno, cuando los cursos este es un 
+curso numeroso pero Cuando se produce una buena dinámica entre entre el 
+alumno y el docente. Porque si no es un embolia la clase inclusive para mí 
+también. Si si no hay una un feeling y un y un feedback es muy difícil también 
+saber cómo vienen porque no es lo mismo dar una clase.
+15:48 Miguel C.P.: Frente a ustedes en el aula y que hacerlo de esta manera en 
+donde prácticamente no nos vemos las caras yo hoy. Estoy con la cámara, luego 
+generalmente mantengo la cámara apagada más que nada para no consumir 
+tantos recursos de la computadora, porque a la par estoy compartiendo pantalla. 
+Voy este ejecutando código, entonces la idea es que Ustedes me escuchen y 
+vean no me vean a mí que no tiene nada divertido, sino que que vean lo que lo 
+que estamos haciendo sí, entonces viene un poco por ese por ese por ese lado 
+yo al no verlos, porque también ustedes la mayoría. Luego está con la cámara 
+apagada tienen la libertad total de hacer lo que quieran si quieren dejarla 
+encendida o apagada.
+16:35 Miguel C.P.: Eso para mí está en segundo plano entiendo que si están acá 
+es porque les gusta y les interesa. Y bueno, el que quiere prestar atención que lo 
+haga y el que no somos todos grandes, acá creo que están todos por voluntad y 
+y ninguno está obligado haciendo haciendo la carrera y estudiando. Así que como 
+yo tampoco puedo ver el de las caras y no sé si están asustados y están este con 
+cara de no entiendo nada.
+17:15 Miguel C.P.: Vayamos charlando si hay dudas me van preguntando y bueno, 
+tratamos de de darles respuestas. Probablemente haya cosas que ustedes me 
+
+
+
+consulten que yo desconozca sí, yo no soy una una enciclopedia. tengo un 
+conocimiento que me Que lo que quiero es compartirlo y transmitírselo a ustedes 
+y bueno, algunas cosas probablemente yo también tenga que para aprender de 
+ustedes no, eso es también valorable porque seguramente muchos de ustedes 
+tengan cosas para aportar y bienvenidos sean porque aprendemos todos 
+aprenden sus compañeros y aprendo yo también, así que bueno la idea es hacer 
+una clase.
+17:52 Miguel C.P.: en la media de lo posible cumpliendo tampoco que es una clase 
+súper hablada, pero cumpliendo los objetivos que yo me voy planteando y que 
+sea algo dinámico y Que no sea un bodrio para ustedes, sí, bueno, algunas 
+cuestiones bueno. Mi nombre es Miguel pita, yo soy ingeniero electrónico, pero 
+este me especializo en ciencia de datos. estoy vivo en Mar del Plata lo cual Para 
+lo que es el día a día de nuestra de nuestra nuestra semanas que nos vamos a ver 
+muy seguido de aquí en adelante.
+18:31 Miguel C.P.: No va a repercutir en absolutamente nada, porque nuestras 
+clases son todas remotas. inclusive el año pasado había dos fechas de 
+presencialidades dos semanas presenciales que Que bueno, por cuestiones mías, 
+esto sí es una cuestión mía particular de la tema de la lejanía, no se dieron 
+presenciales se dieron virtuales, lo cual para mí es mucho más provechoso. Yo 
+después sigue, he ido al instituto para para los exámenes finales y la verdad que 
+ahí no se puede dar la clase de la manera en la que nosotros a esta altura de la 
+carrera. La estamos dando sí, nosotros.
+19:10 Miguel C.P.: Y a ustedes se les es más provechoso tener su herramienta de 
+trabajo que es la computadora. Y poder ir siguiendo la clase alguno que si quiere 
+grabarla que la grave el otro que quiere ir ejecutando el código a la par mía yo 
+generalmente les doy. este un adelanto de lo que vamos a ir viendo en las clases 
+para que ustedes lo puedan tener a mano mientras el día anterior o la semana 
+anterior para Para cuando yo doy la clase, ustedes pueden ir codificando la par 
+mía entonces.
+19:47 Miguel C.P.: la verdad que por dos semanas de presencialidad en la cual es 
+está buenísimo, que nos veamos y demás, pero la clase yo creo también entender 
+que se Que se potencia y se aprovecha mucho más de esta manera, habrá 
+algunos detractores de la virtualidad? yo pasé un poco por los dos estados sí en 
+
+
+
+mi en mi etapa como Como estudiante tiene cosas buenas y tiene cosas malas y 
+creo que cada uno puede tener sus.
+20:15 Miguel C.P.: Sus propias conclusiones, no a veces cuando uno está todo el 
+tiempo todo el día frente a la computadora trabajando y llegar a la casa y a las 
+corridas que llega del tren del colectivo, el que tiene que conectarse y prender de 
+vuelta a la computadora y estar 20 horas del día o tal vez un poco menos, me 
+excedí un poco pero 15 horas del día frente a la computadora.
+20:40 Miguel C.P.: es duro y a veces hay cosas, por supuesto más complejas, 
+pero tampoco es fácil, no, no es fácil para para los ojos no es fácil para la cabeza 
+y para el cuerpo en general, así que Esas cuestiones que no están no están 
+buenas de la virtualidad. Y otras y otras que sí sí, la comodidad el hecho de que 
+tal vez nos permite, no tener que viajar y perder tiempo en eso no, no sé cómo 
+está Buenos Aires ahora, si hace mucho calor, no? Cómo está por allá?
+21:18 Solange D.: Está lindo.
+21:20 Caro B.: 26 grados
+21:22 Miguel C.P.: bueno muy bien, bueno, en eso no nos agarra la época de Del 
+calor extremo que que sé que han tenido hace poco. Bueno, qué más les puedo 
+les puedo contar? bueno, tuve la experiencia del cuatrimestre pasado con el 
+Ustedes que son la tercera camada o la segunda de esta carrera.
+21:50 Solange K.W.: la segunda
+21:50 Facundo M.: segunda
+21:50 Miguel C.P.: la segunda la segunda bueno tuve la experiencia de sus 
+predecesores y Bueno, eso eso hace también de que yo pueda. con el con el 
+transcurso y con la experiencia de haber dado el cuatrimestre pasado, pues no es 
+lo mismo el conocimiento que uno tiene en la cabeza que después bajarlo y e 
+impartirlo y poder darlo, creo que es y esperemos que así sea por lo menos es mi 
+intención de poder aprovechar inclusive aún más este cuatrimestre y los temas 
+que Del cuatrimestre que los tuve que dar un poco apurados y algunas 
+cuestiones que no llegamos a ver.
+22:32 Miguel C.P.: Del todo tranquilos con los con los alumnos que estaban 
+conmigo en anteriormente, se aprovechamos bien los tiempos. Esperemos que 
+que se puedan dar para para ustedes sí y siempre habrá que tener en cuenta 
+algunas cuestiones los temas de los de los feriados imprevistos y demás que 
+
+
+
+muchas veces surgen y por eso también es de eso me gustaría. Conversar 
+entiendo que el fin de que la semana que viene el lunes es feriado, no sé si 
+ustedes.
+23:05 Miguel C.P.: Este sabían así que para para su pesar es que ya sé que están 
+sufriendo todos la semana que viene no vamos a tener clase el día lunes, sí, por 
+por el feriado del 24 de marzo. Lo bueno, martes y miércoles sí, con nos veremos 
+las caras pero más allá de eso. Vamos a llegar bien. Sí, vamos a llegar bien con la 
+con la materia bueno. Me fui anotando un par de cosas porque es la clase de hoy 
+va a ser conocernos hablar un poco sobre la materia así ya no la semana que 
+viene porque es feriado la otra empezamos.
+23:50 Miguel C.P.: Empezamos de lleno con la materia. Sí, ahí ya empezamos 
+100% con la materia, cuál es mi idea? Vamos, ahora le va ahora les voy a mostrar 
+el programa, vamos a hablar un poco acerca de eso, pero vamos a avanzar bien 
+progresivos. Sí, vamos a empezar. Porque ya un poco de que si bien a ustedes 
+todavía no los conozco. Ahora me gustaría escucharlos un poco, sé al ser muchos 
+los niveles son un poco variables entonces.
+24:20 Miguel C.P.: La idea es empezar progresivo los temas más básicos 
+tampoco nos vamos a demorar un mes en darlo sí, los temas más básicos es para 
+ir rompiendo un poco el hielo. Y después bueno, ya vamos con temas un poquito 
+más interesantes o temas un poquito más más complejos nada que sea imposible, 
+quiero que se queden tranquilos. Y y bueno, después ya los voy soltando un poco 
+la mano y ya van trabajando un poco ustedes también.
+24:49 Miguel C.P.: Bueno, hacemos una una presentación. Si alguno de ustedes 
+no quiere, no hay problema estaría bueno. este que lo haga, digo que no quiere 
+porque pase alguno que es tímido, le da vergüenza, pero bueno, me gustaría 
+conocerlos a ver si Si se presentan si me dicen quiénes son aquel que quiera 
+aprender la cámara bienvenido sea y bueno si tiene. Por qué eligieron esta 
+carrera este si trabajan en algo afín a lo que es ciencia de datos si tienen algún 
+conocimiento previo o no lo cual no está mal.
+25:24 Miguel C.P.: Cómo se sienten en relación a esta materia se sienten que 
+están empiezan mal? Porque no tienen buen background o si O si están súper 
+afilados, o sea, quiero conocer un poco también para ayudarme cuenta este, en 
+qué nivel estamos sí, y a partir de eso también poder reorientar la planificación de 
+
+
+
+las clases. Así que bueno, hablen como quieran o si no vamos por lista como 
+como quiera no quiero que sea algo muy estructurado tampoco. O el más valiente 
+o la más valiente o la más de 100, mi vida.
+26:02 Caro B.: Y yo ya hablé un montón acá, así que arrancó yo.
+26:05 Miguel C.P.: bueno, bueno, habías dejado Carolina entonces vos dejaste y
+26:09 Caro B.: Sí, yo arranqué yo en realidad donde escuchaba el análisis de 
+sistemas acá. En su momento me sirvió para encontrar trabajo de tecnología que 
+casualmente de Data ingeniero, que es lo que sigo haciendo el día de hoy. Porque 
+bueno, y la otra carrera del Terciario estaba mucho Paito en SQL y bueno con eso 
+entré a una escuelita de una empresa. Y fui haciendo camino digamos, pero 
+bueno, nada y cuatro metros pasado por cosas personales decidí no cursar y 
+bueno, me atrasé del otro grupo y ahora estoy como retomando a poco.
+26:48 Caro B.: Pero bueno, nada, eso trabajo hace poco menos de tres años 
+como ingeniera de
+26:48 Miguel C.P.: Gracias Carolina muchas gracias.
+26:53 Caro B.: datos. pero más que nada trabajo con Python SQL en la nube de 
+distintas herramientas de Ayuno y bueno, eso es un poco lo que tiene que ver con 
+la carrera.
+27:18 Miguel C.P.: alguien que alguien que quiera compartirme o presentarse o 
+hablar un poco acerca de de quién es lo que me interesa tampoco es que me den 
+su currículum, sí, lo que me interesa es conocernos hablar un poco si Si si tienen 
+algún conocimiento previo no este lo que es ciencia de datos. más allá de lo que 
+hayan visto en la materia en la carrera, no, que pues
+27:41 Solange D.: bueno
+27:43 Miguel C.P.: algunos pueden tener una Unas materias que se han visto que 
+les hayan gustado más o menos si quieren pero bueno es un poquito es sí.
+27:57 Solange D.: Mi nombre es Alan yo estoy trabajo en el área de sistemas para 
+el gobierno de la ciudad pero no estoy en datos justo ahora el Ministerio de 
+Hacienda hizo como una especialización. Yo soy licenciada en Administración y 
+ahora hizo como una especialización para profesionales y entre en ese programa 
+de especialización y es de datos, así que bueno, pero esto me estoy, estoy de 
+aprendiz total acá
+28:18 Miguel C.P.: bueno, bien, bien, te va a venir muy bien, vas a
+
+
+
+28:20 Solange D.: y allá así que bueno. eso
+28:28 Miguel C.P.: Vas a sumar un montón?
+28:30 Solange D.: bueno
+28:32 Miguel C.P.: Gracias. Además que quiera compartir que quiera. Este 
+también porque entiendo que hay algunos que no se conocen entre ustedes 
+siguen así. Así se presentan también para con sus compañeros.
+28:49 Facundo M.: Ya los reconocemos, pero igual nos presentamos con vos, sí.
+28:53 Miguel C.P.: Ya se conocen, dale dale.
+28:54 Facundo M.: Bueno, me llamo Facundo trabajo en una empresa de 
+telecomunicaciones en el área de productos. Para el ecommerce de la empresa 
+soy Analista Funcional ahí. uso los datos mucho de consumidor no tanto de De 
+generador hay un hay un área de Data que nosotros consumimos basamos 
+nuestras decisiones en datos medimos lo que implementamos. También con los 
+datos y bueno.
+29:32 Miguel C.P.: Gracias por cuando muchas gracias.
+29:40 Hernán H.: Bueno, sigo yo también ahí los compañeros ya nos conocemos 
+la mayoría mi nombre es Hernán hambra, vengo trabajando en mis en una 
+empresa de sistemas hace 8 años ahí me desempeño como Project Manager 
+parte de ventas parte Director de Proyectos una empresa chica. y bueno, ahora 
+estoy más con ganas de pasarme al área de desarrollo y por mi cuenta estoy 
+haciendo desarrollo Mobile así que bueno, para mí es volver a estudiar después de
+30:15 Miguel C.P.: Un poco de todo.
+30:18 Hernán H.: Eh, sí, sí, quiero pasarme más interesado por eso para mí cursar 
+y haber decidido cursar de ciencia de datos. Era meterme en otra área también 
+que que me interesaba y que puede ser una salida laboral también. Así que 
+curiosidad también y bueno, disfrutando de hacer la carrera. Yo vengo
+30:33 Miguel C.P.: Después al final del cuatrimestre.
+30:39 Hernán H.: de la parte de Licenciatura en Educación Física también hace 10 
+años de La pandemia dejé saber clases y ya quería un cambio y hace y en 
+paralelo, le venía haciendo haciendo otros emprendimientos en conjunto con la 
+empresa esta de sistemas. Así que bueno, nada, contento, que estoy cursando 
+ahí con los compañeros que tenemos esta está bueno el vínculo, así que el grupo 
+este es lindo. Espero que seamos mejor que el otro grupo. Ahí no, no es nada. 
+
+
+
+Bueno, no importa eso. Bueno, gracias nada más.
+31:17 Miguel C.P.: Muchas gracias. Alguien más que quiera. Que quiera 
+presentarse así lo conozco.
+31:31 Nazarely G.A.: Hola, profe. Yo me llamo nazarelli y bueno, experiencia previa 
+en datos así como tal no tengo, pero bueno, actualmente me dedico a trabajo en 
+una empresa pequeña y me dedico al área de Marketing y administración, pero no 
+con datos a punto a trabajar de eso no esperemos.
+31:48 Miguel C.P.: Hola, bien. Sí, sí, por supuesto que sí, o sea, este oferta de 
+sobra lo que pasa es que bueno. hay que tener un poquito de conocimiento, pero 
+ya lo Lo vas a adquirir, no tengo dudas de eso.
+32:06 Hernán H.: No, lo que estaría. Bueno, ya nos pusimos en confianza profe. 
+Bueno, a ver si en los que estamos buscando laburo en esto, ver cuál sería el 
+mejor camino, porque a veces yo estoy metiendo por LinkedIn por todos lados y 
+es difícil.  El primer laburo en en esto, eh?
+32:24 Nazarely G.A.: Te piden como mucha experiencia me parece yo siento que 
+que no no llego a lo que piden.
+32:31 Hernán H.: Sí, a mí.
+32:32 Miguel C.P.: Y lo que le van a hacer le van a después ya lo vamos en las 
+primeras clases ahora de esta materia vamos a ir viendo un poquito los los skills y 
+un poco. las herramientas que les van a pedir y que les pueden llegar a tomar en 
+alguna de los exámenes o alguna comprobación este laboral que seguro seguro 
+va a ir enfocado a lo que veamos en los primeras en las primeras clases de esta 
+materia y también de minería de datos ustedes cuando Cuando termine con eso 
+porque después los temas que seguimos viendo son bastante, son más 
+complejos, pero si ustedes pueden hacer un análisis de un Data frame importar 
+las librerías y demuestran conocimiento en el manejo básico de alguna de las 
+librerías que veamos si nada muy complejo, pero sí poder obtener algunas 
+medidas, ya sea una mediana una moda medida de tendencia central bueno.
+33:32 Miguel C.P.: hacer algún alguna demostración de manejo de un Data frame 
+y de los atributos y de las categorías de del mismo entiendo que Todo lo que 
+ustedes después necesiten desempeñar en su ambiente laboral, lo van a ir 
+aprendiendo realmente ahí adentro. Eso eso sucede o lo que ustedes ellos 
+pretenden es que ustedes no arranquen de cero. Que eso no va a suceder si por 
+
+
+
+lo menos si egresan de esta tecnicatura sin dudas.
+34:03 Miguel C.P.: Pero por lo menos con algunas de las cosas que veamos en 
+estas materias van a tener. Herramientas después bueno dependerá también de 
+la empresa la cual estén aplicando y del puesto al cual también estén aplicando. 
+pero no deberían tener problemas porque Si bien es tendencia la ciencia de 
+datos. Se necesitan muchos analistas de datos y y no hay gente capacitada para 
+para poder hacer un buen análisis de datos, por lo menos también es un poco la 
+experiencia, hay muchos que obran por un poco.
+34:46 Miguel C.P.: aprendizaje me sale aprendizaje automático no un poco es 
+Quiero expresarme expresarme bien. Muchos tienen un aprendizaje de 
+autodidacta esta no me salía la palabra la mayoría de aprende de manera 
+autodidacta sí y muchas veces eso, genera vicios y desconocimientos y tal vez 
+malas malas prácticas entonces. La idea mía es aprovechando un poco también 
+mi mi experiencia y mi estructura de Ingeniero es poder darles. Bien detallado, 
+cómo hacer un buen análisis de datos sí, y qué tener en cuenta y cuál es el 
+proceso lógico para hacerlo? Sí, esto no es una verdad absoluta, ya me van a 
+escuchar decirlo con el paso de las clases.
+35:35 Miguel C.P.: Porque también depende mucho el criterio del analista de 
+datos sobre cómo hacer el análisis correspondiente lo que pasa es que bueno, ya 
+es empezar a meternos en temas de la materia que no vamos a ir hablando, 
+quédense tranquilos con el paso de las clases. Pero la idea es que ustedes 
+puedan desarrollar el criterio lógico y el poder tomar decisiones fundamentadas. 
+Lo cual requiere conocimiento técnico, sí, por supuesto que después va a requerir 
+un poco de sentido común y de saber implementar y o saber para qué sirve cada 
+uno de los algoritmos que ustedes están aplicando, pero lo más difícil es 
+entender el proceso y en función de ese proceso que lo va mi idea que ustedes lo 
+tengan bien estructurada de bien detallado poder tomar decisiones sobre qué 
+camino elegir sobre qué algoritmo aplicar entonces si ustedes demuestran eso 
+olvídense que trabajo van a tener.
+36:33 Miguel C.P.: pero bueno, lo leeremos hablando con las con el transcurrir de 
+Las de las clases si alguno de ustedes está buscando trabajo como analista de 
+datos. ojalá que lo puedan conseguir pronto y lo que ustedes puedan ir haciendo 
+en esta materia los va a acercar mucho también a Poder hacerlo si bien a poder 
+
+
+
+aplicar y poder sortear cualquier cualquier examen por lo menos de incorporación 
+alguna empresa, así que Hernández este bueno, vos estuviste cambiando de 
+rubro y de trabajo tal vez estás buscando un nuevo o un nuevo horizonte? Pero te 
+va te va a servir mucho lo que veamos.
+37:15 Hernán H.: Muchas gracias.
+37:16 Miguel C.P.: alguien alguien más que quiera que quiera presentarse y hablar
+37:25 Nuria A.: Bueno, yo estoy igual que Hernán también buscando. Cambiar de 
+rubro ir para este lado y buscando trabajo de esto, así que bueno coincido todo lo 
+que dijiste. Espero que esto nos ayude.
+37:41 Miguel C.P.: Bueno, gracias Nuria y tenés conocimiento previo o no.
+37:46 Nuria A.: No, yo venía de otro rubro nada que ver venía del cine.
+37:46 Miguel C.P.: Bien, bueno, también es un poquito.
+37:52 Nuria A.: de producción cinematográfica y no y mi acercamiento fue hace 
+dos años cuando empezamos a la carrera y otros cursos que hice los de codo a 
+codo y bueno
+38:08 Miguel C.P.: Un poquito eso lo que yo quería hablar fíjense que han 
+conversado algunos de ustedes hay algunos que tienen. Años trabajando en 
+análisis y en empresas de sistemas y otros que no tienen esa experiencia. Y las 
+materias que han hecho en el Instituto bueno también es muy variable porque es 
+una carrera nueva. Ya he hecho eso también de que ustedes tengan experiencias 
+diversas. Con los docentes, no? Entonces algunos pueden sentir que llegan a 
+este punto Sin saber mucho y asustados y otros que bueno que le sobran, no, 
+entonces.
+38:49 Miguel C.P.: Nosotros por lo menos en lo que es el inicio de esta materia y 
+de la de la mañana también. empezaremos de a poco sí, entonces aquellos que 
+tienen más experiencia abordaremos temas que Serán bastante bastante simples, 
+pero yo quiero establecer una base para que aquellos que vienen un poco más 
+retrasados puedan acompañarnos. Sí, pero bueno, también les quiero transmitir 
+tranquilidad a aquellos que están más avanzados que después los temas que 
+empezamos a ver.
+39:20 Miguel C.P.: en las materias están buenos y están buenos y sirven pero al 
+principio hay como que empezar a volver a ver algunas cuestiones medio básicas 
+como para nivelar y a partir de ahí este comenzamos a Desarrollar la materia 
+
+
+
+llamas en su profundidad y bueno, no sé si alguno más quiere compartir o quiere 
+presentarse no los quiero obligar, eh? Si alguno si no quieren no pasa nada.
+39:49 Solange K.W.: Hola, profe. Yo soy Solange también igual que Solange y 
+también a mí lo que me pasa es que no tengo experiencia, simplemente las 
+materias que vimos acá y también codo a codo, pero bueno, codo codo ahora 
+cambió y mejoró es una opinión personal, pero es mi opinión como que ahora 
+está mejor, pero la
+40:02 Miguel C.P.: Está bien, sí, sí es demasiado básico.
+40:03 Solange K.W.: cuando yo lo hice la verdad que a mí no me sirvió. O todos 
+juntos y para mí.
+40:13 Miguel C.P.: No era lo que esperabas.
+40:16 Solange K.W.: O sea dar un contenido que debería durar un año en cuatro 
+meses, no sé no. Y como también era para gente sin experiencia, pero más allá 
+de eso lo que a mí me pasa es que no me imagino como son eso, qué es lo que se 
+pide en estos trabajos, que es lo que se requiere, así que bueno, buenísimo lo que 
+vos. decías
+40:39 Miguel C.P.: lo que termine cuando terminen más allá de que lo vamos a 
+empezar a ver no la semana que viene porque tenemos el feriado, pero lo que 
+vamos a empezar a ver a partir de las De las próximas clases es lo que les van a 
+pedir en cualquier en cualquier entrevista, sí son conceptos, básicos de manejo 
+de datos. Sí vamos a empezar
+40:55 Solange K.W.: genial
+40:58 Miguel C.P.: con cosas básicas, pero hay cuestiones que Que son el que 
+sobre todo lo que es el análisis exploratorio el análisis exploratorio de datos, eso 
+se pide siempre.
+41:07 Solange K.W.: Buenísimo.
+41:07 Miguel C.P.: después vamos a terminar haciendo cosas muy muy piolas y 
+vamos a terminar haciendo cosas muy interesantes este trabajando con
+41:12 Solange K.W.: Espectacular y también porque también otra cosa que me 
+pasa perdón, si lo hago largo chicos y profesor, pero es como que cómo se une 
+todo esto. Cómo unir como unir todo lo que estamos viendo?
+41:27 Miguel C.P.: ok perfecto el gran problema del compartimiento estanco se 
+podría decirle uno tiene todo el conocimiento en
+
+
+
+41:35 Solange K.W.: Claro, claro.
+41:36 Miguel C.P.: En cajas separadas, no? Bueno yo.
+41:40 Solange K.W.: Bueno, pero a uno le pasa que sí, no?
+41:42 Miguel C.P.: Voy a apagar la cámara un segundito, eh? Pero estoy dale.
+41:48 Solange K.W.: que a uno le pasa que o sea Que cuando terminas recién a mí 
+cuando yo terminé de estudiar cosas en mi vida comprendí que era finalmente 
+ese eso en lo que me metí. Yo por ejemplo, la primera carrera que estudié fue 
+profesorado de música y cuando termine el Conservatorio ahí me di cuenta. para, 
+o sea que era todo, no sé si me explico tal vez, no, pero
+42:18 Miguel C.P.: Tuviste una visión más integral y te permitió.
+42:21 Solange K.W.: Claro, sí, eso así que bueno, bárbaro, gracias.
+42:23 Miguel C.P.: Bueno, trataremos trataré de, o sea, yo no te prometo que 
+llegues a ese nivel de conocimiento.
+42:34 Solange K.W.: No, pero también porque después seguí explorando y 
+haciendo música y es como
+42:34 Miguel C.P.: tampoco
+42:41 Solange K.W.: que aprendí más por hacer también, o sea, no se quedó ahí el 
+tema entonces
+42:43 Miguel C.P.: totalmente
+42:43 Solange K.W.: es como que si nos puedes dar también como una especie 
+de camino, por dónde estaría bueno seguir para tener una idea eso.
+42:48 Miguel C.P.: Bueno, bueno, como no, no de nada de nada, lo iremos 
+charlando ahí a medida.
+42:50 Solange K.W.: Bueno, muchas gracias.
+42:54 Miguel C.P.: De este más adelante tenemos un montón por delante. Sí, el 
+cuatrimestre pasa
+42:57 Solange K.W.: Genial, sí, sí.
+42:59 Miguel C.P.: rápido también. Pero pero bueno, ahora entiendo que van a 
+terminar haciendo. trabajos súper interesantes para para esta para esta materia 
+entiendo que los los alumnos que que han terminado cuatrimestre anterior han 
+quedado contentos también con lo que han aprendido porque
+43:23 Solange K.W.: Es verdad, están muy contentos. Lo dicen mucho.
+43:24 Miguel C.P.: Así que es un poco también eso poder poder transmitirles 
+
+
+
+cosas que le sirvan.  Bueno, alguien más que quiera compartir su experiencia.
+43:38 Noelia R.: buenas tardes, sí yo soy Noelia También me gustaría trabajar en 
+da con datos. Actualmente estoy trabajando en soporte. Y bueno hice cursos 
+también distintos cursos de programación y se codo a codo estudio unos años 
+ingeniería también.
+43:58 Miguel C.P.: Excelente bien ahí.
+43:59 Noelia R.: Y bueno, buscando a ver si consigo algo.
+44:05 Miguel C.P.: Ojalá que sí. Bueno, alguien más que quiera hablar. bueno 
+Bueno, sí, dale, dale por favor, Rafael adelante.
+44:27 Rafael R.R.: Sí, hola, Miguel buenas tardes.
+44:29 Miguel C.P.: Qué tal?
+44:29 Rafael R.R.: Bueno, me estoy desempeñando como consultor empresarial. 
+En tres empresas aquí en Buenos Aires soy licenciado en Economía y Finanzas 
+tengo Especialización en Gerencia Comercial y soy magister en economía. Y la 
+ciencia de datos, pues ayuda mucho al tema de programación. Pero complemento 
+mucho con la econometría con lo que manejo soy docente de la uva. Como soy 
+docente de la obra en dirección general y en comercialización. y en análisis 
+financiero
+45:07 Miguel C.P.: Excelente Rafael bueno veremos no nos vamos a enfocarnos 
+por exclusivamente en economía, pero bueno, el año el año pasado les decía un 
+trabajo a los alumnos donde donde tengan que analizar este. Las tendencias y los 
+patrones de venta de distintas empresas en línea y fue muy interesante tal vez 
+puedas aportar tu experiencia si hay que hacer un trabajo similar y bueno, nos 
+nos va a enriquecer a todos seguramente.
+45:38 Rafael R.R.: Perfecto, gracias.
+45:39 Miguel C.P.: También no, por favor también el análisis de datos es la punta 
+del hilo. de un trabajo que es multidisciplinar, sí, eso así hablando Rafael un poco 
+también viene a colación de lo que digo porque hay mucha relación con temas 
+que nosotros como analista de datos no vamos a tener que estar 
+descontextualizados de la de la base de datos con la que estemos trabajando, 
+tenemos que entender el contexto entender a que hace referencia, cómo fueron 
+tomamos esos datos, cuáles son los distintos atributos que lo conforman y demás 
+porque si no, no vamos a hacer un buen trabajo y muchas veces, eso va a hacer 
+
+
+
+que nos volvamos, no expertos, sino un poco entremos a conocer distintas 
+ramas, que previamente no serán las eran desconocidas, así que Bueno, 
+seguramente muchos de ustedes que tienen formación de otras ramas puedan 
+aportar su su conocimiento en esta materia y les va a venir.
+46:54 Miguel C.P.: Muy bien, profesionalmente a futuro alguien más que quiera 
+hablar. Bueno, algunas cuestiones importantes veo que somos 23 algunos se 
+conectó de los que no estaban conectados. Y y no dio el presente para que lo 
+anoté porque veo que somos uno más.
+47:21 Deisy R.: Hola, profe. Sí. Yo Daisy ríos, recién me conecto porque estoy 
+saliendo de
+47:23 Miguel C.P.: Qué tal? Hola, qué tal lees y cómo estás?
+47:29 Deisy R.: trabajar.
+47:29 Miguel C.P.: Está bien, no hay problema, cómo estás bien?
+47:32 Deisy R.: Todo bien, sí.
+47:33 Miguel C.P.: Bueno, iremos, vamos a ir charlando un poquito más algo ya 
+comenté a tus compañeros. Quiero hablar algunas cuestiones relacionadas 
+también con con los horarios de clase y demás. Entendiendo que la mayoría de 
+ustedes trabajan. Yo también lo hago, pero los horarios a mí me coincidan, pero 
+entiendo que a muchos de ustedes tal vez se les junta el horario de salida del 
+trabajo con el horario en el que si ustedes se conectan sí, entonces.
+48:13 Miguel C.P.: Por lo menos el cuatrimestre anterior yo este terminé dando las 
+clases en los horarios, que ahora les voy a comentar, que creo que fueron 
+bastante aprovechados algunos le quedarán más cómodos que a otros pero 
+bueno es lo que yo les puedo ofrecer, sí. intendente también que todos ustedes 
+se anotan de forma voluntaria y conocen de antemano el horario de la materia 
+que el horario de la materia es De 18 a 22 horas, sí, ese es el horario de la materia 
+que habría que cumplir.
+48:49 Miguel C.P.: de acuerdo a lo que indica el programa de La de la carrera si 
+bien ese es el horario estipulado entiendo que a las 18 horas me conecto yo y uno 
+más. Porque me pasó las primeras clases, el cuatrimestre pasado y entiendo 
+también el contexto en el cual estamos, estamos todos inmersos y que ustedes 
+tienen sus obligaciones laborales. Independientemente de eso mi intención es 
+tampoco, no dar la clase o dar media hora. Sí es hacer buscar un equilibrio que 
+
+
+
+nos permita a todos poder dar.
+49:35 Miguel C.P.: la clase en un horario y un tiempo acorde que nos permita dar 
+los temas que están previstos y avanzar en función de del plan de la materia 
+entonces La idea es los lunes, nos vamos a conectar 1830, sí. 18 30 horas si 
+algunos se conecta después no hay problema la idea es que 1830. Nos 
+conectemos y ahí nos tomemos 10-15 minutos para hacer. Para pasar lista hacer 
+un poco de introducción del tema que vamos a ver.
+50:13 Miguel C.P.: sacarnos de alguna duda de alguna cuestión pendiente de la 
+clase anterior y luego avanzamos con el tema Con el tema de la clase, sí, 
+tampoco la idea es estar dos horas ahí hablando y hablando porque la idea es 
+avanzar con los temas, porque sobre todo en esta materia que se da una sola vez 
+por semana. Ya la que viene tenemos un feriado después desconozco si hay 
+algún otro feriado más, no lo sé ustedes saben si hay alguno más por lo menos 
+para esta materia.
+50:45 Miguel C.P.: Pero eso también nos va a cortar el tiempo de clase. Entonces 
+sale eso lo tienen en claro, ya lo saben de antemano. bueno, entonces
+50:56 Facundo M.: No, para esta no sé que el miércoles 2 es feriado.
+51:00 Miguel C.P.: Claro, los de abril, el 2 de abril está bien. Bueno, pero esta 
+materia pónganle que son 16 clases 15 clases. Y ya tenemos una menos entonces 
+no son muchas. Son suficientes para lo que tenemos que ver en la materia sí y 
+para lo que hay que hacer, pero tampoco es que podemos andar perdiendo el 
+tiempo entonces 18 30 nos conectamos. Yo trato de dar dos bloques durante las 
+clases trate de dar dos dos bloques hacer un primer momento de clase.
+51:39 Miguel C.P.: Si es variable no es que les digo es una hora de clase y 
+después 15 minutos no en función de cómo vamos avanzando y cuando yo 
+considero también que es el momento, por si después viene un tema nuevo o hay 
+que avanzar con algo un poquito más complejo. que ya venimos de de un tiempo 
+prolongado de clase, entonces la idea es Ir dando un tema 40 45 minutos una 
+hora lo que sea cortamos y después les doy un tiempo de descanso y después 
+nos volvemos a conectar. Os mantenemos.
+52:12 Miguel C.P.: Mantenemos conectados, pero después comenzamos de 
+vuelta con la segunda parte de la clase y generalmente generalmente esto 
+tampoco. Está cronometrado con precisión, pero más o menos la idea es cortar 
+
+
+
+nueve y media aproximadamente sí, entonces terminamos dando tres horas de 
+clase aproximadamente que me parece que está bien porque nos vamos a ver 
+lunes, nada más con la mayoría nos vamos a ver el lunes martes y miércoles y 
+ustedes encima después siguen jueves y viernes con clase entiendo que es así o 
+no.
+52:50 Facundo M.: Sí, todos los días.
+52:51 Miguel C.P.: claro, entonces Que se hace se hace largo se hace cansador 
+para ustedes también entonces a mí no me sirve. Tener los cinco horas o cuatro, 
+pero este que estén ahí con la cabeza. En querer irse a comer y irse a dormir que 
+capaz les pasa también con el horario que hacemos, pero les pasa menos 
+entonces la idea es que las horas que tengamos clase, damos este lo que hay 
+que dar.
+53:22 Miguel C.P.: Nos concentramos aprendemos y nos vemos al otro día, pero 
+que aprovechemos ese tiempo, porque si hacemos esto un choclo un montón de 
+horas después. Es contraproducente para el aprendizaje, sí, así que y también 
+entendiendo de que muchos ni siquiera cortan para comenzar las clases, sino que 
+salen de trabajar arrancan a cursar y la idea es no liberarlos tan tarde entonces. 
+Generalmente hacemos de seis y media a nueve y media los lunes y los ya les 
+adelanto disculpen aquellos que no están en la materia de mañana que es minoría 
+de datos, pero la idea es los los miércoles también hacer de seis y media a nueve 
+y media.
+54:13 Miguel C.P.: Después los martes es una cuestión este personal mía, que es 
+imposible llegar antes de las 20 horas a dar clases, entonces los martes, pues por 
+eso mañana comenzamos a las 20 horas y va a ser así en adelante, los martes, 
+hacemos de 20 a 22 horas o 22 15. Sí, ese es el horario de los martes, el lunes y 
+miércoles de 18:30 a 21 a 30 aproximadamente si es aproximado y los martes 
+comenzamos a las 8. Hasta las 10 10 y cuarto.
+54:56 Miguel C.P.: Si el tiempo previo generalmente de los martes es eso también 
+está bueno hablarlo, pero no me quiero meter muy de lleno en eso porque lo 
+vamos a charlar mañana ese tiempo previo. Generalmente lo utilizo para que 
+ustedes puedan hacer algún trabajo o algún ejercicio sí y que ustedes puedan 
+aprovechar ese tiempo si quieren porque yo realmente los ejercicios se los doy 
+con anticipación si ustedes lo quieren ir haciendo durante la semana. Bien, 
+
+
+
+bienvenidos sean, pero tienen el tiempo. En ese en esa hora hora y media entre 
+las seis y media y las y las 8.
+55:32 Miguel C.P.: Que no vamos a estar dando clases, pero que la idea es que 
+ustedes puedan utilizarlo para aprovechar y hacer al ejercicio los ejercicios o los 
+trabajos de la materia. Y eso viene un poco en relación a algo que les quiero 
+comentar mi intención. Yo estuve en el lugar de ustedes. Mi intención es que las 
+horas de clase se aprovechen si ustedes prestan atención y me van siguiendo y 
+van clase a clase.
+55:56 Miguel C.P.: No haber ningún problema en que puedan avanzar con el 
+contenido de lo que vayamos viendo con el programa de la materia o de las 
+materias. Mi idea es que en la medida de lo posible. Sí, no exigirles que dediquen. 
+Demasiado tiempo extra a lo que son el horario de las clases, sí. Qué quiero decir 
+con esto si yo les doy algún ejercicio. Para que hagan es para que puedan 
+resolver sobre todo lo que es minería de datos en ese en esas horas.
+56:36 Miguel C.P.: Previas a los días martes que es horario de clase, que si bien 
+no estamos dando clases para que ustedes puedan aprovechar y trabajar en la 
+materia aquellos que quieran hacerlo en ese horario, no? Si usted lo quiere hacer 
+en otro momento como les digo este más ustedes, pero la idea es que puedan 
+aprovechar ese tiempo porque entiendo que el tiempo es limitado para todos. Si 
+es un recurso muy valioso y escaso, así que aprovechenlo. Y para esta materia 
+que vamos a ir avanzando.
+57:11 Miguel C.P.: todos los lunes en el mismo horario sí, cómo va a ser el 
+procedimiento de evaluación lo de la materia de los De los martes y miércoles lo 
+hablamos mañana vamos a esta materia. Se va a evaluar con un trabajo práctico. 
+Y un parcial sí, un trabajo práctico y un parcial y los que tengan aprobados el 
+trabajo práctico y el parcial. Van a pasar a la distancia al final? Sí, para aprobar la 
+regularidad de la materia y poder ir al final tiene que tener ambos.
+57:54 Miguel C.P.: Aprobados tanto el parcial como el trabajo práctico sí es un 
+trabajo práctico que vamos a hacer en grupos. Sí, eso también es algo que quiero 
+aclarar, pero el trabajo práctico recién lo doy cuando vimos. Al menos la mitad de 
+los contenidos de la materia sí, para que tengan herramientas como para poder 
+empezar a resolver. bueno, les quiero compartir pantalla y mostrar un par de
+58:28 Hernán H.: Profe, no hay algo que en otras materias cuando teníamos 
+
+
+
+promedio de 7 y vamos al final que es obligatorio, pero nos aprobaban cómo va a 
+ser en este caso.
+58:38 Miguel C.P.: Bueno, eso lo vamos a charlar más adelante en función de por 
+qué? Porque la lo mismo hable este y lo que se los comentaba los a los alumnos 
+el cuatrimestre anterior la carrera. Exige un final y este no está. Previsto la 
+promoción sí de lo que es la regularidad. Ahora bien, si a mí entender y en función 
+de cómo vayamos avanzando con el desarrollo de las clases.
+59:15 Miguel C.P.: Yo veo que de parte de ustedes que descarto que así va a ser, 
+pero no quiero dejar de aclararlo de parte de ustedes. Hay una buena recepción 
+de los distintos temas hay interés y un buen desarrollo del examen parcial y un 
+buen desarrollo del trabajo práctico. Aplicando lo que vimos en clase 
+incorporando también ideas propias. Pero la idea es demostrar si ustedes 
+demuestran interés en lo que en lo que vayamos dando y tienen un buen 
+desempeño de cursada.
+59:51 Miguel C.P.: Podríamos proceder de esa manera, pero queda sujeto 
+también a a esas a esa condición sí y bueno, eso lo quiero aclarar también. Para 
+este ser justos luego y que nadie se sorprenda descarto que así va a ser, pero por 
+las dudas lo aclaro entonces. La idea es tener una clase dinámica amena, donde 
+prive el respeto mutuo entre todos nosotros y aprendamos y bueno, si si viene 
+todo en los parámetros normales, vamos a hacer eso sí.
+01:00:29 Miguel C.P.: Pero bueno, como falta todavía para eso vamos, vamos de a 
+poco y vamos a llegar a buen puerto, no tengo dudas. Bien. Entonces quería les 
+voy a compartir pantalla. Bueno, quiero mostrarles brevemente se ve bien.
+01:01:02 Facundo M.: Te puedo hacer una consulta antes de seguir?
+01:01:03 Miguel C.P.: Vamos a usar aula virtual, sí, yo ahí les dejo todo el material 
+eso también.
+01:01:06 Facundo M.: Vamos a usar classroom o aula virtual o ninguno? ok
+01:01:16 Miguel C.P.: Eso es algo de los que les iba les iba a hablar. Cuando 
+ustedes buscan en el aula virtual, van a encontrar. Dos enlaces de ovario, por lo 
+menos con mi nombre cuando busquen esta materia van a encontrar dos enlaces 
+para las prácticas profesionalizantes o para la pp3, que es esta que estamos 
+haciendo. La del cuatrimestre anterior y ahora me agregaron me hicieron un aula 
+nueva. Al pedo me hicieron la nueva perdón la expresión porque ya en la anterior 
+
+
+
+ya lo tenía todo volcado, así que ustedes matriculense en la que es de 
+automatriculación sí van a ver que dice automatriculación, pues si no, no lo va a 
+dejar matricularse.
+01:02:00 Miguel C.P.: se entiende entonces ya que estábamos y aprovecho lo que 
+vos decís Facundo matriculense en el en el classroom, perdón en el en el aula 
+virtual mejor dicho y en la que tiene automatriculación sí porque ahí yo voy a ir 
+volcando ahora creo que tienen el programa de la materia que también lo tienen 
+en la página del Instituto lo vamos a ver ahora en un rato, pero pero bueno, ahí en 
+el En el aula virtual yo voy dando los temas, voy armando un cuaderno en el cual 
+voy haciendo los distintos.
+01:02:41 Miguel C.P.: Voy, voy dictando los distintos temas y voy codificando y 
+luego de la clase se lo subo a la aula virtual para que ustedes lo puedan 
+descargar sí. Mi idea en general, cuál es mi forma de trabajo? Yo termina una 
+clase y Este generalmente esa misma en esa misma oportunidad o además tardar 
+al día siguiente le subo lo que hemos visto para que ustedes puedan. Repasar 
+estudiar o rever algún tema de lo que hayamos visto en clase, sí, entonces lo va a 
+estar en el aula virtual por lo cual matricúlense, por favor, Gracias Facundo era 
+algo también de lo que quería hacer.
+01:03:24 Miguel C.P.: mención bien Un segundito que quiero ver si hay algo de lo 
+cual no hablé. Hacemos una cosita, así nos vamos, vamos a hacer 10 minutos. Y 
+vemos este tema de del plan de materia charlamos un par de cuestiones más y 
+luego damos por finalizado lo que sería la clase de hoy, así que nos tomamos 10 
+minutos y luego continuamos, por favor. Perdón, mejor dicho a las 20 son menos 
+cuarto a las 20 nos comenzamos de nuevo
+01:03:55 Facundo M.: Dale buenísimo.
+01:04:00 Miguel C.P.: a con la segunda parte.
+01:04:02 Facundo M.: perfecto
+01:04:05 Miguel C.P.: Gracias.
+01:04:17 Martín B.: El aula donde nos podemos automatricularse el año pasado, 
+no o la de este año.
+01:04:19 Miguel C.P.: Claro, no, no, no la del año pasado porque ahí tengo ya 
+tengo el material volcado y demás entonces yo lo voy a lo voy habilitando a 
+medida que vayamos dando las clases, o sea, si hay que hacer algún cambio ya lo 
+
+
+
+hago a partir de ahí, que ya lo tengo armado. Si no era empezar de cero, así que 
+matricularte la del año pasado que que es este, yo después voy a ver los 
+participantes, si hay alguno que no está conectado este le aviso o lo volvemos a 
+repetir.
+01:04:49 Miguel C.P.: Igual eso para la clase que viene recién porque ahora no no 
+va a haber material visto. Bueno, a los 20 seguimos.
+01:05:04 Hernán H.: Le puedes pasar el link de la del aula virtual porque no lo 
+estoy encontrando.
+01:05:11 Facundo M.: Ahí lo pasó Hernán que lo encontré.
+01:05:19 Hernán H.: Gracias, facu.
+01:05:31 Facundo M.: https://aulasvirtuales.bue.edu.ar/enrol/index.php?id=19439
+01:05:49 Martín B.: Entonces hay un break de 15 minutos.
+01:05:59 Facundo M.: Sigue a las 8 y volver.
+01:20:38 Miguel C.P.: Bueno, estamos. Bueno, buenas.
+01:20:46 Solange K.W.: sí
+01:20:53 Miguel C.P.: Genial genial, queremos dos minutitos ahí, así se conectan. 
+O vuelven los que estaban hora de lejos de la compu. Pudieron entrar al aula. Ahí 
+veo que hay varios ya conectados. En el aula virtual perfecto, buenísimo y gracias 
+por mandar el enlace.
+01:21:17 Solange K.W.: Entonces ahí es es la sí, gracias, facu y ahí es está el 
+programa.
+01:21:29 Miguel C.P.: ahí está el programa igual el programa también está en la 
+página del IFTS En la página del Instituto está el plan de en el plan de carrera de 
+ustedes,
+01:21:34 Solange K.W.: perfecto
+01:21:40 Miguel C.P.: ahí dice plan de materia y está lo que tiene lo único que 
+cambie. Es el año porque decía el anterior el que está colgado en la página es el 
+20 el decía ciclo lectivo 2024. Y el que está en el aula virtual es el que tiene la 
+fecha cambiada, pero el plan en sí es igual, sí. Este qué otra cosa más bueno. 
+quiero charlar de dos o tres cuestiones más, sí que me parecen importantes y 
+Nos tomamos un tiempito para hablar de estas cosas y por hoy ya ya cortamos. 
+Permítanme que quiero compartir un segundito la pantalla.
+01:22:28 Miguel C.P.: bueno Bien, se ve bien, no o no?
+
+
+
+01:22:38 Facundo M.: Sí, perfecto.
+01:22:38 Miguel C.P.: perfecto Bárbaro, esto es el plan de carrera. Lo que quería 
+mostrarles más que nada para que todos hablemos el mismo idioma. Y por si 
+alguno no está en esta situación quiero hacer la la recomendación. Sí. Bueno, 
+antes que nada bueno. Entiendo que todos lo conocen, sí, no voy a estar un 
+montón con esto, pero no viene mal también ver un poco el punto en el que 
+estamos parados.
+01:23:13 Miguel C.P.: esta sería la tercera práctica profesionalizante la próxima 
+que tienen es el proyecto integrador, así que Es una materia importante o por lo 
+menos? Deben darle la importancia que se que requiere porque la otra ya va a ser 
+la que las que les entregue el título entiendo. Bueno, ya están parados en el punto 
+un punto prácticamente final sí entiendo que ahora están haciendo estas cuatro 
+materias. es así la mayoría está en esa situación algunos ya aprobó las algunos ya
+01:23:47 Solange K.W.: sí
+01:23:53 Miguel C.P.: aprobó esta alguna de estas materias y Este está solamente 
+con análisis o está haciendo análisis y y alguna de tercer año no sé si pueden 
+hacerlo, pero bueno, capaz, alguno está en esa situación creería que no.
+01:24:06 Solange K.W.: sí
+01:24:10 Miguel C.P.: Ah, ok ok son claros, son todas este seguiditas. Está bien, o 
+sea, está de segundo año dan para que el lunes a viernes tengan completo ahí el 
+el cronograma.
+01:24:21 Solange K.W.: exactamente
+01:24:25 Miguel C.P.: Perfecto, bueno, así que ya estamos ahí. Bueno, eso creo 
+que también es para que ustedes se sientan un poco motivados. porque nunca 
+van a dejar de estudiar la mayoría no nunca decir nunca es demasiado pero 
+entiendo que uno el deseo es seguir capacitándose el mercado lo exige y 
+también un poco es la autoexigencia de cada uno siempre van a Seguir 
+capacitándose estudiando aprendiendo es parte de la vida. Entonces, pero 
+bueno, están terminando una etapa muy importante sí, después seguirán o con 
+otras.
+01:25:08 Miguel C.P.: pero pero bueno, bien, felicitaciones para ustedes y y una 
+de las cosas que quiero hacer que quiero decirles, es que no se desmotiva en que 
+Que traten de ponerle de ponerle lo mejor de ustedes. Mucho mucho, ya han 
+
+
+
+pasado por por otras carreras, hay algunos de ustedes que son incluso más 
+grandes que yo yo tampoco es que soy un niño, pero pero bueno, acá tenemos. 
+gente de todas las edades y bueno hay gente que a que que se desempeña 
+laboralmente hace muchos años que Que ha estudiado una o más de una carrera, 
+pero bueno, no es poca cosa estar a punto de terminar una más, así que los 
+felicito a todos y los los exhorto, a que podamos a que puedan seguir por este 
+camino que que sé que es difícil estudiar y trabajar al mismo tiempo y cuando uno 
+llega a esta etapa ya.
+01:26:15 Miguel C.P.: No ve la hora de terminar, pero pero bueno también es 
+importante. El momento en el que se encuentran y también es una parte linda la 
+carrera así donde uno empieza a aprender cosas que son súper interesantes y 
+empieza. a ver la luz al final del camino sí, al final del túnel, así que bueno, lo 
+trataré de acompañarlos de la mejor manera porque Nos vamos a ver tres veces 
+por semana con la mayoría y eso es un montón también espero no cansarlos y 
+bueno la idea es que también en cierta forma disfruten de las clases que vayamos 
+teniendo.
+01:26:48 Miguel C.P.: Otra cosa, que les quería comentar a ver esto no? A ver si 
+aparece más abajo acá. Temas con relatividades sí, esto es importante porque 
+quiero hacer la aclaración de esto. Porque nos hicieron esa recomendación y lo 
+quiero hacer llegar a ustedes de que hablemos de este tema porque el sistema 
+cuando ustedes se anotan no tienen cuenta las correlatividades para permitir 
+anotarse a la materia. Puede haber alguien de primer año que se anote en esta 
+materia por por poner un ejemplo, no? Entonces o que no tenga la correlatividad 
+requerida para verse anotado si la conectividad ciencia de datos.
+01:27:31 Miguel C.P.: Entiendo que todos la van a haber cursado, pero esto es 
+responsabilidad de cada uno de ustedes. Saber si cumple con esa correlatilidad o 
+no, porque al momento de tener que rendir el final. Van a pasar toda la materia y 
+si no tienen la correlatividad este requerida no van a poder aprobar esta sí, 
+entonces para que no pierdan el tiempo. Y es el momento, ahora me parece y 
+creo que es el momento apropiado y como nos hicieron esa recomendación. 
+Algunos están en esa situación. Que no tiene, no haya probado ciencia de datos.
+01:28:14 Miguel C.P.: bueno Después bueno modelizado de minería de datos. Que 
+es la materia que hoy mañana y en los miércoles no tiene con relatividades, lo 
+
+
+
+cual no entiendo. No, no entiendo por qué pero debería tenerlas, por lo menos 
+ciencia de datos debería tener como correlativa. Un mínimo y probablemente 
+también esta materia con el listado de sistemas de inteligencia artificial, pero 
+bueno, no no tiene con relatividades, no importa yo sé que ustedes ya vienen con 
+ese con esas materias cursadas. Y les van a ayudar también con con la que 
+tenemos.
+01:28:59 Miguel C.P.: Los martes y los miércoles bueno, este era el tema que 
+quería hablar de lo que son correlatividades. Lo que eso es todo, no sé si hay algo 
+más bueno. otro tema Otro tema importante no sé si ustedes tienen alguno que 
+esté. Entre comillas a cargo de contacto alumno profesor yo les voy a pasar mi 
+número, pero para la manera de contactarnos estos para esta materia para la otra.
+01:29:36 Miguel C.P.: Es y el canal de contacto conmigo para consultas de la 
+materia en general y consultas varias son es por mail, si al mail institucional que 
+es el mismo mail del que yo les mandé a ustedes. Cuando les envío el link de la 
+clase, entonces cualquier duda cualquier consulta, no a mí no me molesta para 
+nada, para eso estoy tal vez no le pueda contestar en el momento me tome.
+01:30:06 Miguel C.P.: Me tomo un tiempo para para darles la respuesta sí, porque 
+obviamente yo también cuando no estoy dando clases este estoy con mis propias 
+cuestiones personales, entonces quédense tranquilos que leo todo lo que me 
+envían y trato de darles. Respuesta prontamente sí en la medida de las 
+posibilidades entonces el canal oficial de comunicación nuestra es por mail. Pero 
+me gustaría pasarles mi número a dos de ustedes que que sean como los 
+responsables entre comillas vuelvo a decir.
+01:30:42 Miguel C.P.: Para para tener un canal de comunicación más fluido, para 
+qué para urgencias para imprevistos si yo algún día me tengo que conectar más 
+tarde por X motivo o no puedo porque no sé. Me creé este atorado en el tráfico, 
+pongo un ejemplo burdo, pero por cualquier cosa que haya surgido y que yo les 
+tenga que decir che, chicos, miren que o alumnos miren que nos conectamos un 
+poco más tarde o que hoy se me complicó esto entonces yo quiero tener un canal 
+de comunicación que no sea el mail y que muchas veces a veces. Este se pierde y 
+no llega en el momento oportuno.
+01:31:21 Miguel C.P.: Será posible que me envíe, no sé quién te quiere tomar esa 
+responsabilidad es simplemente tener el contacto mío, yo tengo el de ellos y 
+
+
+
+tenemos ese ese nexo.
+01:31:31 Nuria A.: Yo no tengo problema en ofrecerme.
+01:31:35 Miguel C.P.: Dale Nuria perfecto. y vos Rafael Ah, bueno, perfecto, 
+ustedes quieren. Que quieren pasar su número acá por el chat, si no le molesta ya 
+si yo los agenda.
+01:31:55 Nuria A.: 
+01:32:01 Nuria A.: 115-021-1277
+01:32:04 Rafael R.R.: 1131089892
+01:32:11 Miguel C.P.: gracias, ahí está siendo Rafael Y también Nuria no, por favor, 
+estamos segundito que ya los agenda y charlamos de otra cuestión. lo mismo 
+ustedes si hay alguna cuestión este de los alumnos o Algo que me quieran hacer 
+llegar por ahí también no hay problema. un segundito
+01:32:51 Rafael R.R.: entendido
+01:33:10 Miguel C.P.: ahí te mandé Rafael ahora tejiendo a vos en Nuria y así ya te 
+Avisame si te llevo le mandé un mensaje.
+01:33:57 Miguel C.P.: Bien. Ahí te manda de Nuria también un mensaje y hago 
+Rafael te llevo ya está realizando.
+01:34:05 Nuria A.: Y perfecto recibido.
+01:34:09 Miguel C.P.: Es buenísimo, listo, bárbaro, buenísimo. Y después el mail, 
+si todos me pueden mandar un mail. No, no hay problema. Bueno, eso por un 
+lado. Después vamos a ver el programa, sí vemos el programa que es lo que 
+ustedes tienen subido subido en el aula virtual. Cualquier duda cualquier 
+pregunta lo charlamos ya la semana que viene, no, porque el martes el lunes es 
+feriado, pero la otra ya comenzamos con con lo que es el dictado de la materia. 
+Les recomiendo que los se toman el tiempo de verlo.
+01:34:56 Miguel C.P.: No, esto no va a entrar en ningún tipo de de pregunta ni de 
+examen. Sí es simplemente para que ustedes sepan, qué es lo que vamos a hacer 
+en líneas generales. Está bien. A ver si hay algo, se los voy a agrandar el año 
+pasado, había algunos alumnos que tenían problemas con las letras chicas, así 
+que ustedes avisenme si quieren que les agraden. También díganme porque tal 
+vez ahora no tanto, pero cuando empecemos a ver código capaz, la letra se 
+parece que es muy chica y bueno, la idea es que tengan.
+01:35:36 Miguel C.P.: Que puedan visualizar de manera lo más amigable posible 
+
+
+
+lo que vaya escribiendo y no tengan que forzar tanto la vista. Bueno, así que 
+tómense el trabajo para leer esto bien si ustedes. Quiero hacer algunas 
+recomendaciones. de lo que es el El de lo que es la materia sí vamos a ver el tema 
+de los objetivos de la materia. La fundamentación eso veanlo ustedes el objetivo 
+de la materia es importante es un poco a que vamos a apuntar en las clases más 
+allá después de lo que son las unidades didácticas. Bueno, hay algunos algunos 
+de los objetivos están. Son que ustedes lo van a poder si los contrastan con el 
+plan de carrera.
+01:36:37 Miguel C.P.: Están son los objetivos del plan de carrera y después hay 
+algunos que derivan de ellos sí, entonces vamos a leerlos brevemente para saber 
+a qué vamos a apuntar. En esta materia entonces analizar los datos realizar la 
+limpieza y transformaciones necesarias previas a su procesamiento. Determinar e 
+implementar las técnicas de trabajo a utilizar con los datos limpios disponibles 
+luego haberles hecho el preprocesamiento. poder aplicar distintas técnicas de 
+trabajo con esos datos ya pre procesados Realizar diferentes modelos y evaluar 
+su nivel de utilidad evaluar, posibles caminos de diseño sí evaluar en función del 
+conocimiento técnico de la experiencia del criterio de cada uno de ustedes 
+posibles caminos de diseño y yo en el tipo o cantidad de datos a utilizar.
+01:37:34 Miguel C.P.: determinar determinar el o los mejores modelos que se 
+adecuen a la solución Testear la calidad de la programación realizada bien si acá 
+también determinar el o los mejores modelos creo que hay algo que está bueno 
+que vayamos empezando a hablar muchas veces ustedes me preguntan profe 
+hago esto o hago lo otro bueno muchas veces. Yo también para que ustedes 
+puedan. Adquirir esa experiencia les exijo les pido que prueben con ambos 
+caminos, sí o que prueben de ambas formas para poder contrastar y poder ver 
+ventajas y desventajas.
+01:38:20 Miguel C.P.: Si bien estas esta carrera y la materia que nosotros 
+estamos abordando tiene conceptos y fundamentalmente y mucho más lo que es 
+minería de datos, pero tiene conceptos. Está también de álgebra de matemáticas 
+de Física el concepto de ciencias duras detrás. Muchas veces también conceptos 
+de Estadística y de probabilidad. Muchas veces la solución no es no está tallada 
+en piedra, sí o el mejor camino no está escrito en una roca y no se puede borrar o 
+hay que hacer eso, sí o sí.
+
+
+
+01:39:06 Miguel C.P.: Ustedes van a tener y ese también es el objetivo de la 
+materia que puedan desarrollar el pensamiento crítico y poder. Tener el criterio 
+suficiente en base a su experiencia y en base al conocimiento que posean para 
+poder elegir la mejor solución o la mejor alternativa está bien. También nos va a 
+venir bien el trabajo en equipo para que ustedes puedan debatir proponer ideas 
+proponer mejores soluciones y contrastar sus propios conocimientos y sus 
+propias ideas, no solamente conmigo, sino entre ustedes entonces.
+01:39:44 Miguel C.P.: Apuntamos un poco a eso sí que a veces es lo más difícil de 
+encontrar porque el código. lo digo que lo hace cualquiera porque no lo hace 
+cualquiera pero Hoy en día contamos con muchas herramientas y con muchas 
+facilidades para poder codificar y para poder ejecutar algún algoritmo 
+relativamente bien hecho. Lo que no es tan común es poder entender. El 
+momento en el cual aplicarlo y decidir por ese algoritmo o por otro algoritmo, eso 
+no es tan común y no es tan fácil de encontrarlo y las herramientas actuales de 
+Inteligencia Artificial muchas veces nos llevan a un camino un poco pantanoso en 
+el cual nos marea y nos impide saber qué hacer a continuación bueno.
+01:40:37 Miguel C.P.: La idea es que allanar un poco ese camino y tener un poco 
+más de claridad, traer un poco más de claridad en el asunto. Sí tal vez. Ahora 
+esto es muy hablado. Parece un poco abstracto, pero quédense tranquilos que 
+con el pasar de los días y verás de las clases. Esto va va a ser un poco más más 
+entendible. Bueno, específicamente se busca que los estudiantes comprendan 
+los conceptos y principios fundamentales del análisis y exploración de datos.
+01:41:13 Miguel C.P.: incluye una comprensión sólida de los tipos de datos su 
+relevancia y la metodología del análisis de datos Desarrollan habilidades en 
+limpieza y preparación de datos que esto es un poco de lo que ya se mencionaba 
+antes no? Aprenderán a identificar y corregir problemas en conjuntos de datos 
+asegurando que estén listos para el análisis, sí, cuestión que es extremadamente 
+importante y que lo vamos a ir viendo en las primeras clases.
+01:41:38 Miguel C.P.: Uno no puede ponerse a intentar encontrar insights o 
+intentar encontrar patrones en los datos o visualizaciones si antes no es un 
+trabajo de limpieza de transformación de pre procesamiento vamos a ir viendo 
+todo eso también. Y otra cosa no, por menos importante por ser la última no es 
+por eso menos importante que las anteriores es dominar herramientas de 
+
+
+
+visualización de datos. Que eso es de por demás, importante para nosotros en el 
+momento y para ustedes en el momento de la carrera, en el que se encuentran 
+como les decía están a nada determinar entonces ustedes tienen que poder 
+presentar las evaluaciones los análisis que han hecho y las conclusiones a las 
+cuales.
+01:42:29 Miguel C.P.: de una manera llamativa de una manera que este capte la 
+atención Del que los está escuchando entonces es importante dominar estas 
+herramientas. Para que ustedes puedan transmitir las ideas y todo el trabajo que 
+han hecho porque el código está bárbaro, podemos hacer 80 páginas de código. 
+Que les va a gustar a ustedes y a un programador y a otro a la lista de datos, pero 
+cuando tengan que transmitir lo que ustedes han podido concluir de nada, sirven 
+todas esas páginas de código, si ustedes no lo pueden plasmar en una idea 
+concreta en una visualización en algo que llame la atención entonces y también 
+en poder transmitirlo de la manera adecuada, entonces es fundamental y eso es 
+muy importante también porque no mucho tiempo ustedes van a estar 
+terminando y van a tener que presentar un trabajo integrador que va a requerir 
+que tengan estas habilidades, sí.
+01:43:29 Miguel C.P.: Bueno, así que eso es un poco lo que quería mencionar. 
+Bueno, estos son proyectos, pero va habilidad va conectado con lo que es lo que 
+son las visualizaciones que mencionaba anteriormente gestionar ejecutar 
+proyectos, análisis de datos. Eso va a estar relacionado con el trabajo práctico 
+que vamos a hacer. Y lo que son las habilidades de comunicación y presentación 
+que también es lo que hacía referencia. Hace un rato cuando ustedes tengan que 
+defender ese trabajo el análisis realizado, entonces hay que adaptarlo al auditorio 
+que tengan ya sea técnico o no técnico sí es lo que hace referencia aquí.
+01:44:10 Miguel C.P.: Eso también ustedes si bien muchos de ustedes 
+probablemente lo tengan como yo mencionaba hace un rato. la mayoría o muchos 
+tienen experiencia laborales, están acostumbrados a hablar ante un auditorio 
+para lo que necesiten en su trabajo, pero probablemente haya algunos de 
+ustedes, que no, entonces es muy importante que puedan empezar a perder el 
+miedo que puedan empezar a acostumbrarse a tener que hablar ante ante el 
+público Para presentar un trabajo que ustedes han hecho para transmitir una idea 
+para poder presentar algún trabajo y es también parte de los objetivos de la 
+
+
+
+materia. Después lo que son los contenidos los vamos a ir viendo. Durante el 
+desarrollo de la materia no me voy a detener.
+01:45:04 Miguel C.P.: Ustedes lo pueden lo tienen en el aula virtual después 
+peguenle una una leída, pero vamos a ir de a poco paso a paso y lo vamos a ir 
+viendo a medida que que tengamos el desarrollo de las clases, no se asusten, 
+vamos a empezar con cosas básicas. Sí, como conceptos básicos tipos de datos 
+cosas que probablemente ustedes ya sepan y ya se han visto en alguna materia.
+01:45:27 Miguel C.P.: Pero los conceptos básicos son para ver en una clase si 
+después o en una en una en una charla y muy breve un momento de la clase para 
+poder refrescar para poder verlo y después avanzamos. Así que también a 
+medida que vayamos viendo cuestiones más. más conceptuales y más 
+avanzadas, por eso les digo ustedes cuando vean el lo que es la el temario no se 
+asusten, vamos a tratar de abordar todos los temas y Hacerlo de la manera más 
+progresiva posible vamos a ver el análisis exploratorio de datos extremadamente 
+importante.
+01:46:14 Miguel C.P.: estadísticas de resumen bueno algunas transformaciones 
+normalización La idea es que lo vean ustedes después, pero bueno, vemos 
+algunas transformaciones como normalización escalamiento de datos. También 
+ver algunas métodos y técnicas como para este como la selección y extracción 
+de características para poder trabajar con bases de datos más reducidas que 
+requieran menos carga de procesamiento y tiempo de procesamiento. Bueno, 
+después una unidad muy importante y la que hace referencia a las visualizaciones.
+01:46:51 Miguel C.P.: Seguramente ustedes ya saben hacer visualizaciones 
+básicas, vamos a entrar en el trasfondo de las visualizaciones para que ustedes 
+las puedan. Manejar en en mayor o menor medida a su gusto sí que ustedes 
+puedan destacar en las visualizaciones aquello que ustedes deseen destacar y no 
+que sea una visualización genérica que termina no diciendo nada o termina 
+confundiendo más de lo que quiere transmitir entonces para ello vamos a 
+tomarnos nuestro tiempo para trabajar y ver distintas librerías para efectuar 
+visualizaciones ver las diferencias entre ellas cuando conviene utilizar alguna.
+01:47:30 Miguel C.P.: Para qué cuestiones es mejor o para qué tipo de 
+visualizaciones es mejor utilizar alguna otra? Así que también vamos a ver el tema 
+de las visualizaciones de datos. Después bueno un poco lo que es manejo de 
+
+
+
+datos y ética y privacidad de datos. vamos a ver cómo trabajar con datos 
+sensibles a analizar datos, token y usarlos bueno, cuando conviene hacerlo las 
+regulaciones que Que muchas veces obviamente no se respetan, pero que no 
+está mal, no están mal que ustedes conozcan acerca del manejo de datos.
+01:48:16 Miguel C.P.: Y bueno por último lo que es la interpretación y 
+comunicación de resultados particularmente por ser una herramienta que es de 
+fácil a que tiene una curva de aprendizaje muy rápida. yo les les voy a dar algunas 
+de algunos aspectos de Power BI para poder trabajar con dashboards o tableros 
+de comando interactivos Que nos permiten relacionar nuestras bases de datos 
+con los distintos gráficos y que sean dinámicos y está muy bueno, pero bueno, 
+hay un montón de otras herramientas yo yo también lo que quiero es que no nos 
+centremos y no nos acotemos. Específicamente a lo que yo les doy.
+01:49:01 Miguel C.P.: Esto sobre todo para más es mucho más adelante cuando 
+estemos con el trabajo práctico ustedes tienen la libertad para trabajar con las 
+herramientas que les gusten a ustedes o con los que se sientan más cómodos. yo 
+no los obligo tampoco a que ustedes la clase la sigan y utilicen el mismo lenguaje 
+que utilizo yo sí, yo le voy a hacer yo voy a trabajar con Python Por una cuestión 
+de que es un lenguaje que a mí a mi criterio es también de fácil aprendizaje y en 
+el cual la mayoría entiendo que no debería tener problemas, pero si ustedes 
+quieren trabajar con otro lo pueden hacer, está bien.
+01:49:49 Miguel C.P.: Eso también es algo que también está bueno que la agarran 
+bueno, y esta unidad 5 es más que nada lo que hace referencia a al proyecto, que 
+vamos a hacer que va a ser el trabajo práctico como plantean y cómo este 
+definen los objetivos y el problema como arman el plan de proyectos y bueno, el 
+trabajo en sí, que, que lo veremos mucho más adelante hasta que finalmente 
+terminan presentando el trabajo y comunicando.
+01:50:13 Miguel C.P.: todo ese trabajo que han efectuado que vamos a hacer 
+exposiciones por grupo algún día este en función de De los de los distintos 
+trabajos que ustedes hayan efectuado bueno, esos en líneas generales y muy 
+rápidamente el programa de la materia que pueden descargar desde el aula 
+virtual. Algunas cuestiones que también están buenas resaltar esto. requisitos de 
+regularidad sí Yo soy recontra extremadamente flexible, o sea, no entiendo que 
+no va a haber problema con esto, pero lo que pasó lista al principio y después al 
+
+
+
+final pregunto che, algunos se conectó de los que no estaba y capaz de 
+conectaron este.
+01:51:04 Miguel C.P.: En la mitad de la clase y les voy a poner presente igual 
+porque yo y el criterio que manejo es acá, está el que quiere y el que le gusta 
+aquel que viene a pasar a perder el tiempo o bueno, aunque no le interesa. Yo 
+creo que acá no se encuentra. Y después en el momento en el que tengan que 
+trabajar el que tengan que efectuar el trabajo práctico van a ser un peso para sus 
+compañeros porque no van a poder aportar nada.
+01:51:33 Miguel C.P.: y después en el examen parcial, bueno, ahí correrán por 
+cuenta propia pero La clase y la materia tanto esta como la siguiente es para 
+ustedes, o sea la idea, es que las puedan aprovechar, por supuesto que alguno 
+puede tener algún inconveniente por el cual, no pueda estar en alguna clase. Eso 
+es más que obvio, pero aquel que no quiere prestar atención o que está 
+pabeando que no, entonces.
+01:51:57 Miguel C.P.: Eso yo no puedo estar atrás de cada una de las 
+computadoras y ver qué hacen tampoco me interesa porque apero la 
+responsabilidad de cada uno. Y bueno la intención como yo les decía es que lo 
+que veamos les sirva a ustedes a futuro. Entonces aquel que este no lo quiere 
+aprovechar. Bueno, cada uno sabe lo que hace entonces yo no voy a estar con el 
+látigo por así decir y no los no los voy a perseguir en ese sentido, pero ojo con la 
+presencialidad porque yo paso lista, si no me contestó presente el alumno o tiene 
+ausente y si no tiene el 75% de aprobación no no tiene la regularidad de la 
+materia. Está bien, entonces ojo con eso, por favor. Ya soy flexible con el tema del 
+horario, pero bueno después.
+01:52:50 Miguel C.P.: Yo tampoco puedo este colocarle presente a un alumno que 
+no se conecta. Sí, qué otra cosa más bueno los temas de las notas, sí el trabajo 
+práctico. Y tanto el examen parcial el trabajo práctico es aprobado desaprobado 
+está bien el trabajo práctico es aprobado y desaprobado no tiene nota. por lo 
+menos en principio no tiene nota, después vamos a ver porque Si el examen 
+parcial no tiene las mejores calificaciones probablemente al trabajo práctico les 
+ponga les ponga condición de nota.
+01:53:32 Miguel C.P.: numérica, para que puedan promediar y levantar puntaje 
+algunos no suele suceder en todos los casos, sí, pero bueno es también para 
+
+
+
+darles una mano, si alguno está Que no puede probablemente no suceda, pero 
+bueno, se adelantarme un poco a algo que que el que el cuatrimestre pasado 
+sucedió. Entonces yo no los mato tampoco con esto sí los hago laburar eso 
+seguro. Sobre todo con el trabajo práctico, eso es a trabajar y a demostrar y 
+poner en práctica lo que vimos en clase para ambas materias.
+01:54:10 Miguel C.P.: Porque ahí para mí está el aprendizaje, ahí está el 
+aprendizaje en que ustedes puedan plasmar lo que hemos visto. Pero bueno, les 
+doy el tiempo y la libertad para que puedan trabajar encima en grupo, entonces 
+no deberían tener problemas lo adelanto a eso, pero si van a tener que trabajar 
+no es que el trabajo práctico en un día está hecho. Les voy a decir si es 
+necesario, lo iremos viendo tal vez desde alguna clase o algunas clases, si es que 
+venimos bien para que puedan trabajar con el trabajo práctico, eso es un poco 
+más adelante, pero pero lo vamos a ir charlando como para darles a ustedes un 
+adelanto de lo que se viene.
+01:54:52 Miguel C.P.: bueno Si no tienen aprobado el trabajo práctico o tienen 
+menos de cuatro en el examen parcial sí, si tienen menos de cuatro en el examen 
+parcial. Hay un recuperatorio, sí, bueno, recordatorio del examen parcial. Y el que 
+tiene el que va al recuperatorio, si se saca un 10 esto lo aclaro, ahora sí, el que va 
+al recuperatorio si en el recopilatorio es algo un 10. No tiene nota del parcial 10, la 
+nota es la menor si es 4 porque si no es injusto.
+01:55:28 Miguel C.P.: Para con aquel que aprueba en la primera instancia, el 
+parcial sí, el parcial se toma se sacaron un 8 tienen un 8 en el parcial, si alguno se 
+saca con dos va a recuperatorio y en el recuperatorio la nota máxima es la mínima 
+del parcial. Se entiende eso. Pero no es para esto igual es para dejar las cosas en 
+clara, pero no se asusten, pues no va a pasar eso estoy, seguro que no va a 
+ocurrir.
+01:55:56 Miguel C.P.: pero el que avisa no traiciona, entonces hago la aclaración 
+para No sorprender a nadie más adelante. Bueno, y si viene todo perfecto y viene 
+todo bien y llegamos al final del cuatrimestre cumplimos los objetivos de la 
+cursada fue una buena. Fue un buen cuatrimestre para todos y con ustedes con 
+un buen desempeño en el trabajo prácticos y en el parcial. el final al final hay que 
+ir, pero bueno, ahí veremos más adelante, la la manera de llevarlo adelante, que 
+no va a haber un examen en ese caso no habría un final, sino que les pasaría la 
+
+
+
+nota de cursada sí como una suerte de promoción de la materia, pero ese es el 
+caso de que Salga todo bien? Sí, así que también apelo a este el compromiso de 
+ustedes para poder llegar a ese objetivo, a mí no me cuesta nada y vamos al final 
+les tomo el examen final para mí es lo mismo el tema es si se me lo merecen no 
+llegan a distancia porque para mí la etapa de aprendizaje como les digo 
+realmente la van a demostrar en sobre todo en el trabajo práctico y después en el 
+examen parcial también, que es una formalidad, lo que pasa es que el trabajo 
+práctico para mí es lo que va a ustedes a ponerlos ante una situación lo más 
+cercana a lo que van a tener que hacer en un entorno laboral a futuro o no o tal 
+vez lo que vayan a lo que ya algunos están haciendo actualmente.
+01:57:31 Miguel C.P.: Que es trabajar con un equipo de trabajo usted nunca van a 
+programar solos se va a estar en un equipo de trabajo y van a tener. Que seguir 
+algunos lineamientos pero pero bueno, a tratar de hacer un trabajo coordinado en 
+equipo. Que es como se trabaja y como y como ustedes seguramente algunos 
+estén acostumbrados a hacerlo, así que esa para mí es la evaluación concreta de 
+la materia y si tienen un buen desempeño. Van a tener un buen desempeño en la 
+cursada a todos bueno.
+01:58:09 Miguel C.P.: Y estos son las condiciones de evaluación que es un 
+poquito lo que lo que venía hablando. sí
+01:58:27 Martín B.: En el parcial no sería lo que sería solo teórico.
+01:58:27 Miguel C.P.: en principio sí vamos en principio, por lo menos el año 
+pasado fue teórico pero No sé, vamos a ver cómo cómo viene la materia. No sé, 
+no le falta un falta un poco todavía no lo tengo armado, entonces alguien puede 
+ser que haya algo. práctico como para poder poner este O te expongan o lleven a 
+la práctica algo algo que hayamos visto que sea necesario que ustedes me 
+demuestren en código, sí van a haber conceptos teóricos sin duda eso seguro.
+01:59:00 Miguel C.P.: Conceptos teóricos para ver si ustedes dominan algún tema 
+y después a lo práctico será resolver algún ejercicio o hacer algo muy puntual. 
+Pero sí, lo práctico fuerte es el trabajo práctico que netamente práctico. Está bien 
+todo esto igual lo podemos ir charlando a medida que vayamos hablando viendo 
+las distintas las distintas clases. bueno Qué más? Voy a abrir ahí. bueno Por ella 
+está alguien tiene alguna duda alguna pregunta, me parece que es suficiente para 
+esto es importante, me parece por demás importante sentar las bases de la 
+
+
+
+materia y bueno, igualmente el cuestión es que vamos a ir charlando con el 
+transcurrir de los días y vamos a volver a repetirlas, pero bueno, es sacarles un 
+poco la ansiedad de lo que se viene.
+02:00:04 Miguel C.P.: Nuevamente les quiero transmitir tranquilidad de que es 
+una linda materia esta es la materia que viene también. este yo mientras nos 
+tratemos con respeto y
+02:00:32 Miguel C.P.: dentro de los padres de los parámetros normales de una 
+relación alumno docente  Este feliz y encantado para mí es un placer darles clase. 
+Y y lo tomo con con también con la responsabilidad, que eso representa y lo hago 
+con muchas ganas en algunas ocasiones. probablemente haya cuestiones que 
+desconozca y que y que bueno trataremos de ir solucionando y resolviendo 
+juntos, pero bueno, la idea de esto es ayudarlos a ustedes acompañarlos en este 
+proceso de aprendizaje y brindarles las mejores herramientas para para que sean 
+de utilidad para ustedes en un futuro, así que bueno, eso eso es todo por hoy no 
+sé si alguien quiere hacer alguna consulta o Hablar sobre algo en particular si no 
+damos por cerrado lo que es la clase del día de hoy.
+02:01:12 Hernán H.: una una consulta
+02:01:12 Miguel C.P.: bueno, yo en particular trabajo yo soy militar trabajo en que 
+entiendo que han
+02:01:14 Hernán H.: Eh, no creo, clarísimo. Gracias por toda la explicación, así que 
+está todo aclarado por por lo menos por mi cuenta no consultarte a vos cómo 
+llegaste de Ingeniero eh? Electrónico a ciencia de datos y si estuviste en ese 
+camino si estás inaugurando ahora en eso.
+02:01:41 Miguel C.P.: tenido algún algunos docentes que también lo son yo soy 
+capitán en el ejército y aparte ingeniero, bueno, ingeniero Electrónico estoy en 
+mar del plata trabajo particularmente en una unidad que hace mantenimiento 
+preventivo y correctivo de distintos sistemas de armas que acá Mar de Plata son 
+todos antiaéreos son sistemas De radares y por supuesto los cañones y los 
+misiles que van acompañados a esos sistemas de radares. y nosotros lo que 
+hacemos es el mantenimiento preventivo y correctivo de esos sistemas, lo cual 
+implica un montón de actividades entre ellas particularmente yo acompañado 
+también por Por algunos ingenieros que estaban que estaban ya trabajando en 
+donde estoy actualmente.
+
+
+
+02:02:32 Miguel C.P.: La idea fue incorporar conceptos de ciencia de datos a las 
+actividades de mantenimiento y principalmente. de minería de datos al 
+mantenimiento de estos distintos sistemas, entonces hay algunas técnicas y 
+algunas herramientas que pueden utilizarse por las cuales les a estos a estos 
+sistemas les podemos predecir las actividades de mantenimiento sí, en función 
+de las horas de uso de la de las posibilidades de que algunos componentes 
+críticos fallen o no, entonces bueno, eso es un trabajo que que se empieza desde 
+cero porque hay material que que todo esto no sea así previamente se solía hacer 
+con con la experiencia de los distintos técnicos que trabajaban, pero nunca 
+aprovechando las distintas herramientas de machine learning y de inteligencia 
+artificial para poder predecir las distintas actividades de mantenimiento y poder 
+hacer un trabajo de planeamiento en lo que respecta al mantenimiento más más 
+más certero tengamos en cuenta que hay muchos muchos materiales que tienen 
+muchos años y Y muchas veces uno carece de todos los elementos de juicio para 
+poder efectuarles el mantenimiento adecuado entonces la verdad que este 
+camino fue un poco motivado por esos ingenieros y bueno.
+02:04:06 Miguel C.P.: en principio empezamos y bueno, la verdad que me 
+apasionó porque era un mundo que no lo desconocía completamente, pero 
+empecé a dimensionar un poco las las bondades y como yo les mencionaba hace 
+un rato que que es multidimensional el trabajo que pueden hacer con análisis de 
+datos y abarca todas las áreas y todos los rubros incluido un rubro que Que es el 
+militar que probablemente muchos de ustedes desconozcan, pero si ya se puede 
+aplicar a lo militar de quien sea tranquilos que se puede aplicar a lo que ustedes 
+este este haciendo y efectuando, no, entonces bueno, fue motivado por ellos y 
+después un compañero mío, que entiendo que también está.
+02:04:58 Miguel C.P.: está dando clases en el instituto, me me aconsejó 
+postularme para Para dar estas estas materias no pagar estas materias, sino para 
+presentarme para poder ser parte del staff docente del Instituto y bueno, fue 
+también otra. Otra otro desafío el hecho de poder prepararme para dar clases, lo 
+cual no es. Si bien, yo estar acostumbrado a dar clases habitualmente desde 
+desde muy joven desde que yo entré al al ejército uno da clase, pero bueno, 
+obviamente no es no es lo mismo que que este tipo de carreras y este tipo de 
+perfil que es mucho más específico en un área como la que hay ciencia de datos 
+
+
+
+y bueno, fue otro desafío el poder.
+02:05:40 Miguel C.P.: Capacitarme desde el punto de vista de la didáctica no 
+como para poder darle este tipo de de clases, pero bueno todo lo que es el 
+conocimiento mío de lo que es la ciencia de datos doy clic aquí en mi trabajo 
+actual y bueno obviamente en mi quehacer cotidiano, así que lo que puedo lo que 
+puedo asegurarte es que es aplicable a un montón de rubros y y de distintos 
+tipos de trabajos como los que ustedes.
+02:06:11 Miguel C.P.: Y la experiencia como lo que ustedes pueden traer por eso 
+bienvenido sea que que seamos un grupo tan diverso incluido algunos de ustedes 
+que mencionaban. no recuerdo exactamente el nombre ya los voy a ir 
+conociendo, pero que fue profesor profesora de música también Rubén que que 
+me pasó el número que queda economía y es profesor de economía porque En lo 
+que ustedes piensen que pueden aplicar ciencia de datos, lo pueden hacer este 
+no no existe una rama ni un área que no va a estar involucrada en lo que es el 
+análisis de datos, porque todo lo que nosotros hacemos genera datos.
+02:06:47 Miguel C.P.: Todo lo que nosotros hacemos genera datos y nosotros 
+tenemos que aprovecharlo, no. Y bueno es lo que lo que vamos a ir viendo con el 
+correr de de los días y espero poder transmitirles lo mejor que pueda los 
+conocimientos que yo tengo.
+02:07:03 Hernán H.: Bueno, buenísimo, profe, muchas gracias.
+02:07:09 Miguel C.P.: No, por favor bueno. un placer para mí nuevamente muy 
+contento de contar con ustedes sé que vamos a tener un buen cuatrimestre por 
+delante, me van a escuchar a hablar mucho soy de hablar bastante durante las 
+clases con los contenidos de la materia, no, pero pero bueno, son son cosas 
+lindas y muy interesantes, a mí me gustaba eso cuando yo era alumno me 
+gustaba que me transmitan cosas útiles y pasan por van a pasar por En su carrera 
+y ya deben haber pasado por un poco de todo, hay matices, no? Y hay profesores 
+distintos y bueno.
+02:07:49 Miguel C.P.: Espero que nos podamos acomodar que sé que no va a 
+haber problema, pero pero bueno, que tengan la total confianza conmigo de que 
+las clases las trató de armar para ustedes sí y para que aprovechamiento suyo no 
+para para que pasen así nomás y para que sea una más una una materia más. 
+Bueno, por hoy ya estamos entonces la con los que siguen mañana nos vemos a 
+
+
+
+las 20. Yo me conecto a las 20 en punto estoy conectado sí, y con los que no nos 
+vemos, no, el lunes que viene sino el siguiente. Está bien.
+02:08:30 Facundo M.: Bueno, profe, gracias, nos vemos mañana.
+02:08:33 Solange D.: Gracias profe.
+02:08:33 Miguel C.P.: Buenísimo, gracias a ustedes.
+02:08:33 Hernán H.: 
+02:08:36 Diego A.: Nos vemos!
+02:08:38 Gonzalo J.: Gracias profe.
+02:08:38 Solange K.W.: Muchas gracias, hasta mañana.
+02:08:43 Facundo M.: Chao chicos
+02:08:43 Victoria S.: Buenas noches.
+02:08:45 Nuria A.: Gracias profe.
+
+View original transcript at Tactiq.
