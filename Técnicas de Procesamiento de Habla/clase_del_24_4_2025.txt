@@ -1,0 +1,418 @@
+# Meeting Transcription
+
+  Meeting started: 24/4/2025, 06:55:17
+  Duration: 131 minutes
+  Participants: Deisy Rios, Emilce Alconz, ERICA BARROS, Facundo Michilini, Hernán Hamra, Lorena Sierra, Mabel Estela Escobar, Martin Badino, Rafael Rubiano Ramirez, Solange Demey, Solange K. Wladimirsky, Victoria Spandonari
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/y4f3iq7ncJx1PoTR5nAL?o=txt)
+
+  
+
+  
+  
+  
+    ## Highlights
+
+    > 01:20:25 Mabel Estela Escobar: https://colab.research.google.com/github/lageniaestela/12demayo/blob/master/Lena2.ipynb
+
+  ## Transcript
+
+  00:00 Mabel Estela Escobar: Muy bien.
+00:28 Mabel Estela Escobar: Bueno, a ver, vamos a hacer un pre entrenamiento del examen. Quisiera que estén todos y Vamos a ver quién se prende. Pongo un ratito de música hasta que lleguen todos, sí, cuántos somos muy poca gente.
+00:52 Martin Badino: Si somos seis al final tenemos que poner cuánto era 10 pesos para la fotocopias.
+01:01 Mabel Estela Escobar: Sí, no sé cuánto sale una fotocopia. Yo estoy en alerta máxima. Estoy en rojo, hace mucho que no me pasaba esto si no tener nada. Pero en serio? Dolorosamente muchas cosas han pasado. que te ponen contra el
+01:34 Martin Badino: pero pero de qué estás hablando pero
+01:37 Mabel Estela Escobar: No, que si en otro momento es uno le cobraba.
+01:39 Speaker: Hola, estoy transcribiendo esta llamada con mi extensión Tactiq AI: https://tactiq.io/r/transcribing
+01:52 Mabel Estela Escobar: Bueno, vamos a ver. La otra semana tenemos a ver cuando dijimos. posicionamiento del habla
+02:38 Mabel Estela Escobar: parciales la semana del 8 18 9 10 el 11 voy a poner
+04:18 Mabel Estela Escobar: a ver
+06:29 Mabel Estela Escobar: Bueno, ya iniciamos.
+09:39 Mabel Estela Escobar: Bueno, ya estamos. 17 ya estamos. Muy bien. Según el calendario tenemos un tenemos que tener para el día 8. La semana del 8 de mayo sería un parcial examen parcial. más que nada es Lo que veníamos viendo con preguntas y yo les voy a subir ahora. Un pre entrenamiento en la plataforma y ustedes tienen que decir que el verdadero o falso hay algunos que sí trabajaron. Bueno, mandé algunos cursos. Sí, creo que ustedes no le mande no le mande un cuestionario. Le voy a mandar ahora un cuestionario para que solito lo hagan, sí.
+10:49 Mabel Estela Escobar: Es para medir cómo están? Sí, es un son diez preguntas nada más con opciones. En base a esas preguntas lo van a hacer iguales obviamente para el examen. vamos a poner Y entre todo lo vamos a responder, sí. Después al final.
+11:17 Facundo Michilini: Erica, tenés el mic abierto!
+11:17 Mabel Estela Escobar: al espacio A Erika tener el abierto y no no me escuchaba algo. Pensaba que era yo sí. Ahí está. Bueno, ahora le subo con total honestidad chicos, no va con otra este para
+11:35 ERICA BARROS: gracias
+11:37 Mabel Estela Escobar: ustedes. Y lo hacemos entre todo después al final sí. Tenemos que ver. los chatbots que están presentes Para que hagamos un también una prueba con los chatbots encontramos un agente inteligente con otro grupo que le corrijo algo es con base y no en base.
+12:02 Rafael Rubiano Ramirez: disculpe Mabel le corrijo algo es con Base y no en base.
+12:10 Mabel Estela Escobar: No entendí. Cómo que es con base y no es sin base? no
+12:17 Rafael Rubiano Ramirez: Va a haber discúlpeme, por favor, es que el envase no es, es con base con base a los conocimientos que se tengan previos, discúlpeme la corrección, por favor.
+12:30 Facundo Michilini: Igual Rafael nosotros, acá, usamos mucho el envase. A no sé, digo se usa un montón.
+12:36 Rafael Rubiano Ramirez: sí no, yo sé no no no
+12:37 Mabel Estela Escobar: no
+12:43 Solange K. Wladimirsky: en base
+12:43 Facundo Michilini: Sí, sí.
+12:44 Mabel Estela Escobar: Bueno, puede ser. Digamos, yo tendríamos que ver cómo sería el uso correcto a
+12:46 Rafael Rubiano Ramirez: ok
+12:52 Mabel Estela Escobar: veces uno tiene modismo propio del idioma también sí, regionalismo. Ahora le subo gracias por la corrección. Veremos alguien quiere quién quiere ser el copiloto. Porque yo conozco comparto pantalla. No puedo ver bueno, ahí está la trivia. Sí, ustedes. A ver si puedo habilita un foro, cómo se puede hacer? añadir un recurso, ya están las preguntitas a ver si la puedo poner como Como lo puedo subir a ver archivos área de medios.
+13:38 Mabel Estela Escobar: certificado
+13:40 Hernán Hamra: Pero fue es un link, no lo puede mandar por acá por la parte de mensajes. En vez de subirlo a la plataforma.
+13:47 Mabel Estela Escobar: Y a ver si te lo puedo mandar. Lo acabo de subir a la plataforma, sí. ustedes cómo lo hacemos para que Me quede a mí la respuesta. A ver, preguntas ahí les paso el link. Ahí les paso el link en el aula virtual con total honestidad no, no va con nota. Sí, sino vamos a medir, no? Cómo estamos? bien, y ahí hacemos preguntas en clase y Nos quedamos tranquilos que no es nada del otro mundo. Ahí les paso la la trivia, sí.
+14:37 Mabel Estela Escobar: admitir bueno control B
+14:43 Mabel Estela Escobar: https://aulasvirtuales.bue.edu.ar/mod/quiz/view.php?id=685745
+14:45 Mabel Estela Escobar: Y bueno, después me saco la duda, sí. A qué gran pregunta a ver cómo será ahí? Está, lo pueden ver, está visible también eso también me
+14:59 Facundo Michilini: Si lo podemos ver, pero no se puede responder ahí.
+15:03 Mabel Estela Escobar: Sí, a ver cómo a ver cómo podemos hacer para que quede ya sé que vamos a hacer. Voy a mandeme un mail, sí, con todas las opciones rápido sí, en para ustedes sí manden un mail a mi correo. Porque no se lo puede modificar para exponer preguntas me dice. Bueno, me mandan un mail con la respuesta a Bs pongan el nombre, sí. Después está a veces uno a dos B por decir 13. No le voy a corregir, sí. Es para ver cómo está. Bueno, empecemos estamos todos falta gente. Falta gente. Ya estamos bueno, primera pregunta.
+15:59 Facundo Michilini: Si no puedes hacer un kahoot, si quieres, bueno, no sé qué tan rápido se puede hacer, pero bueno, nunca hice uno.
+16:04 Mabel Estela Escobar: En el caso. Creo que hay que es pago el kahoot.
+16:09 Facundo Michilini: No tenés una versión gratuita y paga.
+16:14 Mabel Estela Escobar: Son gratuitas. Al caso estaría bueno.
+16:18 Facundo Michilini: Si tienes una que dice singap free y ahí te puedes hacer una gratuita si no tienes para business teacher students.
+16:25 Mabel Estela Escobar: Ah, bueno, estaría bueno, no? Bueno, no. Podríamos hacer una competencia con kahoot, no? pues enterprint te pido un pin de juego
+16:43 Facundo Michilini: no es kahoot.com el pin es
+16:49 Mabel Estela Escobar: bueno
+16:52 Facundo Michilini: punto y tres cuando ya hiciste el juego
+16:56 Mabel Estela Escobar: Ya existe el juego bueno, vamos a ver si es.
+16:59 Facundo Michilini: Ves que dice sin app free.
+17:04 Mabel Estela Escobar: A ver, vamos a ver capaz, que estoy entrando mal. sí, pero estaría bueno que lo Compartí toda la pantalla estaría. Bueno sí.
+17:16 Facundo Michilini: red de
+17:18 Mabel Estela Escobar: A ver, es este. punto com
+17:25 Facundo Michilini: claro
+17:29 Mabel Estela Escobar: Será que se puede bueno, ahí podemos hacer la competencia. Yo no no sabía yo pensaba que era. pago sí, en el mercado libre no, en digital house para trabajar con mercadolibre teníamos que Pagar tenía entendido que era pago. Veamos si puede. Si puedo lo hacemos y vemos quién estaría interesante sí, registrarse a ver. Bueno, dejo de compartir, si no tiene no tiene chance. Claro, le doy la respuesta.
+18:23 Mabel Estela Escobar: este Veamos si puedo a ver. Nada, si me pide plata me pide plata chicos, si yo sabía que era el pago.
+18:38 Facundo Michilini: Como puede ser todo con plata en esta vida.
+18:38 Mabel Estela Escobar: Todo todo todo ya en la en la pandemia era gratuito tal vez, pero ya no me acuerdo que yo quise hacerlo ahí está. Es pago, no, no hay chance.
+18:56 Facundo Michilini: Para para capaz porque le pusiste profesor. A la familia en Friends a ver este education.
+19:04 Mabel Estela Escobar: A todo les pide lo mismo.
+19:04 Rafael Rubiano Ramirez: estudiante
+19:09 Mabel Estela Escobar: estudiante a ver bueno
+19:15 Facundo Michilini: Sí, pero acá en la página principal dice pues para estudiantes 399 al mes.
+19:21 Mabel Estela Escobar: también No, que si yo sabía que era. No importa. Hagamos las preguntas. No importa no importa la vamos a hacer a las preguntas con así a pulmón.
+19:48 Facundo Michilini: Acá hay una que dice free para acá hay uno que dice free a ver, dice content.
+19:49 Rafael Rubiano Ramirez: Hay uno gratis yo lo utilizo mucho.
+19:51 Mabel Estela Escobar: A ver cuál?
+19:53 Facundo Michilini: Para te tiro el link acá.
+20:01 Mabel Estela Escobar: A ver qué es otra, verdad?
+20:04 Facundo Michilini: https://kahoot.com/register/pricing-personal/
+20:05 Facundo Michilini: No, pero hay una parte donde hay una una opción bien básica que dice free y dice start.
+20:14 Mabel Estela Escobar: no a ver, se me apaga la
+20:27 Facundo Michilini: Mateo quiz question type si está con tilde
+20:34 Mabel Estela Escobar: Sí, a ver.
+20:35 Facundo Michilini: 1 participantes apton Challenge 10, ah, pero solamente pueden participar 10 a la vez me parece
+20:48 Mabel Estela Escobar: agua online bueno no gratis
+20:57 Facundo Michilini: y si no puedes hacer una encuesta de WhatsApp
+21:00 Mabel Estela Escobar: encuesta de WhatsApp son 12 preguntas
+21:04 Facundo Michilini: querés de la arma A ver si puedo.
+21:11 Martin Badino: De verdad está bien.
+21:11 Mabel Estela Escobar: la pueden
+21:14 Facundo Michilini: Bueno, esperar mejor. No me acuerdo cómo se hace.
+21:23 Mabel Estela Escobar: Creo que dice crear encuesta, hay como un ganchito y te dice crear encuesta a ver si la puedo hacer con esta allá.
+21:37 Facundo Michilini: esto Bien, bien, bien.
+21:44 Mabel Estela Escobar: si no me Si me pide plata.
+21:46 Facundo Michilini: Estoy donde estoy dónde está la aula virtual.
+22:18 Mabel Estela Escobar: Ahí está.
+22:23 Facundo Michilini: preguntas uno Ahí tiene la primera pregunta, vamos con las dos.
+22:38 Mabel Estela Escobar: A ver la 1. qué función tiene que inicializador en LTK Nos vamos viendo. Allá que no la puedo usar. Voy a poner la musiquita de la trivia, esta que Ahí voy a poner la música.
+23:14 Solange K. Wladimirsky: Ah, ok, gracias.
+23:16 Facundo Michilini: WhatsApp
+23:17 Mabel Estela Escobar: En el whatsapp están en el whatsapp. Ahí va, voy a poner la musiquita a ver si me deja poner. Ahí va como chiquita de fondo. a ver, le pongamos que cronómetro a mi celular Debe haber un cronómetro.
+23:54 Facundo Michilini: Mandamos que termine si no, no puedo, sino no puedo responder.
+23:56 Mabel Estela Escobar: no, no Le avisaron cuando termine y pongo el cronómetro, entonces estoy buscando uno que sea online.
+24:03 Facundo Michilini: bueno
+24:05 Mabel Estela Escobar: cronómetro online Se escucha la música, verdad?
+24:20 Facundo Michilini: no
+24:24 Martin Badino: qué música
+24:26 Deisy Rios: No profe, no se escucha.
+24:28 Mabel Estela Escobar: Nada, bueno poner una música de suspenso. Yo nada, mal escucho yo. Bueno, a ver cuánto ponemos.
+24:52 Facundo Michilini: Ya casi termino.
+25:12 Facundo Michilini: listo listo
+25:29 Martin Badino: que diga a Facundo
+25:31 Facundo Michilini: la profesora
+25:33 Mabel Estela Escobar: Espera, espera, espera. el cronómetro 10 minutos arrancamos
+26:50 Solange K. Wladimirsky: Te puedo hacer una pregunta? El trabajo lo subimos al mosaico, o sea, donde estaba para subir el trabajo 3.
+27:03 Mabel Estela Escobar: El trabajo tres a ver, ya me voy a pagar la música porque está matando. listo el trabajo 3
+27:15 Solange K. Wladimirsky: Que el último trabajo y mosaico había que subirlo porque al mosaico donde correspondía no había para subir. No estaba la posibilidad de subir tampoco por lo menos a mí me pasó eso.
+27:22 Mabel Estela Escobar: Sí, no me está dejando subir los chicos, me mandaron al mail de algunos chicos. Me mandaron el
+27:29 Solange K. Wladimirsky: Pero nosotros este hoy algunos chicos, te lo mandamos en donde estaba el trabajo anterior, o sea, subimos el trabajo tres y el cuatro.
+27:36 Mabel Estela Escobar: Ahí lo subieron bien ahí.
+27:37 Solange K. Wladimirsky: sí
+27:42 Mabel Estela Escobar: Ahí me fijo, así que quedó. a ver Vamos dos minutos, sí quedan tres. Busquen, busquen.
+28:07 Hernán Hamra: de verdad profe como está en el
+28:09 Mabel Estela Escobar: sí
+28:11 Hernán Hamra: Como está en el whatsapp las respuestas de todo se ven y creo que ya la gran mayoría terminó con todo, no sé si alguien ya. Sigue.
+28:21 Mabel Estela Escobar: Ya terminando.
+28:24 Hernán Hamra: Sigue haciendo las preguntas y gracias, facuche ahí como resolviste.
+28:31 Facundo Michilini: por favor
+28:31 Mabel Estela Escobar: Hay faltan? Gracias, faltan dos hay 19 en la primera. Creo que está faltando gente por contestar. hay 15 a 15 si está faltando gente con
+28:48 Facundo Michilini: subo algunas que no respondí porque O sea, como no quería hacer trampa y no la sabía, prefería no responderla.
+28:55 Mabel Estela Escobar: Bueno, entonces dejamos acá, dale bueno, cortamos un poquito. Ah, entonces lo que no saben dejaron sin contestar. Bueno, menos de menos de tres minutos veamos, qué es lo que hay? Veamos qué es lo que tenemos? A ver, que estoy compartiendo el whatsapp.
+29:18 Emilce Alconz: sí WhatsApp
+29:18 Mabel Estela Escobar: bueno ahí está, qué función tiene el tokenizador en en LTK clasificar sentimientos en un texto dividir el texto en palabra o frase eliminar palabras vacías traducir entre idiomas Dividir el texto en frase o palabra en palabra o frases bien vamos con el otro y todos pusieron esa. El que no diga el que no la puso a la respuesta ya. Va notando sí, cuál de los siguientes tareas se puede realizar con nltk? entrenar redes neuronales convolucionales generar imágenes a partir de un texto etiquetar palabras con su categoría gramatical que al interfaces gráficas la número C La opción C sí bien tenés hace un análisis gramatical. Vamos a ver la red de convolucionales más que nada es para imágenes.
+30:30 Mabel Estela Escobar: qué método se usa para reducir una palabra a su forma en NTK a su forma base en LTK fragmentación segmentación agrupamiento lematización La B bien vamos con la otra. Cuál es la utilidad principal de la transformada de Fourier incrementar la resolución de una imagen? Separaron las señales su frecuencias componentes enviar señales de audio por bluetooth. qué más tenemos a ver, ya me deja pasar eliminar imágenes duplicadas bueno, a la vez se ve que qué ventajas tiene la FFT sobre la DFT mayor precisión en imágenes menor distorsión en audio es computacionalmente más eficiente es más visual la Sí, vamos con vamos con la otra.
+31:43 Mabel Estela Escobar: donde se aplica frecuentemente la transformada de Fourier solo en astronomía en el análisis de espectros de audio en navegación GPS en modelado 3D en el análisis de espectro de audio bien Vamos con la otra, qué características del sonido está determinada en la por la frecuencia. El volumen el timbre la duración el tono sí, la frecuencia maneja el tono. modela el tono Qué unidad se usa para medir la intensidad sonora? Hearts Newton decibelios pascales la 13 13 preguntas correctas decibelios sí densidad sonora se miden decibelios decibeles Qué factor influye en el timbre de un sonido la frecuencia fundamental y sus armónicos el número de palabras por segundo? la calidad del micrófono la forma de la onda cuadrada la a sí la fundamental y sus armónicos son los que influyen el timbre de Un sonido bien. Bueno, muy bien la gran mayoría sí, lo que no contestaron.
+33:10 Mabel Estela Escobar: Sí, un pequeño repaso. a la temática así de la transformada de Fourier Casi todo contestaron sí. Bastante bien muy bien, quién llega ahí?
+33:28 Hernán Hamra: Profe así va a ser la evaluación del 8.
+33:34 Mabel Estela Escobar: Bueno, acá no pude incluir código el 8 va a ser algo así.
+33:36 Hernán Hamra: Y mirar digamos.
+33:39 Mabel Estela Escobar: similar similar
+33:42 Hernán Hamra: Pasar de múltiples y va a haber algo algo que desarrollar o algo nada.
+33:48 Mabel Estela Escobar: Sí, yo le di a los chicos probar un código, sí, yo les doy el código y ustedes me tienen que decir qué es lo que hace, sí. el año pasado yo les di un trocito de código ellos lo corrieron en tiempo en la máquina en Google colapse y me decían este nlt K Trabaja con lematización sí y yo les daba.
+34:16 Hernán Hamra: pero vamos a hacer la prueba escrita o va a ser en una máquina porque es difícil a veces considera ya como lo tiene proyectado Pro
+34:26 Mabel Estela Escobar: Bueno, si yo no consigo máquinas, yo voy a tener dos puntos una dos hojas y si no consigo máquina. Las preguntas verdadero o falso si consigo las máquinas voy a ver si nos prestan. Pero creo que no, no vamos a conseguir máquinas. Sí este va a ser también en LTK una pregunta de nlt k cual es en Python la definición formal en LTK sí, una pregunta así de bastante sencilla con respecto a Códigos sí, alguna pregunta, si no hay computadora seguramente va a ser.
+35:12 Mabel Estela Escobar: le muestro el resultado y ustedes me dicen que es Pues no vamos a poder este hacerlo correr donde tengo el examen. Va a ser sencillo chico, no nada del otro mundo a ver el examen, dónde está?
+35:31 Solange K. Wladimirsky: Procede una consulta nos vas a pasar una punta o algo por el estilo?
+35:31 Mabel Estela Escobar: bueno
+35:41 Solange K. Wladimirsky: o
+35:41 Mabel Estela Escobar: hay unas diapositivas la pasé un
+35:43 Solange K. Wladimirsky: dónde está
+35:47 Mabel Estela Escobar: No te llegó un mes, creo que mande un mail colas de un repaso y mande una
+35:50 Solange K. Wladimirsky: a ver
+35:53 Mabel Estela Escobar: pequeña teoría puede ser.
+35:55 Solange K. Wladimirsky: Buenísimo, yo me fijo, gracias.
+35:57 Mabel Estela Escobar: Debe estar en el mail a ver el año pasado como fue el ex, a ver si la puedo mover este mouse ya se está quedando sin pilas. Sí, yo le daba un trocito de programación. Y con los resultados bien le daba el trocito pegado de programación, a ver si lo puedo agregar control más. sí, yo les daba el trocito de la captura de pantalla, pues no lo voy a poder hacer correr y Qué es lo que hace el programa? Qué es lo que hace? Por ejemplo en este caso? es una excelente biblioteca, me separa la La frase sí, en LK es un excelente biblioteca para el procesamiento de lenguaje natural y ahí. Me va separando frase por frase. No le voy a dar códigos. Sí, este para hacer en máquina, va a ser imposible.
+37:09 Mabel Estela Escobar: Que ustedes me digan que lo que estoy haciendo sí, toqué nizando una frase. Qué más hubo el año pasado fueron dos nada más. A ver, acá que tenemos. Que tenemos acá en la otra. bueno Este que tenía este. Bueno, bien, sencillo, sí, hola, este es un ejemplo de síntesis de voz. Sí, qué librería está usando. Bien, qué librería está usando una pregunta. Sí sí. TTS para que servían los TTS Tec to speech detecto a vos las TTS Recuerden una programación segmento de programación que lo que hace. Toma un texto y reproduce la voz.
+38:31 Mabel Estela Escobar: sí, una pregunta de esas sí las TTS Bien gtts y nada más. Sí no van a tener que trabajar en máquina. Entonces aprendan ser cuales son las bibliotecas, sí propias de texto a voz y de voz a texto. Nada más. Está bien, yo creo que está accesible o no hay que leer un poquito nomás. Dónde están?
+39:09 Facundo Michilini: Profe consulta a mí no, a mí no me llegó eso del resumen y no sé qué cuando lo mandaste.
+39:16 Solange K. Wladimirsky: A mí tampoco sí exacto.
+39:16 Lorena Sierra: a mi tampoco
+39:18 Deisy Rios: Tampoco profe.
+39:19 Mabel Estela Escobar: a ver
+39:19 Emilce Alconz: Yo recuerdo que había subido un link de Camba puede ser una presentación en el
+39:25 Mabel Estela Escobar: sí
+39:25 Emilce Alconz: mosaico.
+39:28 Facundo Michilini: Ah, es eso.
+39:33 Mabel Estela Escobar: Sí, sí.
+39:33 Facundo Michilini: Camba design establecimiento Okay, ahí está todo entonces.
+39:36 Mabel Estela Escobar: Está todo esto es un resumen.
+39:39 Facundo Michilini: Buenísimo.
+39:41 Mabel Estela Escobar: Es un resumen, o sea, es un resumen, después tienen que leer por aparte ustedes
+39:46 Emilce Alconz: https://www.canva.com/design/DAGSjXC8cbk/EWhVfECztnTtfig8dnluVA/edit
+39:47 Mabel Estela Escobar: y que quieren enriquecer. así hay trabajos prácticos que hicieron ustedes que están buenísimos y hay compañeros que se En este instituto a ver.
+40:11 Emilce Alconz: Si hay trabajos que que los que hicimos para entregar que muchas de las preguntas que hizo en el cuestionario eran de ahí.
+40:19 Mabel Estela Escobar: si eran, pero es más, hay compañeros que hicieron yo les preguntaba dónde está ese diseñador de Diapositiva a mí me cuestan, pero mucho tiempo creo que me lleva más tiempo hacer la diapositiva que estudiar el tema sí. Me espero, sí, hay una materia final que debo de tengo que presentar y me cuesta muchísimo hacer en las presentaciones. Bueno, acá está el repaso. Sí son unas cuantas diapositivas.
+40:53 Mabel Estela Escobar: Había un compañero que se habían puesto a trabajar con mejores gráficas que yo. sí A ver si dejo de compartir. Está todo en las diapositivas de paso a la presentación. A ver si le puedo pasar. Son estos temas. presentar furier análisis de sentimientos resumen de los temas a cubrir sonido Frecuencia muestreo n LTP bueno el proceso era una gráfica aplicaciones traducción, qué es lo que se puede trabajar con PNL transformada de furiel? análisis sentimiento y con nltk natural language, tool kit así se define el nltk Después continúa con furiel, la FFT sí, los espectrogramas que se pueden lograr con Python gracias furiel.
+42:12 Mabel Estela Escobar: El espectro de sonido sí, el espectro de sonido con respecto a la visualización en el tiempo y en el ave y en el espacio alguien quiere entrar. Así que es cuestión de dedicarle un tiempito. Tal vez una tarde, sí, bueno, esta esta ecuación no le voy a tomar. este es la ecuación del área bajo la curva acá en el infinito, cómo se Modela puré el espectro de sonido.
+42:57 Mabel Estela Escobar: biometría de la voz análisis de sentimientos toquenización le matización esto sí tienen que leer si esta definición es alguna pregunta puede ir En el Ateca otra vez. Vader que significa balancear diccionario sentiment Reasoner debe ser la pronunciación sí qué es lo que significa Vader Bueno, biometría, la voz no tanto esto sí. algoritmo de toque iniciación bueno conocerlo nada más, sí Cierro acá estos son el resumen de tema. Ahí está. Y hay un dos, sí había un resumen también.
+44:03 Mabel Estela Escobar: https://docs.google.com/document/d/1Prgcy9TLFJkmGYqZTrdIRdHQH_cuWDEa/edit?usp=drivesdk&ouid=107305655666961455904&rtpof=true&sd=true
+44:05 Mabel Estela Escobar: Yo lo pasé yo esto es. No, esto no voy a pasar esto. Esto no, ese es un es el examen del año pasado, sí. Bueno, di dos temas, así que bueno, voy a modificar el otro, pero bien interesante, sí. Ya voy a ver si podemos hacer una trivia para otros temas. Entonces gente sin miedo a leer sí hay compañeros que el primer trabajo práctico que hicieron en las presentaciones están geniales. Ya les voy a mostrar. Y hay vídeos también, sí. No se queden solamente trabajos práctico. Hay muchos trabajos prácticos muy buenos.
+45:07 Mabel Estela Escobar: Sí, bueno, tengo el parcial. Bueno, tengo más tengo más modelos y después voy a ver si les puedo dar otro modelo más, sí. Con que ustedes hagan los práctico y lo lean, ya tienen, no? Re bien, digamos, me parece, no los que han venido haciendo la materia y han seguido haciendo los prácticos con el grupo. Y se han leído, no le va a ir mal, no? No creo que le vaya mal, sí. Difícilmente te va a llamar.
+45:35 Hernán Hamra: una consulta
+45:39 Mabel Estela Escobar: Sí, sí te escucho.
+45:42 Hernán Hamra: Con el grupo en el trabajo práctico hicimos un código de con el ver que estuvo bastante interesante lo que hicimos es el análisis de sentimiento y hicimos una forma para poder poner las palabras claves de búsquedas y diferentes plataformas tipo Google Google notchis, no me acuerdo bien como como se llamaba la plataforma y para NOx y Zamora para para hacer el procesamiento un poquito más potente la consulta es la siguiente.
+46:15 Mabel Estela Escobar: A llegar.
+46:18 Hernán Hamra: Corrimos todo el código y salió todo bien, descargábamos el Google el Google notice, creo que sí se llama la plataforma, deja descargar 100 notas por día y podíamos descargar los epígrafes para no tener que estar procesando tanto y elegimos un tema para se puede elegir cualquiera porque lo lo llegamos a programar de esa forma y elegimos un tema que era el tema cuando salió el tema del levantamiento del cepo para ver si era positivo o negativo.
+46:47 Hernán Hamra: Entonces, la discusión que teníamos acá salió y era el 70 por ciento negativo. Y 2020 por ciento positivo y 5% es eso en ese momento obviamente ahora podría cambiar el tema. La pregunta era cuando hace el análisis de sentimiento, es solamente un sentimiento no dice si la medida es buena o es mala. Se entiende cuál es la pregunta porque bien podría ser que el sentimiento sea negativo, pero estén de acuerdo con que hayan levantado el cepo.
+47:26 Hernán Hamra: Entonces, cuál sería el alcance para poder usar el Vert para qué temas sí usar y para qué temas no usar? Porque una cosa es me diera aceptación o rechazo, pero esto no es en la aceptación o rechazo de la medida si hacemos la búsqueda de por ejemplo dólar cepo y y la reacción de la gente frente a eso. De las de las noticias no de la gente.
+47:51 Mabel Estela Escobar: es que bueno Un bueno el muestreo recordarte que el muestreo depende de la población que vos tenés capaz, que la población que has tomado no era un buen referente para que el ser para tomar una tendencia a toda la población sí tiene que buscar. para qué sirve el
+48:12 Hernán Hamra: La pregunta es otra. la pregunta es otra la pregunta es
+48:16 Mabel Estela Escobar: Fue buena llegó buena las mediciones que te da al ver.
+48:19 Hernán Hamra: Es aceptación, no, si esa aceptación del dólar o no de un sentimiento no de una medida. O sea, qué es lo que me estaría dando en este caso me parece facial la hipótesis de lo que uno estaría viendo o tengo un resultado que es difícil de entender en el aspecto, una cosa es la opinión de una persona que puede ser positiva negativa y otra cosa es la opinión de la medida del cepo de una noticia que sale porque estamos analizando epígrafes de noticias.
+48:53 Hernán Hamra: Es como difícil en ese punto es decir, bueno, opinión negativa positiva, de
+48:58 Mabel Estela Escobar: bueno, pero
+48:59 Hernán Hamra: qué?
+49:03 Facundo Michilini: Pero ahí no termina de entender la pregunta yo.
+49:04 Mabel Estela Escobar: tal vez Yo yo la verdad que si va a polarizar tenía que ser más.
+49:09 Rafael Rubiano Ramirez: yo
+49:12 Mabel Estela Escobar: Acordate que acá este es los grises no saben o contesta es muy difícil modelar la opinión. Sí, la opinión es lo más difícil. Si vos decís si ha sido bueno en forma económica, a ver si te estoy interpretando porque es bastante compleja, la pregunta, vota, te referís a la medida económica en la macroeconomía o la opinión pública general, cuál es tu
+49:40 Hernán Hamra: No general no.
+49:40 Facundo Michilini: Lo que decís para una pregunta, una pregunta para un antes vos lo que decís
+49:45 Hernán Hamra: En realidad, nosotros pusimos palabras de búsqueda dólar y cepo y te daba la
+49:45 Facundo Michilini: Hernán es sí. El análisis de sensación es sobre lo que sucedió, o sea, sobre el levantamiento del cepo o sobre la noticia del cepo que están leyendo sobre la noticia del levantamiento que están leyendo. no
+50:07 Hernán Hamra: sensación en relación a lo que escribían en la nota relacionado el dólar y cepo ahora.
+50:13 Facundo Michilini: O sea, lo que para entonces lo que estudiaba no era por él en redes sociales, sino lo que estudiaba era noticias relacionadas al levantamiento del cepo.
+50:23 Hernán Hamra: correcto
+50:24 Facundo Michilini: Está bien, te va a dar el análisis del de tendencia de las de la sensación de de las noticias, o sea, no de lo que las personas opinan, sino de lo que se
+50:31 Hernán Hamra: Y no, no no, no, de lo que de lo que los periodistas.
+50:33 Facundo Michilini: están diciendo las noticias.
+50:35 Mabel Estela Escobar: El que emite la noticia digamos.
+50:35 Rafael Rubiano Ramirez: la percepción
+50:37 Facundo Michilini: Claro, o sea, si te digo 70 negativos que las 70 por ciento claro, el 70% de las
+50:39 Mabel Estela Escobar: La visión del periodismo digamos.
+50:42 Facundo Michilini: notas que se hicieron son negativas.
+50:45 Hernán Hamra: A ver, pero no tiene que ver con si están de acuerdo con no o no, con cómo se
+50:50 Facundo Michilini: Y supongo que si ya hicieron una noticia hablando negativamente del
+50:50 Hernán Hamra: tomó la medida.
+50:55 Facundo Michilini: levantamiento del cepos porque no están de acuerdo como se tomó.
+50:58 Hernán Hamra: Pero una cosa es la noticia de vuelta y otra cosa es la sensación y el sentimiento. Y otra cosa en la percepción, porque esto acuérdense analiza palabras dólar y cepo y las limpia dentro de un contexto para saber qué siente la gente después, por ejemplo, te doy un ejemplo que para mí es igualmente, seguro estaban en contra, pero pero por ejemplo, qué pasa si hay una nota que dice en
+51:21 Facundo Michilini: pero
+51:26 Hernán Hamra: relación a ese pop para ver, o sea, dicen es una medida dentro de todo bien tomada, pero en el contexto que se está poniendo, te está poniendo más problemas. En relación a que va a ser un impacto alto para la economía?
+51:41 Facundo Michilini: Ni si tiene más negativo que positivo va a ser negativo.
+51:44 Hernán Hamra: Claro, pero tal vez en definitiva no están en contra de la medida. Están es
+51:45 Mabel Estela Escobar: bueno
+51:50 Hernán Hamra: solamente evalúa sentimientos en relación a algo, pero a todo un tema que
+51:53 Mabel Estela Escobar: bueno, pero
+51:54 Hernán Hamra: tiene que ver que es más complejo.
+51:56 Mabel Estela Escobar: Claro, si tuviésemos más variable tuviésemos más definido el campo poblacional, acá estamos hablando lo periodistas que van a influir de cierta forma en la opinión pública. Sí, cómo toma cada son columnistas en realidad los columnistas como se han expresado con con respecto al levantamiento de las épocas cambiario es un sector muy privilegiado y pequeño contra toda la población nuestra, así que la Mel muestreo en ese caso.
+52:28 Mabel Estela Escobar: Si vos te pone a ver con un con un drone hacia arriba solamente de la torta, ahí lo pensemos de la torta solamente una pequeña proporción con respecto al resto, entonces no podemos decir que esa tendríamos que ser una el la porción de torta, en vez de ser el Pedro el periodismo sí, tendría que ser lo que dirían las redes sociales. Sí, acá te está diciendo la tendencia de un pequeño sector, no todos son periodistas ni y están.
+53:05 Mabel Estela Escobar: claro, entonces Claro, este si vemos, por eso tiene varias yo opino que en este sentido el
+53:18 Hernán Hamra: No, bueno, pero ahora el estudio lo hicimos sobre noticias.
+53:20 Mabel Estela Escobar: muestreo y las noticias la gente que la emite.
+53:24 Hernán Hamra: Sobre noticias de Google Noticias pero las buenas pero estamos hablando del universo ahora de las noticias no estamos hablando de la opinión pública.
+53:27 Mabel Estela Escobar: va a generar tendencia pero positivo o negativa en las personas, pero no no puede decir que no podemos pronosticar o asegurar siempre recuerden que en estadística en el fondo de Estadística el valor explicado no cubre, no llega a cubrir todo la población entonces para mí es una Pequeña visión de las noticias como el periodismo está a favor en contra sí, nada más no podemos emitir más juicio de valores porque estamos solamente tomando columnista.
+54:01 Hernán Hamra: La pregunta es esa están a favor o en contra o están hablando de sentimientos negativos y no a favor ni en contra. La pregunta es esa.
+54:09 Mabel Estela Escobar: Claro, están hablando. Sí, claro, las mediciones que te da aparte. Lo hiciste en español, así que alguna. Alguna medición algunas variables todavía faltaría ver si no no todo está explicado dentro del modelo de polaridad. Sí, acordate que todo modelo al final se hacen las comparativas con la bondad del modelo. Eso es una variable que te va a definir si ha sido una buena medición dentro del análisis de sentimiento. Ahora no, no lo tengo cómo se llama la función, te mide la bondad.
+54:53 Mabel Estela Escobar: Ahí va a tener una mejor referencia si ha sido negativo o positiva los valores que has encontrado dentro de ese muestreo. Hay una función que te mide la bondad se llama R2 se llaman estadística. Bueno, bien, interesante Hernán no lo vi correr. Ya vengo atrasada con este tema de robo de la compu estoy ya conseguí que me presten otro, pero no es lo mismo que son una máquina. Que no. No me responde como yo quiero sí.
+55:32 Mabel Estela Escobar: Si la quieres compartir mostrarlo Hernán parece re interesante sí le salió todo al grupo entonces trabajaron. Me parece genial. Sí, yo me conformo.
+55:44 Hernán Hamra: el ejercicio
+55:47 Mabel Estela Escobar: me conformaba con que conozcan a Bert sí, en algún momento les pueden pedir en alguna empresa, sí que hagan un análisis de sentimientos con este modelo de Opensor opensor en el sentido de qué código abierto no puedo decir opensor sí de código abierto. Lo tenés ahí para mostrarle a los chicos que capaz que están curiosos también.
+56:17 Hernán Hamra: Ahí me fijo a ver si lo puedo correr porque lo creo que lo hice tengo que
+56:18 Mabel Estela Escobar: a
+56:20 Hernán Hamra: buscar donde lo hice ahí lo busco y lo presento.
+56:23 Mabel Estela Escobar: ver Bueno, después alguien me preguntaba, creo que era gobernan opciones de chatbot inteligente que bueno el otro grupo estuvo buscando encontramos. Otra opción jade, jade, spot descarten. Sí, este año ya es como como la trivia, hay que pagar por todo, sí. encontramos Un book se llama tidio, sí va, a ver si lo voy a presentar mientras busca. Este otra opción. Ah, no me digas que me pide un código de verificación bueno. Lo voy a mostrar, sí lo comparto. Ahí lo voy a tener que hacer de otro lado. Tirio se llama así cierro las ventanas porque ya no. Vamos a poner acá, se llama tirio. Este tibio este chatbot, a ver le voy a poner. Me permite generar si chatbot gratuito hasta 50 conversaciones, sí. Ahí le voy a pasar el link, está bien interesante.
+57:58 Mabel Estela Escobar: tiene este a ver si yo Me lo yo estoy adentro ya. este control me pedía que me registre con Con un código de verificación pruebenlo también es bien interesante.
+58:16 Mabel Estela Escobar: https://www.tidio.com/
+58:19 Mabel Estela Escobar: Y los que tenían todavía dudas. But Press sí los que quedaron sin hacer hagan la prueba. Bastante interesante. Encontramos también un agente inteligente que te enseña inglés, sí, bien interesante estuvimos haciendo pruebas. Bueno, entre los proyectos que se van alineando sí, para para presentar yo. Ahí está a ver si puedo entrar. estuvieron haciendo pruebas y con Yo ya estoy.
+59:09 Hernán Hamra: Ahí ahí lo tengo el código profe.
+59:12 Mabel Estela Escobar: encontrando Dejar de compartir a ver.
+59:22 Hernán Hamra: Igual profe yo ocho y cuarto tengo tenemos una reunión con algunos compañeros con el Instituto así que ocho y cuarto tengo que dejar de compartir.
+59:30 Mabel Estela Escobar: Ah, te vas bueno, no hay problema.
+59:33 Hernán Hamra: No después vuelvo, tengo una reunión de media hora y después volvemos, no, no hay problema con eso.
+59:36 Mabel Estela Escobar: Ah, bien bien bien, bien, dale.
+59:40 Hernán Hamra: Si quiere comparto ahora más o menos muestra lo que lo que armamos con el equipo. Ya sea completa. Si hay ruido disculpen. Bien. Este lo cierro acá, ahí está, no sé si pueden verlo.
+01:00:06 Mabel Estela Escobar: ahí está capaz, que un control más por eso un poquito más grande, pero
+01:00:06 Hernán Hamra: Sí, pueden verlo. para
+01:00:12 Mabel Estela Escobar: Control más poquito más, ahí está poco ahí está. las librerías todo esto
+01:00:18 Hernán Hamra: bueno análisis de noticias lo que pusimos son las las librerías esta es la librería
+01:00:23 Mabel Estela Escobar: levanto
+01:00:27 Hernán Hamra: de noticias una de las que podemos levantar Este código si estos son las mismas librerías de de noticias que se pueden levantar después bueno, acá esto ya lo corrí y ya levantó las librerías que claro. y estas este código es para entrar a la palabra clave seleccionar las fechas y hay unas widgets que Que lo que hacen es dar esta forma de código entonces lo que después les muestro más en detalle el código, si lo quieren ver levantar acá se puede poner cualquier palabra.
+01:01:10 Hernán Hamra: Después las noticias si quieren podemos probar desde a ver podemos ver que porque las va levantando diariamente.
+01:01:17 Mabel Estela Escobar: cuando levantaron No sé cuando levantaron el cepo.
+01:01:20 Hernán Hamra: Y fue hace dos semanas lo pongamos.
+01:01:24 Mabel Estela Escobar: No, no importa.
+01:01:26 Hernán Hamra: De lo ponemos desde este lunes hasta la fecha de hoy si quieren son 100 noticias por día, perdón, el lunes 14 no vamos. el lunes 21 hasta el jueves hasta hoy y acá tenemos que esto falta programar solamente pusimos Google Noticias invitamos a que quiera levantar de Twitter o algo falta solamente algunas configuraciones, pero hasta acá llegamos por eso solo levantamos Google Noticias Acá busca acá ponemos el buscar y supuestamente debería tirar todas las noticias abajo. Si no corremos de vuelta este código a ver. Corremos de vuelta el código.
+01:02:16 Mabel Estela Escobar: Allá en la palabra clave. Ah, con llavecita y todo, mira. Cuando se dejó de compartir.
+01:02:23 Hernán Hamra: Se dejó de compartir. a ver Perdone comparte de vuelta.
+01:02:31 Mabel Estela Escobar: Sí, no hay drama.
+01:02:34 Hernán Hamra: pantalla completa y acá estamos con el verde lo que pasa que
+01:02:42 Mabel Estela Escobar: Está ahí está, sí.
+01:02:42 Hernán Hamra: Este lo tiro por aquí abajo listo y esto ocultamos ahí. Ok este ya lo corrimos. Y acá metimos metemos la fecha.
+01:02:56 Mabel Estela Escobar: la fecha
+01:02:57 Hernán Hamra: Lunes 21 son 100 notas por día 100 epígrafes de notas acá seleccionamos el Google Noticias y acá, a ver si lo levanta. A ver si lo levanta. A ver si podemos verlo acá.
+01:03:27 Mabel Estela Escobar: Hay levante o algo, no?
+01:03:27 Hernán Hamra: mostrar resultado no lo estoy viendo a veces no lo oculta y no mostrar mostrar oculto a ver En columnas disponibles acá están acá descargó todas las noticias.
+01:03:42 Mabel Estela Escobar: Ahí está un poquito. Demora un poquito.
+01:03:46 Hernán Hamra: bueno, sí, son 331 noticias, después lo que hicimos esto va bueno, esta Torch
+01:03:47 Mabel Estela Escobar: bajando
+01:03:54 Hernán Hamra: es la La torcha es la librería que lo que hace es descargar conectar con CUDA para usar la potencia de máquina de de las GPU virtuales que había dicho de usted Transformers es parte del código. De lo corro ahora. del Vert para que pueda correr el Bert que es la librería de Bert Va a tardar un poquito en descargar las librerías, pero esto es lo que empezaría a hacer toda la parte de análisis de sentimientos. O sea, ahora está descargando lo que son las librerías, no tarda tanto.
+01:04:36 Hernán Hamra: Esto tarda un poquito y el código mientras va descargando esta es toda la parte de verificación de los sentimientos que hace. que hace ver acá está utilizando la GPU
+01:04:52 Mabel Estela Escobar: detecta por concuda en ambiente
+01:04:54 Hernán Hamra: Este es el resultado anterior que tuvimos, pero ahora mientras termina descargar esto. Todavía falta que descargue las librerías. Todavía sigue elaborando con eso? perdón, el audio de fondo pero
+01:05:25 Mabel Estela Escobar: Envidia, ahí está ahí levanto envidia.
+01:05:31 Hernán Hamra: Ok levantó y ahora vamos a hacer el análisis de sentimiento que estaría acá.
+01:05:32 Mabel Estela Escobar: sí, levanto levantó ahí levanto envidia y levanto
+01:05:51 Hernán Hamra: Obviamente el código nos basamos mucho, lo entendimos. Nos basamos. Yo no lo tengo reconta claro, porque primero nos bajamos, nos basamos mucho al chat GPT hoy en día se puede programar.
+01:06:04 Mabel Estela Escobar: no
+01:06:04 Hernán Hamra: Un montón entendiendo lo que uno hace, no?
+01:06:08 Mabel Estela Escobar: Bueno, pero bueno, este tema era.
+01:06:08 Hernán Hamra: O sea nuestro humildad.
+01:06:14 Mabel Estela Escobar: Una han llegado bastante más lejos de lo que yo esperaba.
+01:06:14 Hernán Hamra: no, es que programamos todo esto lo Bueno, no corrimos el código por eso, por eso lo bueno que lo que utilizamos esto de una forma para buscar cualquier palabra en cualquier plataforma. Por eso se puede poner qué sé, yo no sé el nombre de una persona y buscar en la plataforma lo que uno quiera, no? A ver si está acá el resultado. bueno, ahí está corriendo todo lo que es la parte de
+01:06:46 Mabel Estela Escobar: ahí está speech Token
+01:06:49 Hernán Hamra: y esto Y esto serían los resultados.
+01:06:58 Mabel Estela Escobar: Eliminando filas sin descripción bien. Bueno, esto tiene.
+01:07:06 Hernán Hamra: Acá reagrupamos. Y acá estarían los resultados. primero los resultados los dan estrellas entre 1 y 5 1 sería negativa después las sumamos las de dos de uno y dos puntos tres sería neutra y 4 y 5 sería como una opinión positiva o un sentimiento positivo que es lo que estamos charlando al principio y acá lo estaríamos graficando.
+01:07:38 Mabel Estela Escobar: Y ya lo gráfica.
+01:07:39 Hernán Hamra: Acá tenemos la gráfica de lo que serían los números.
+01:07:39 Mabel Estela Escobar: y
+01:07:42 Hernán Hamra: Todavía sigue siendo en esta semana las opiniones periodísticas opiniones, no sentimientos después si están a favor en contra, eso es lo que estamos discutiendo antes y esto sería en porcentajes. Y acá correría.
+01:07:58 Mabel Estela Escobar: El 85 está buenísimo.
+01:07:58 Facundo Michilini: Está buenísimo.
+01:08:00 Hernán Hamra: Y acá correríamos por eso acá. Esto es en porcentajes estos serían los números también que estuvieron dando. como un recuento estadístico de cada una de las cosas, o sea, cuantos de rechazo, cuánto de aceptación y neutrales y esto está en porcentaje y acá está el cuadrito de Bueno, esto lo que hicimos con el con el equipete de laburo, si quiere alguien que le pasemos el código pero para reforzarlo pues está. Bueno, me parece que la idea que tuvimos tuvo buena estaría bueno seguir trabajando en el código con la parte de Twitter Reddit y YouTube o sea, que la plataforma que vos elijas, la puedes descargar y hay un tema más que no nos metimos que llevaría más tiempo que es que quedó pendiente también del año pasado el tema de scalping para, o sea, de Google Noticias nosotros levantamos los epígrafes que los levanta más rápido para levantar el sentimiento de las notas que son bastante más largos, hay que tratar de ingresar directamente a la nota y por un proceso de scalping hoy en día con GPS se puede hacer todo por eso lo que hicimos lo que hicimos es nos facilitó todo el código chat GPT lo fuimos testeando y lo fuimos corriendo y entendiendo lo que era lo que hacíamos, pero bueno.
+01:09:15 Hernán Hamra: Está bueno tuvo bueno, el resultado, o sea, es una herramienta útil esto la verdad que quedamos contentos.
+01:09:22 Rafael Rubiano Ramirez: súper bien
+01:09:25 Mabel Estela Escobar: Buenísimo y encima superan los esperados estuvieron trabajando.
+01:09:28 Hernán Hamra: Ahí dejo de compartir.
+01:09:35 Mabel Estela Escobar: Deja, nos dejas aplausito, sí. Nos dejas re contento a todos y yo esto es superado el objetivo.
+01:09:44 Hernán Hamra: Si alguien quiere mejorar el hablamos con el equipo de trabajo, nosotros el código lo podemos compartir si lo devuelven mejor de esa forma mejoramos todo si quieren pues me parece una herramienta de esta piola, el que quiere explorar más y mejorarlo invitado los invitamos a todos y que quiera nos avisa y si lo pasamos por privado.
+01:10:06 Rafael Rubiano Ramirez: Pásamelo, por favor.
+01:10:08 Mabel Estela Escobar: buenísimo, buenísimo, la verdad que
+01:10:10 Hernán Hamra: compromiso de volverlo mejorado
+01:10:17 Mabel Estela Escobar: La verdad que excelente sí. No se me ocurre ahora como más poder escalarlo porque esto es ya el top. top de todo sí poder trabajar
+01:10:32 Hernán Hamra: No escalarlo hay que entrar en Reddit hay que configurarlo para entrar en las otras plataformas y hay que hacerle scalping para entrar de manera profunda en las notas, o sea hay para elaborar con esto. Nosotros hicimos la primera parte.
+01:10:43 Mabel Estela Escobar: Y decide estaba pensando cómo lo podré incrustar para que quede en la web sí que le haga la parte de la interface. Está muy bueno, sí, está genial todo.
+01:10:59 Hernán Hamra: Es meterle el abuelo puede echar GPT hoy te da todo, eh? Si lo quieren o sea
+01:11:03 Mabel Estela Escobar: Sí, eso estábamos hablando hoy con él.
+01:11:03 Hernán Hamra: investigandolo González lo recontra lo recontrapulis este va lo mejoras un montón, hay que meterle tiempo y ganas de
+01:11:11 Mabel Estela Escobar: no Lo que hablábamos esta mañana con nuestra directora de estudio en otro instituto. No tiene sentido que yo les dé que pongan a programar. Sí, ya tienen ya que Pete lo que hay que enseñarle al alumno, es que pueda por sí mismo generar su propio camino. Sí no es regala pescado.
+01:11:35 Hernán Hamra: En realidad profe código tenés que saber, porque si no si no puedes corregir a
+01:11:38 Mabel Estela Escobar: La tenés que entender pero también si tener criterio, así que estoy haciendo
+01:11:40 Hernán Hamra: la máquina en algún caso haces agua por todos lados. El código lo tienes que entender.
+01:11:49 Mabel Estela Escobar: que primero el papel y lápiz, que lo que quiero llegar también sí, el código sí, obviamente Python necesita saber instalar algunas empezar a trabajar. Obviamente, que tenés que codificar saber estructuras, sí, ya tenés que tener algo de programación chat GPT no te va a resolver todo. Sí es más ya el GPT nos daban repositorio que estaban vacíos. Sí nos daba como solución para hacer renderizado de imágenes un un link.
+01:12:23 Mabel Estela Escobar: Entonces tú hay que seguir investigando repositorios que tengan imágenes
+01:12:28 Hernán Hamra: Profe, me tengo que desconectarme un ratito.
+01:12:28 Mabel Estela Escobar: completas. Sí, no hay problema listo Germán felicitaciones al grupo.
+01:12:36 Hernán Hamra: bueno, no nos
+01:12:36 Mabel Estela Escobar: Bueno, nos vemos en un rato bien gente querida. Vamos a seguir, sí. Voy a compartir pantalla. Espero que bueno con tranquilidad ya bajando los los decibelios sí, los decibeles si hay que Pensar en lo que nos queda ya de trabajo. Hay mucho en Internet cerrar? Bien. A ver, déjeme que este estoy trabajando con varias máquinas al mismo tiempo, a ver, voy a cerrar este. Ahí dejamos. Déjenme que cierre pues está por tilda, la máquina bien.
+01:13:42 Mabel Estela Escobar: no voy a hacer así, estaría bueno hacer análisis sentimientos, cómo se sienten para el examen tienen que obviamente estudiar pero Les parece accesible, yo creo que está bastante accesible o no? Pensando que no vamos a tener computadoras. Yo creo que está accesible, sí. a ver, voy a cerrar un poco de ventana cuando nos toca presenciar vayan a
+01:14:07 Martin Badino: Cuántas preguntas sabes?
+01:14:10 Mabel Estela Escobar: Gente te escucha?
+01:14:17 Martin Badino: más o menos
+01:14:17 Mabel Estela Escobar: Yo he pensado 14 preguntas, sí, 10 preguntas teóricas y cuatro preguntas de de segmento de código, sí.
+01:14:29 Martin Badino: Y todas varían de todas, valen lo mismo.
+01:14:33 Mabel Estela Escobar: sí, van a ver capas que Bueno, me pongo a sumar y restar y si casi lo mismo sí. Las teóricas hay preguntas que por ejemplo este? Esta pregunta, que a ver hay preguntas. Sí que no pueden fallar, sí. Pero va a ser fácil, si no, no creo que le vaya a llamar a nadie. Tendrías que haber no ha leído nada para que te vaya mal, sí, no, a ver hecho ningún trabajo práctico tendrías que sí, no caso extremo ya. Para que te vaya muy mal, sí, hay una pregunta que es fundamental, sí. Si la contesta mal bueno.
+01:15:30 Mabel Estela Escobar: Es preferible no contestar. Sí, si no la sabe, no conteste bien, no, no inventen porque bueno a veces. Así está bien, no contestaron. Bueno, a ver, ya tengo menos. bueno, que tenemos PNL el procesamiento natural del lenguaje Ahora que está está en evolución todavía falta todavía. mayores adelantos se está pensando cuando ustedes vimos los adelantos que viene con CUDA Y dentro de la familia de CUDA de esta arquitectura nueva que ya también se está quedando la obsolescencia en algunos casos. Sí, algunos supercomputadores. Están van a migrar después en La tecnología cuántica se está trabajando por debajo. Sí no es algo nuevo hace muchos años que se viene trabajando.
+01:16:39 Mabel Estela Escobar: Qué es lo que también? Va a servir con el tiempo, no, no, hoy cuánto tendencia nada más no lo vamos a hacer con nosotros en esta clase, pero sí es importante que lo conozcan si este tema viene interesante. Que es la detección de rostro? Sí, a través de una imagen se puedan detectar rostro. Bueno, pero para qué no puede servirme? Me pueden preguntar usted es bien. Usado sí, la detección de rostro.
+01:17:20 Mabel Estela Escobar: con las librerías después la van a buscar ustedes por su cuenta no va en la materia no va en este en este semestre lo vamos a ver el año que viene, pero por lo menos el año que viene tengo un pequeño aprestamiento sí de me pedían que hagamos reconocimiento facial hay leyes propias que de personas vivas que todavía no podemos sí, sortear y la persona viva tiene derecho de protección de su vida privada sí, pero sí voy a mostrar Es más, creo que ya me han bajado el ejemplo de de lo voy a mostrar. Sí antes, que me lo me estaba diciendo que tengo, estoy violando derechos de autor sí antes que me lo baje.
+01:18:07 Mabel Estela Escobar: Lo muestro nada más, a ver si lo puedo dejar de presentar comparto toda la pantalla muestro nada más no es para que lo hagamos sino para que vayan conociendo. Dentro del procesamiento de imágenes ahí está. Vamos a ver. sí, esta modelo que ustedes ven acá se llama Elena sí lo que se ve la pantalla si usted la buscan en Internet si la buscan en Internet la van a encontrar en todos los libros de método numérico de algoritmia, van a encontrar esta modelo sí es bien conocida es Lena Que lo que hicimos nosotros sí subir la foto dentro de la plataforma. Lo que bueno lo que podíamos hacer. Bien, en este caso.
+01:19:09 Mabel Estela Escobar: Vamos a ver acá, estoy detectando bordes, pero yo quiero que veamos este sí vamos a ver si lo puedo poner acá, está lo ven ahí, ya lo voy a hacer corre. Que dentro de una foto busca el patrón de ojo nariz y boca. Sí, se usa, está en boga. Sí, lo que quieran incursionar en este. en este sentido de la guía sí, de la aplicación es Está bueno esta parte sí, bien interesante. Lo que trabaja por debajo.
+01:19:51 Mabel Estela Escobar: Es un tema de estudio para la otra materia, pero sí, la codificación es sencilla lo que quieren investigar por su cuenta, ahí les voy a pasar. son Unas cuantas líneas de código les voy a pasar para los que quieran Tracer y trabajando, le voy a pasar el link. Ya lo tengo en Google colapse. Lo tengo en sí. Lo voy a pasar acá, dígame si lo pueden descargar y me quedo tranquila, hacemos una pausa y volvemos.
+01:20:21 Mabel Estela Escobar: y Ahí está.
+01:20:25 Mabel Estela Escobar: https://colab.research.google.com/github/lageniaestela/12demayo/blob/master/Lena2.ipynb
+01:20:28 Mabel Estela Escobar: Vemos las tendencias actuales de lo último en robótica. Ahí está ahí le dejé el link. la visión bueno detección de objetos reconocimiento facial y el pene L son los modelos que Están en desarrollo y los que y los profesionales que empiecen en incursionar y tengan algo de inglés, señores, ya tienen trabajo en cualquier parte del mundo. Sí están trabajando todavía. Y los que quieran sí saltar en realidad aumentada. Estamos trabajando con realidad aumentada con otro grupo. Sí tienen para escalar muchísimo su trabajo. Sí, así que.
+01:21:21 Mabel Estela Escobar: Hay mucho, no nos alcanza, el tiempo en esta materia para ver todo lo que hay, sí, estamos viendo el nlt k. Tiene un modelo el que mostraron los chicos ver. uno entre tantos vamos a dejar unos minutos volvemos en un ratito que les parece a la Yo tengo que pararme porque si no a las y 35 estamos de vuelta. No estiramos la columna caminamos. Ponemos algo de música. Hagan preguntas vayan preparando preguntas. Nos sacamos las dudas ya más temas, no vamos a ver. Sí, y vamos a poner.
+01:22:18 Martin Badino: Cama que mandaste es para los dos para los dos parciales, no solamente para el
+01:22:27 Mabel Estela Escobar: Qué?
+01:22:35 Martin Badino: primero.
+01:22:35 Mabel Estela Escobar: mamá
+01:22:38 Martin Badino: El Camba que mandaste son los temas de los dos parciales o solo del primero?
+01:22:39 Mabel Estela Escobar: mamá del primer pero todavía en su momento cuando hicimos el repaso entraba De conocimiento facial sí lo hicimos en poco tiempo, así que esa parte no va a reconocimiento facial.
+01:22:59 Martin Badino: aunque
+01:23:00 Mabel Estela Escobar: Sí, eso no va, sería hasta toquenización esa dos debería borrarles el diapositiva. Como hace. el no el Excel no el power point A ver, voy a poner oculto la que no van. Pero ustedes obviamente lean por aparte, sí han hecho muy buenos trabajos. No, pero esta no.
+01:24:14 Mabel Estela Escobar: la biometría de la voz no Bueno, la voy a sacar entonces. geometría de la voz no va elimino A ver, no voy a borrar lo que no tengo que borrar biometría de la voz biometría la 16 no va. eliminar esta página no hay otra forma ocultar esta página y está sí, geometría de la voz no va, pues análisis de sentimiento análisis sentimiento en LTK der geometría de la voz no va a ir No va esta diometría la bola número 28. Son gráficas, no va. Y a ver esto la biometría del abono va. Bueno, nos faltan la librería de gtts.
+01:26:05 Mabel Estela Escobar: faltando las librerías de gtts, entonces
+01:26:42 Mabel Estela Escobar: Ustedes lo completan si las librerías. Cristo a vos Y de vos a texto estaban en la primera diapositiva. Sí, este es un resumen. Bien, ahí están los cambios. Ahora voy a ver la diapositivas de ahí, le dice los cambios se ven.
+01:27:13 Solange K. Wladimirsky: Profe, no estás compartiendo por las dudas.
+01:27:17 Mabel Estela Escobar: A ver cómo quedó. No estoy compartiendo a ver.
+01:27:23 Solange Demey: está compartiendo la página de YouTube
+01:27:29 Mabel Estela Escobar: A ver toda la página qué es lo que queda? Sí, a ver dónde está la diapositiva. El repaso sí, qué es lo que va a quedar? técnica de procesamiento del habla la uno la dos sonido y representación del sonido aplicaciones transforma de furiel, análisis de sentimientos Uriel librería de texto a voz y de voz a texto biometría de la voz no va a análisis sentimiento sí en LTK Vader Otra vez no está oculta. Es una biometría la voz esta la voy a sacar. Sí, geometría de la voz no va a ir, sí. Sí, va.
+01:28:31 Mabel Estela Escobar: gtts y STT Yo las puse en la otra diapositiva ocultar esta diapositiva, a ver, yo tenía la principal. Vamos a ver los proyectos sale y bueno, lean la primera sí, yo le hice. modelado técnicas digitales Mostrar más ya les muestro a ver qué más me falta. Tanto trabajo que tengo, tengo un montón de trabajo. Bueno, había una debe estar en la plataforma. La voy a buscar en la plataforma, las primeras diapositivas, sí. Está todo lo de gtts, sí, no voy a seguir buscando. Tengo un montón de proyectos, pero están en la plataforma bien. A ver, está en el mosaico, ya les digo debe estar en la unidad 1.
+01:29:42 Mabel Estela Escobar: toda la pantalla Veamos acá. Y vamos a ver. cronograma tarea de entrega dibujo esa diapositiva que está toda la primera parte sí falta mosaico videollamada Apertura tal vez te doy la bienvenida. mosaico 3 que hay asistencia Entonces ya busco para que no quedemos tranquilos, si yo también me queda tranquila, yo sé que le he subido la tía apertura debe estar acá. avisos Esto lo voy a sacar porque si no me molesta. Le paso así yo también me quedo tranquila. Yo sé que le pase la primera. En las primeras clases estaban.
+01:31:17 Mabel Estela Escobar: las primeras diapositivas de presentación de gtts, sí Eso fue. información enlace la videollamada cursada Ahí está canvas. Está en hermosaico. Mosaico 4. Sí, aparentemente es Ese al final al final. Está en la diapositiva a ver. La ven dígame si la pueden en el mosaico 4 al final hay diapositivas.
+01:32:27 Mabel Estela Escobar: Sí, me pide editar. Se la puede ver mosaico tres. Mosaico 3 en el mosaico 3 al final hay un link que están las diapositivas de las primeras clases. Me avise si lo ven sí mostrar más. yo tengo
+01:33:34 Solange K. Wladimirsky: profe por las dudas bajo, qué nombre es ese archivo que vos decís y o si nos querés pasar el link también para Ir directamente.
+01:33:44 Mabel Estela Escobar: Buscando lo estoy buscando el link también, sí. Lo pasé tantas veces mostrar más.
+01:33:50 Solange K. Wladimirsky: Bárbaro, gracias.
+01:33:57 Mabel Estela Escobar: Tanto tiempo pasó copio presenta tanto tiempo pasó mostrar más. Esta vez esta vez una de 36.
+01:34:07 Hernán Hamra: Ahí estamos de vuelta.
+01:34:09 Mabel Estela Escobar: Ya llegaron qué tal? Qué tal le fue? bueno, no, o sea Tan curiosa diría alguien ahí está, ya le encontré copiar enlace. Sí, a ver, voy a compartirlo. Así yo me quedo tranquila, a ver que todo lo tiene donde la puedo subir que quede visible control.
+01:34:34 Mabel Estela Escobar: https://www.canva.com/design/DAGQlaJPY2E/hgWN8QrOVQXbY3ib6Ohdow/edit?utm_content=DAGQlaJPY2E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+01:34:35 Mabel Estela Escobar: Es esta diapositiva así las primeras de la clase. estas diapositivas control B Navegador son las primeras. Sí, voy a ver si puedo cambiar un poco los estilos si estaba. Acá está más, pero el sonido biometría la voz no va, esto no va a ir. No hay más entonces.
+01:36:00 Mabel Estela Escobar: Bueno, entonces le voy a poner, sí lo voy a poner un adicional. capaz que lo saque con la biometría de la voz sí le voy a poner un adicional de de texto a voz y las librerías propias de texto a voz Ahí le voy a pasar un artículo capaz que lo borre por accidente. Sí, tantas veces que lo tuve que hacer. ttts gtts y a ver si lo puedo poner en Ya le voy a poner una teoría, así que sea bien cortita. Ahí le voy a pasar capaz, que me está faltando. Otras diapositivas que tengo sí, faltan más bueno continúo con este tema. Sí, ya le voy a pasar más, no quiero pasarle más cosas así.
+01:37:39 Mabel Estela Escobar: Bueno, qué es lo que tengo para mostrarles? No lo no va a ir en este parcial. No va en este parcial. O sea, mi mano ya. No, dame PowerPoint ahí les muestro. Cierto, que vamos a hacer un recreo, si necesito hacer un recto hagamos un recreo, sí. Si no me va tecnología aruco, no?
+01:38:13 Facundo Michilini: A qué hora volvemos entonces?
+01:38:18 Mabel Estela Escobar: Si volvemos un ratito a las 9 menos. 10 si vamos un ratito 9 menos 10 y terminamos un ratito más, sí así yo. Les muestre lo que me queda de penal parcial. Sí, por lo menos iniciamos esa parte.
+01:38:36 Facundo Michilini: Bueno, volvemos a menos 10 volvemos.
+01:38:36 Mabel Estela Escobar: Bueno, hagamos un recréditos, sí, si no. Menos 10, volvemos y yo también puedes tirar la espalda, ya volvemos en 10 minutos.
+01:52:43 Mabel Estela Escobar: Estamos de vuelta así. A ver si se ve. Y ya nos vamos, sí, vamos a ver todo toda la pantalla compartir. Bueno, la parte teórica nada más, sí, a ver, vamos a ver. Qué es lo que están en boga? Ahora sí los chats inteligentes que De ahora en más nadie ninguna empresa puede quedar afuera, me escuchan. Sí, no, no estoy tildada. Sí, bueno, terminemos esta parte y gtts.
+01:53:27 Facundo Michilini: se escucha Pro
+01:53:35 Mabel Estela Escobar: En Google nos facilita una herramienta gratis, vamos a ver si podemos hacer un ejemplo después sí. estos chatbots generan respuesta automatizada en tiempo real ahora se está Trabajando con esta respuesta que pueden generar empatía adaptabilidad y comprensión. En el sentido de que se pueda trabajar con clientes alrededor del mundo, sí achatar la oferta todo el mundo. No, solamente a nuestra región, sino permitir la comprensión y las ventas.
+01:54:20 Mabel Estela Escobar: fuera de nuestra de nuestro país sí adaptabilidad en el sentido que se ajustan al estilo del usuario que Me importa, qué idioma esté pueda comprender el mensaje? y también el tono adecuado para responder al cliente y una gran ventaja también que Las 24/7 tenemos si alguien que está detrás del mostrador y está vendiendo, sí, por eso están vendidas la última feria de turismo estuvieron en presente. estas empresas que cobran sus servicios sí hay Chabot chatbot con reglas son algoritmos más complejos que trabajan con PNL Los chatbody, que ya vienen plantilla.
+01:55:22 Mabel Estela Escobar: plantilla automática sí que trabajan con los workflow y tenemos los agentes virtuales que Combinan la guía con automatización de procesos sí. Hay varios ejemplos de chatbot en la vida cotidiana nuestra acá en Argentina tenemos nuestro hogar? Tenemos los aeropuertos Ada creo que se llama sí, lo personalizan los bancos también. También tienen que trabajar se está pensando en chatbot para la promoción de servicio. Que tienen que trabajar con imposición de marca sí en el marketing comercio electrónico. Dar recomendaciones especializadas ya dijimos la atención al cliente las 24/7.
+01:56:21 Mabel Estela Escobar: Citas médicas por decir varias sí que lo que tenemos de beneficio mejor el compromiso. del cliente con la empresa reducción de costos mejor calidad de atención generación de ventas que es lo que más Llama a la compra de estos servicios, sí. Cómo tenemos que trabajar papel y lápiz en primera instancia escribir los objetivos propios de nuestro chatbot? la propiciar prototipos beta para que el cliente pueda interactuar ante lanzarlo a producción integración que permita que estos chatbook puedan trabajar conjuntamente con WhatsApp telegram Y sobre todo también que permita seguridad a la hora de hacer compra y la protección de datos. Siempre en esa parte de protección de datos.
+01:57:31 Mabel Estela Escobar: Se estila que en ese momento entre en escena un humano sí, para terminar de concretar la venta. Siempre se estila que determinado momento las empresas que están dedicadas a las ventas. Entre el vendedor en escena, sí, automatiza procesos y lo más interesante. Que quién estuvo trabajando todo este tiempo en estas ya. Que mayormente lo van a ver como asistente, sí. Google Google Amazon Vamos a ver ustedes después.
+01:58:22 Mabel Estela Escobar: no lo voy a No, no vamos a hacer un desarrollo completo. Sí, ya más Cambalo tiene incorporado. Sí, ustedes introducen de De texto a voz y ya la IA cada diapositiva. Va leyendo con la voz que uno elija. Hay diferentes voces dentro de Google clown? No sé si estoy compartiendo una consola que me permite. seleccionar 300 voces en más de 50 idiomas Hace unos años atrás esto lo impensado sí estaba el inglés y estaba el español.
+01:59:10 Mabel Estela Escobar: y algunos otros idiomas, sí, no, no había mucho para elegir y lo bueno de que Bueno de usted puede elegir la voz. bueno, dejo de comprarme van volverlo bueno, ahí está así después prueben ustedes la gran familia que ya ha desarrollado Google No sé si se escuchó. No sé si compartir se vio.
+01:59:42 Mabel Estela Escobar: https://cloud.google.com/text-to-speech/docs/voices?hl=es-419
+01:59:53 Mabel Estela Escobar: no
+01:59:53 Facundo Michilini: Qué cosa? O sea, si este vídeo hasta que dijiste, no voy a compartir más.
+01:59:53 Martin Badino: sí
+01:59:58 Mabel Estela Escobar: no me habla, me habla la
+01:59:58 Facundo Michilini: ah, no, la voz no no no no no no
+02:00:00 Victoria Spandonari: Pero la voz no se escuchó.
+02:00:01 Mabel Estela Escobar: La bueno, ahí voy a compartir. Ah, bueno, no va a ver la voy a compartir. Bueno, voy a cambiar idioma porque si no me bueno, dentro de Google sí, después los que quieran tener una experiencia hacer una experiencia propia con alguna programación ustedes pueden elegir. Dentro de estas 300 voces sí, las que les guste. Es compatible con cualquier dispositivo? Vamos a ver si también hace unos años atrás, era un problema funcionaba en algunos celulares en otros no. Sí, ahora ha cambiado tantas cosas bien, ahí está.
+02:00:45 Mabel Estela Escobar: Es más las personas, no videntes tenían algunos problemas con las voz metalizada, sí. Te dan 300 créditos, creo para que lo uses sí, dentro de estos idiomas. Puedes tener en neutral, hay varias voces, sí, a ver si me deja compartir. No, no me va a dejar porque en pantalla en una sola voz bueno. A ver si se escucha. Se escuchó. no no Bueno, a ver si la puedo compartir tabla de voz.
+02:01:36 Mabel Estela Escobar: Bueno, hay varios ejemplos ahí les voy a pasar el link porque no no, no sé si la van a poder apreciar si esta colección de voces sí, en los 50 idiomas que existen sí y a ver ahí. Se escucha. No se escuchó capa que no se escuchó. Va de vuelta. No idiomas compatible, ahí va de vuelta. Bueno, acá está la familia. Ah, bueno. a ver holandés masculino femenino bueno, hay para hacer una prueba gratis si te dan unos Unos créditos sí.
+02:02:55 Mabel Estela Escobar: podés hacer una prueba dentro de La nube de Google sí ya lo vamos a ver con más detalle. bueno, lo que lo que no quiero meter si es mi tarjeta otra vez, sí, ya estoy pagando las consecuencias, me va a pedir aceptar y continuar y en algún momento me va a pedir mi tarjeta si Es bien interesante, sí, el que se anime a curiosear ya cama lo tiene, sí, ahí está ahí me pide la tarjeta bueno. No quiero no, no voy. Voy a poner mi pago, sí.
+02:03:45 Mabel Estela Escobar: Hay otras gratuitas, sí, hay muchas más gratuitas y el año pasado la experiencia de unos compañeros de otro instituto. Hicieron chatbot que era un asistente psicológico, si era no era un psicólogo. Sí, tampoco pretende ser un psicólogo porque era una máquina. Pero fue muy interesante la experiencia que usaron porque encontraron una herramienta bastante accesible. Sí que permitía generar vistas como si fuera una web. después le voy a pasar la diapositiva que Llamó la atención a todo porque nunca pensábamos eso lo descubrieron ellos. Que podían generar un chatbot. Y simular una incrustado en la web la herramienta. A ver si lo puedo mostrar.
+02:04:47 Mabel Estela Escobar: después el que le toma la idea sí, lo que ustedes pueden trabajar en Google colapse, le pueden dar una vista de página web a ver si está acá Sí, flax, sí te permite incrustar toda tu programación como si fuera que estás trabajando en la web. Y tiene un diseño bastante intuitivo y accesible, sí. Los que estaba pensando en los chicos que estuvieron trabajando recién sí, si le quieren poner una botonera si lo quieren hacer. Para la web para que pueda ser manipulado por cualquier usuario. Sí, estaría interesante que conozcan esta herramienta también. Y puedan interactuar.
+02:05:43 Mabel Estela Escobar: eso es para eso es un optativo que Me parece que le pueden enriquecer el trabajo gente querida. Estamos cansados, sé que tienen que yo les voy a dejar todos los links. y en algún momento si ustedes quieren escalar, hay que invertir en y así todas te cobran Google te cobra todo te cobran, sí, papá que Si quieren trabajar y buscar opciones gratuitas. Sea le lleva tiempo, sí te va lleva tiempo, pero los resultados van a valer la pena.
+02:06:24 Mabel Estela Escobar: en el otro instituto los chicos de uno de los chicos trabajados con una empresa por eso tenía el acceso a la nube de Amazon Y gestionaron varias cosas, pero bueno ya. He impensado nosotros sí, capaz, que exista no sé, estuve buscando cosas gratis, pero no no se consigue. Cualquier duda cualquier consulta me escriben. Ahora voy a buscar. Apunte sencillo con definición es únicamente para que tengan. Un poquito más de las librerías de speech, to text sí y de texto a voz. Y con eso estamos completos ya para pensar en en el examen.
+02:07:16 Mabel Estela Escobar: Los que no puedan va a ser presencial los exámenes me han aclarado que son presenciales sí, sí o sí. Se le va a dar ese día bajen de la web el certificado creo que en la web está algo, así me explicaron y se le va a firmar lo que tengan que pedir permiso en el trabajo seguramente para los que están trabajando y salen de trabajar a las 7 7 y cuarto empezamos, sí. Así que los que no puedan me avisan con tiempo, sí.
+02:07:53 Martin Badino: Perdón, profe. Pero no subiste todavía los temas que agregaste que acabas de mencionar.
+02:07:53 Mabel Estela Escobar: bueno Ahora ya te lo subo, estuve buscando, digo, están en toda esa repositorio
+02:08:03 Martin Badino: dale
+02:08:08 Mabel Estela Escobar: tantas veces el cambio de estilo. Lo cambio de estilo, pues no me gusta el azul, como quedaba así este, así que está ahí lo tengo que buscar no lo puedo identificar, pero te lo subo ahora, sí. En la plataforma en el mosaico que dice práctico sí a él lo voy a subir. Así quede claro, si no le voy a ver si puedo poner este adicional no puedo cambiar los mosaicos. Lo voy a poner en el último mosaico que dice trabajos prácticos.
+02:08:44 Mabel Estela Escobar: A ver, se ve ahí bueno en el último en el último mosaico que dice trabajos prácticos, ahí le voy a subir. Dónde no me deja a corro la ventanita? sí general En el último el último que dice. mosaico 5 trabajos prácticos trivia O soy cocho, examen final no, en el anterior examen final se llama trabajos prácticos, me parece. trabajos prácticos sí acá No toco más, porque en ese mosaico les voy a subir la última parte ya definiciones.
+02:09:43 Mabel Estela Escobar: no quiero poner el libro si es solamente una carilla, de de concepto nada más está en A ver, no me puedo sacar, ya se está clavando la máquina, no? No va más. No va mal la máquina entonces en el mosaico que dice. trabajos prácticos antes del examen voy a poner La el último tema que les mencioné. Bueno, ya se está clavando la máquina también se hace. Ah, que me falta la existencia. Bueno le paso al whatsapp. A ver si le puedo pasar la asistencia. Va, llegamos llegamos. Sí, ya nos queda poquito, sí, ya. Cruzar, estamos a la mitad. Pasó, pasó el tiempo, sí.
+02:10:43 Mabel Estela Escobar: Se fue se fue? vamos a poner Yo también llegó. 24 24 de Abri, bueno, ahí les comparto el link. Dígame si se puede cargar ya.
+  
