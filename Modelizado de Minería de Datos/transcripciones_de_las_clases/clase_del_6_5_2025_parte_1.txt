@@ -1,0 +1,133 @@
+# Meeting Transcription
+
+  Meeting started: 6/5/2025, 07:52:18
+  Duration: 16 minutes
+  Participants: Andrea Alvarez, Deisy Rios, Diego Antonic, Emilce Alconz, Estefania Reyes, Facundo Michilini, Hernán Hamra, Lautaro Iriart, Lorena Sierra, Mariana Morales, Martín Badino, Matias Arias, Miguel Carlos Pita, Miriam Coman, Nazarely Gomez Abularach, Rafael Rubiano Ramirez, Ricardo Nuñez, Solange Demey, Victoria Spandonari
+
+  [View original transcript](https://app.tactiq.io/api/2/u/m/r/T3QGnWDgEikVeKTtQiYX?o=txt)
+
+  
+
+  
+  
+  
+
+  ## Transcript
+
+  00:00 Miguel Carlos Pita: Buenas noches, hola.
+00:04 Martín Badino: Hola, profe.
+00:10 Nazarely Gomez Abularach: Buenas noches.
+00:12 Miguel Carlos Pita: Buenas noches. Bueno, espero que anden todos bien. Nos tomamos los tomamos cinco minutos mientras llegan los los compañeros de ustedes, así empezamos.
+00:24 Nazarely Gomez Abularach: perfecto
+00:25 Miguel Carlos Pita: bárbaro
+00:43 Martín Badino: ya tenemos los grupos de
+00:48 Miguel Carlos Pita: Sí, Martín encima.
+00:54 Martín Badino: de análisis de exploración de datos para que sepas
+01:00 Miguel Carlos Pita: Genial, dale ahora lo charlamos ahora. Me lo pasas? Me hace unos minutitos. Yo acabo de aprender la máquina, me acomodo y ya me comentas.
+01:13 Speaker: Hola, estoy transcribiendo esta llamada con mi extensión Tactiq AI: https://tactiq.io/r/transcribing
+02:26 Rafael Rubiano Ramirez: Buenas noches.
+06:23 Miguel Carlos Pita: Bueno, buenas noches. Hola, cómo andan?
+06:31 Ricardo Nuñez: Buenas noches.
+06:37 Miguel Carlos Pita: Hola, hola a todos, buenas noches.
+06:39 Solange Demey: Buenas noches profe.
+06:40 Miguel Carlos Pita: Hola, bueno. Paso lista y empezamos. alcons
+06:49 Emilce Alconz: Buenas noches, presente.
+06:52 Miguel Carlos Pita: Hola, buenas noches. Álvarez antonic
+07:04 Diego Antonic: Buenas profe presente.
+07:05 Miguel Carlos Pita: buenas
+07:07 Andrea Alvarez: hola profe Álvarez
+07:08 Miguel Carlos Pita: Hola, cómo estás?
+07:10 Andrea Alvarez: Hola.
+07:11 Miguel Carlos Pita: Arias
+07:16 Matias Arias: Buenas noches, presente.
+07:16 Miguel Carlos Pita: buenas noches, Arnau Venía más tarde.
+07:21 Hernán Hamra: Qué tal Arnau hoy está un poquito complicada? Me dijo que le avisará sí, pero que ya mañana se va a reintegrar normalmente con todo.
+07:25 Miguel Carlos Pita: sí Sí, me escribe gracias, hermano.
+07:31 Hernán Hamra: no
+07:33 Miguel Carlos Pita: Martín presente Badino Barros ahora
+07:45 Miriam Coman: Buenas noches, pero se presente.
+07:47 Miguel Carlos Pita: Buenas noches. de Buenos días. Ferrari pues Come esa vulnera.
+08:10 Nazarely Gomez Abularach: Buenas noches, profe presente.
+08:12 Miguel Carlos Pita: Buenas noches. Hernán represente y algo
+08:19 Lautaro Iriart: presente
+08:23 Miguel Carlos Pita: Elena Michelini Facundo morales
+08:35 Mariana Morales: Buenas noches, presente.
+08:37 Miguel Carlos Pita: Buenas noches. Hola.
+08:43 Ricardo Nuñez: presente perfecto
+08:50 Miguel Carlos Pita: Ortiz candelas Estefanía
+08:59 Estefania Reyes: presente profe
+09:03 Deisy Rios: Presente
+09:03 Miguel Carlos Pita: ríos gracias, qué tal te coloque presente ríos Rubiano
+09:12 Deisy Rios: Gracias
+09:12 Miguel Carlos Pita: Creo que se está presente. qué tal Rafael sierra Marín
+09:21 Rafael Rubiano Ramirez: Buenas noches.
+09:26 Miguel Carlos Pita: sierra María estaba presente, pues se desconectó, pero creo que anda por la
+09:31 Lorena Sierra: el celular y la computadora al mismo tiempo
+09:32 Miguel Carlos Pita: Onda conectada está bien, sí, no, no hay problema ahí te pongo presente. Es pandonari.
+09:45 Victoria Spandonari: Hola, presente.
+09:47 Miguel Carlos Pita: hola y Vladimir que Bien, me está faltando días caro. lago Elena Michelini
+10:11 Facundo Michilini: acá presente
+10:13 Miguel Carlos Pita: No te puse presente vos me lo pasaste recién.
+10:16 Facundo Michilini: No, es que es que entré justo cuando yo estaba diciendo Núñez y no te quería interrumpir.
+10:22 Miguel Carlos Pita: No pasa nada, no pasa nada bien presente michirini Ortiz candelas. vladimilky Bueno, buenas noches a todos. Espero tanto bien. Me dijeron que ya tienen los grupos de la la práctica 3. Sí, de lo de la materia de los lunes. Si me los quieren pasar se los agradezco y después ya arrancamos con la materia nos vamos Martín me habías dicho. O alguno que los tenga a mano.
+11:08 Martín Badino: Te los digo así en voz alta.
+11:11 Miguel Carlos Pita: Dale yo los voy a sacar.
+11:12 Nazarely Gomez Abularach: Lo copiamos lo copiamos acá el chat mejor para que lo tenga notado.
+11:16 Martín Badino: Bueno, dale.
+11:19 Miguel Carlos Pita: sí, igualmente yo tengo acá el la lista y les voy poniendo un número de grupo como para ir diferenciando los así que
+11:26 Nazarely Gomez Abularach: Perfecto, dale Martín entonces.
+11:29 Miguel Carlos Pita: Decime decime quién es integrarían uno de los grupos.
+11:32 Martín Badino: el grupo 1 es Dave y ríos Diego antonic, Matías
+11:39 Miguel Carlos Pita: sí Para para vamos.
+11:42 Martín Badino: Facundo Michelini
+11:46 Miguel Carlos Pita: Un segundito, por favor, porque si no no llegó a copiar ríos Daisy Anthony Diego quien más. Sí, dale. Perfecto, sí.
+12:07 Martín Badino: y Gómez
+12:19 Miguel Carlos Pita: Quién me dijiste que no te entendí Gómez Gómez se volarás no, quién me dijiste?
+12:23 Martín Badino: sí Gómez
+12:27 Miguel Carlos Pita: Hago como esa volarache, sí, sí, sí está bien, listo, perfecto, o sea, son
+12:27 Martín Badino: Se llama nazareis.
+12:33 Miguel Carlos Pita: cinco bien, cuántos grupos son en total?
+12:38 Martín Badino: cinco
+12:40 Miguel Carlos Pita: Cinco grupos de cinco grupos de cinco hicieron al final o hay dos menos, no?
+12:50 Martín Badino: No, no, cuatro de cinco al final cuatro de cinco y uno de cuatro.
+12:50 Miguel Carlos Pita: bueno
+12:51 Nazarely Gomez Abularach: tres grupos de cinco y el resto de cuatro
+12:54 Miguel Carlos Pita: ok bueno bueno, a ver ahora pasarme de pasarme los demás y Y lo charlamos, dale.
+13:11 Martín Badino: Lorena sierra avísame Lautaro Iriart
+13:19 Miguel Carlos Pita: Sí, sí.
+13:26 Martín Badino: Andrea Álvarez Antonella Díaz caro
+13:36 Miguel Carlos Pita: Bien.
+13:36 Martín Badino: Después otro grupo es emilsalcons.
+13:45 Miguel Carlos Pita: sí
+13:45 Martín Badino: Estefanía Reyes
+13:49 Miguel Carlos Pita: sí
+13:49 Martín Badino: Mariana morales
+13:53 Miguel Carlos Pita: Bueno, dale.
+13:54 Martín Badino: Florencia Ortiz
+14:03 Estefania Reyes: Profe no Florencia está en otro grupo.
+14:09 Martín Badino: Al final te paraste el grupo? no qué pasó conferencia Ortiz
+14:21 Estefania Reyes: Está en otro grupo.
+14:22 Miguel Carlos Pita: Bueno, ahora sabemos dónde dónde va a estar es decir.
+14:23 Martín Badino: a Entonces, porque aparece dos veces, pero bueno.
+14:29 Miguel Carlos Pita: Vale, entonces el siguiente.
+14:31 Martín Badino: Todas está bien. varios barrios Eric Barros Erika
+14:38 Miguel Carlos Pita: sí
+14:40 Martín Badino: Rafael Rubiano
+14:43 Miguel Carlos Pita: sí
+14:44 Martín Badino: sola
+14:50 Miguel Carlos Pita: sí
+14:50 Martín Badino: Noelia Rodríguez Y ahora sí Florencia Ortiz puede ser.
+14:59 Solange Demey: Si Florencia está en nuestro grupo.
+15:02 Martín Badino: ah ok
+15:02 Miguel Carlos Pita: Ok, perfecto 1, sí sí.
+15:04 Martín Badino: Entonces sí son y bueno y el último grupo. es Nuria Arnau claro
+15:14 Miguel Carlos Pita: vos Martín
+15:19 Martín Badino: Hernán jarra, ah, claro, perdón, esto son como ayudantes batería, perdón, me confundía victoria española.
+15:24 Miguel Carlos Pita: Sí, claro. a ver para que sí
+15:40 Martín Badino: bueno yo Martín Badino
+15:44 Miguel Carlos Pita: Sí, sí.
+15:45 Martín Badino: Gonzalo Juárez y Carolina y Carolina Barreto con B larga
+15:53 Miguel Carlos Pita: perfecto
+15:56 Martín Badino: Y ahí ya están todos.
+16:00 Miguel Carlos Pita: Claro, sí, déjame que lo reviso. entonces Tenemos en este grupo son 1 2. 4 5 está bien, son ese último que me pasaste 5 en el grupo 4 son 1 2 3 4. 5 también en el tercer grupo 1 2 3 Está bien en el segundo 1 2 3. 4
+  
