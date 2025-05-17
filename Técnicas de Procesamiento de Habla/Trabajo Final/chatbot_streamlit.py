@@ -6,8 +6,8 @@ from datetime import datetime
 # Cargar modelo y tokenizer
 @st.cache_resource
 def load_model():
-    tokenizer = AutoTokenizer.from_pretrained("microsoft/DialoGPT-medium")
-    model = AutoModelForCausalLM.from_pretrained("microsoft/DialoGPT-medium")
+    tokenizer = AutoTokenizer.from_pretrained("deepseek-ai/deepseek-llm-1.5b-chat")
+    model = AutoModelForCausalLM.from_pretrained("deepseek-ai/deepseek-llm-1.5b-chat")
     return tokenizer, model
 
 tokenizer, model = load_model()
