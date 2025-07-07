@@ -16,10 +16,17 @@
 - **Gradientes oscuros** con texto dorado/claro
 
 ### 2. **crear_powerpoint.py**
-- **Script de Python** para generar archivo .pptx
+- **Script de Python** para generar archivo .pptx (tema claro)
 - **Requiere instalar**: `pip install python-pptx`
 - **Ejecutar**: `python crear_powerpoint.py`
 - **Genera**: `presentacion_IA_fraude_fintech.pptx`
+
+### 2b. **crear_powerpoint_dark.py**
+- **Script de Python** para generar archivo .pptx (tema oscuro)
+- **Fondos oscuros** y texto claro
+- **Colores dorados** para acentos
+- **Ejecutar**: `python crear_powerpoint_dark.py`
+- **Genera**: `presentacion_IA_fraude_fintech_dark.pptx`
 
 ### 3. **guia_presentacion.md**
 - **Estructura completa** de la presentación
@@ -47,10 +54,15 @@
 3. **Mejor para salas oscuras** o proyección nocturna
 4. **Colores invertidos** para mayor contraste
 
-### Opción 2: Generar PowerPoint
+### Opción 2A: Generar PowerPoint Tema Claro
 1. **Instalar** python-pptx: `pip install python-pptx`
 2. **Ejecutar**: `python crear_powerpoint.py`
 3. **Usar** el archivo .pptx generado en PowerPoint
+
+### Opción 2B: Generar PowerPoint Tema Oscuro
+1. **Instalar** python-pptx: `pip install python-pptx`
+2. **Ejecutar**: `python crear_powerpoint_dark.py`
+3. **Usar** el archivo .pptx con fondo oscuro en PowerPoint
 
 ### Opción 3: Crear desde cero
 1. **Seguir** la estructura de `guia_presentacion.md`
