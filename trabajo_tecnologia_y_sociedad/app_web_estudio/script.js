@@ -42,6 +42,17 @@ let currentActivePhrase = -1;
 let isScriptVisible = false;
 let updateInterval;
 
+// Variables para grabación de audio
+let mediaRecorder;
+let recordedChunks = [];
+let recordedAudioBlob;
+let recordedAudioUrl;
+let recordingAudio;
+let isRecording = false;
+let isPlayingRecording = false;
+let recordingTimer;
+let recordingStartTime;
+
 // Inicialización cuando se carga la página
 document.addEventListener('DOMContentLoaded', function() {
     audioElement = document.getElementById('mainAudio');
@@ -106,6 +117,11 @@ function setupEventListeners() {
     
     // Event listener para mostrar/ocultar guión
     document.getElementById('toggleScriptBtn').addEventListener('click', toggleScript);
+    
+    // Event listeners para grabación de audio
+    document.getElementById('recordBtn').addEventListener('click', toggleRecording);
+    document.getElementById('playRecordingBtn').addEventListener('click', togglePlayRecording);
+    document.getElementById('discardBtn').addEventListener('click', discardRecording);
 }
 
 // Saltar a una frase específica (al inicio de la primera repetición)
@@ -302,3 +318,171 @@ window.debugAudio = {
     duracionesAudios,
     REPETICIONES_POR_FRASE
 };
+
+// ============ FUNCIONES DE GRABACIÓN DE AUDIO ============
+
+// Iniciar/detener grabación
+async function toggleRecording() {
+    if (!isRecording) {
+        await startRecording();
+    } else {
+        stopRecording();
+    }
+}
+
+// Iniciar grabación
+async function startRecording() {
+    try {
+        const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        
+        recordedChunks = [];
+        mediaRecorder = new MediaRecorder(stream);
+        
+        mediaRecorder.ondataavailable = function(event) {
+            if (event.data.size > 0) {
+                recordedChunks.push(event.data);
+            }
+        };
+        
+        mediaRecorder.onstop = function() {
+            recordedAudioBlob = new Blob(recordedChunks, { type: 'audio/webm' });
+            recordedAudioUrl = URL.createObjectURL(recordedAudioBlob);
+            
+            // Crear elemento de audio para reproducir
+            if (recordingAudio) {
+                recordingAudio.pause();
+                recordingAudio = null;
+            }
+            
+            recordingAudio = new Audio(recordedAudioUrl);
+            recordingAudio.addEventListener('ended', () => {
+                updatePlayButton(false);
+            });
+            
+            // Habilitar botones
+            document.getElementById('playRecordingBtn').disabled = false;
+            document.getElementById('discardBtn').disabled = false;
+        };
+        
+        mediaRecorder.start();
+        isRecording = true;
+        recordingStartTime = Date.now();
+        
+        // Actualizar UI
+        updateRecordingUI();
+        startRecordingTimer();
+        
+    } catch (error) {
+        console.error('Error al acceder al micrófono:', error);
+        updateStatus('Error al acceder al micrófono');
+    }
+}
+
+// Detener grabación
+function stopRecording() {
+    if (mediaRecorder && isRecording) {
+        mediaRecorder.stop();
+        
+        // Detener el stream
+        if (mediaRecorder.stream) {
+            mediaRecorder.stream.getTracks().forEach(track => track.stop());
+        }
+        
+        isRecording = false;
+        stopRecordingTimer();
+        updateRecordingUI();
+        updateStatus('Grabación completada');
+    }
+}
+
+// Reproducir/pausar grabación
+function togglePlayRecording() {
+    if (!recordingAudio) return;
+    
+    if (!isPlayingRecording) {
+        recordingAudio.play();
+        isPlayingRecording = true;
+        updatePlayButton(true);
+    } else {
+        recordingAudio.pause();
+        isPlayingRecording = false;
+        updatePlayButton(false);
+    }
+}
+
+// Descartar grabación
+function discardRecording() {
+    if (recordingAudio) {
+        recordingAudio.pause();
+        recordingAudio = null;
+    }
+    
+    if (recordedAudioUrl) {
+        URL.revokeObjectURL(recordedAudioUrl);
+        recordedAudioUrl = null;
+    }
+    
+    recordedAudioBlob = null;
+    recordedChunks = [];
+    isPlayingRecording = false;
+    
+    // Actualizar UI
+    document.getElementById('playRecordingBtn').disabled = true;
+    document.getElementById('discardBtn').disabled = true;
+    updatePlayButton(false);
+    updateStatus('Listo para grabar');
+    updateRecordingTime('0:00');
+}
+
+// Actualizar UI de grabación
+function updateRecordingUI() {
+    const recordBtn = document.getElementById('recordBtn');
+    
+    if (isRecording) {
+        recordBtn.textContent = '⏹️ Detener';
+        recordBtn.classList.add('recording');
+        updateStatus('Grabando...');
+    } else {
+        recordBtn.textContent = '🎤 Grabar';
+        recordBtn.classList.remove('recording');
+    }
+}
+
+// Actualizar botón de reproducir
+function updatePlayButton(isPlaying) {
+    const playBtn = document.getElementById('playRecordingBtn');
+    
+    if (isPlaying) {
+        playBtn.textContent = '⏸️ Pausar';
+    } else {
+        playBtn.textContent = '▶️ Reproducir';
+    }
+}
+
+// Actualizar estado de grabación
+function updateStatus(status) {
+    document.getElementById('recordingStatus').textContent = status;
+}
+
+// Actualizar tiempo de grabación
+function updateRecordingTime(time) {
+    document.getElementById('recordingTime').textContent = time;
+}
+
+// Iniciar temporizador de grabación
+function startRecordingTimer() {
+    recordingTimer = setInterval(() => {
+        const elapsed = Math.floor((Date.now() - recordingStartTime) / 1000);
+        const minutes = Math.floor(elapsed / 60);
+        const seconds = elapsed % 60;
+        updateRecordingTime(`${minutes}:${seconds.toString().padStart(2, '0')}`);
+    }, 1000);
+}
+
+// Detener temporizador de grabación
+function stopRecordingTimer() {
+    if (recordingTimer) {
+        clearInterval(recordingTimer);
+        recordingTimer = null;
+    }
+}
