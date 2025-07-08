@@ -166,6 +166,110 @@ header h2 {
     color: #a0a0a0;
 }
 
+/* Estilos para la sección de grabación de audio */
+.audio-recording-section {
+    margin-top: 20px;
+    padding: 20px;
+    background: rgba(40, 40, 60, 0.6);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.audio-recording-section h4 {
+    color: #e0e0e0;
+    margin-bottom: 15px;
+    font-size: 1.1em;
+}
+
+.recording-controls {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+    flex-wrap: wrap;
+}
+
+.record-btn, .play-btn, .discard-btn {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.9em;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.record-btn {
+    background: linear-gradient(45deg, #e53e3e, #c53030);
+    color: white;
+    box-shadow: 0 4px 15px rgba(229, 62, 62, 0.3);
+}
+
+.record-btn:hover:not(:disabled) {
+    background: linear-gradient(45deg, #c53030, #e53e3e);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(229, 62, 62, 0.4);
+}
+
+.record-btn.recording {
+    background: linear-gradient(45deg, #ff6b6b, #ff5252);
+    animation: recordingPulse 1.5s infinite;
+}
+
+@keyframes recordingPulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+    100% { transform: scale(1); }
+}
+
+.play-btn {
+    background: linear-gradient(45deg, #38a169, #2f855a);
+    color: white;
+    box-shadow: 0 4px 15px rgba(56, 161, 105, 0.3);
+}
+
+.play-btn:hover:not(:disabled) {
+    background: linear-gradient(45deg, #2f855a, #38a169);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(56, 161, 105, 0.4);
+}
+
+.discard-btn {
+    background: linear-gradient(45deg, #718096, #4a5568);
+    color: white;
+    box-shadow: 0 4px 15px rgba(113, 128, 150, 0.3);
+}
+
+.discard-btn:hover:not(:disabled) {
+    background: linear-gradient(45deg, #4a5568, #718096);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(113, 128, 150, 0.4);
+}
+
+.record-btn:disabled, .play-btn:disabled, .discard-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.recording-status {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9em;
+    color: #c0c0c0;
+}
+
+#recordingStatus {
+    font-weight: 500;
+}
+
+#recordingTime {
+    font-family: monospace;
+    font-weight: bold;
+    color: #e53e3e;
+}
+
 .clear-btn, .toggle-btn {
     background: linear-gradient(45deg, #e53e3e, #c53030);
     color: white;

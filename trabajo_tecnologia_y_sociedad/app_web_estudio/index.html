@@ -36,6 +36,19 @@
                 <h3>Notas del Usuario</h3>
                 <textarea id="userText" placeholder="Escribe tus notas aquí..."></textarea>
                 <button id="clearTextBtn" class="clear-btn">Limpiar Texto</button>
+                
+                <div class="audio-recording-section">
+                    <h4>Grabación de Audio</h4>
+                    <div class="recording-controls">
+                        <button id="recordBtn" class="record-btn">🎤 Grabar</button>
+                        <button id="playRecordingBtn" class="play-btn" disabled>▶️ Reproducir</button>
+                        <button id="discardBtn" class="discard-btn" disabled>🗑️ Descartar</button>
+                    </div>
+                    <div class="recording-status">
+                        <span id="recordingStatus">Listo para grabar</span>
+                        <span id="recordingTime">0:00</span>
+                    </div>
+                </div>
             </div>
 
             <div class="script-area">
