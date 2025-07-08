@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reproductor de Exposición - IA y Fintech</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Reproductor de Exposición</h1>
+            <h2>IA, prevención de fraude y trabajo en Fintech: una perspectiva socio-ética</h2>
+        </header>
+
+        <div class="audio-player">
+            <audio id="mainAudio" controls preload="auto">
+                <source src="audio_exposicion.mp3" type="audio/mpeg">
+                Tu navegador no soporta el elemento de audio.
+            </audio>
+            
+            <div class="time-display">
+                <span id="currentTime">0:00</span> / <span id="duration">0:00</span>
+            </div>
+        </div>
+
+        <div class="controls-section">
+            <h3>Navegación por Frases</h3>
+            <div class="phrase-buttons" id="phraseButtons">
+                <!-- Los botones se generarán dinámicamente -->
+            </div>
+        </div>
+
+        <div class="text-section">
+            <div class="user-text-area">
+                <h3>Notas del Usuario</h3>
+                <textarea id="userText" placeholder="Escribe tus notas aquí..."></textarea>
+                <button id="clearTextBtn" class="clear-btn">Limpiar Texto</button>
+            </div>
+
+            <div class="script-area">
+                <h3>Guión de la Exposición</h3>
+                <div class="script-controls">
+                    <button id="toggleScriptBtn" class="toggle-btn">Mostrar Guión</button>
+                </div>
+                <div id="scriptContent" class="script-content hidden">
+                    <!-- El contenido del guión se mostrará aquí -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
