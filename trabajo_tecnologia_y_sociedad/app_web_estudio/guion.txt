@@ -1,0 +1,10 @@
+Buenas tardes, somos Marto, Rocío y Naty, y hoy vamos a presentar nuestro trabajo titulado *“IA, prevención de fraude y trabajo en Fintech: una perspectiva socio-ética”. 
+
+El objetivo principal fue analizar cómo se aplica la inteligencia artificial en la detección de fraudes dentro del ecosistema Fintech, enfocándonos no solo en lo técnico, sino también en los aspectos éticos, laborales y sociales.
+
+Partimos de una hipótesis central: la inteligencia artificial no es neutral. Su diseño, entrenamiento y uso tienen impactos directos sobre las personas y la sociedad. Por eso, creemos que su implementación debe ser crítica, responsable y ética.
+
+textos_exposicion = ["Buenas tardes, somos Marto, Rocío y Naty", "y hoy vamos a presentar", "nuestro trabajo titulado", "IA, prevención de fraude y trabajo en Fintech: una perspectiva socio-ética", "El objetivo principal fue", "analizar cómo se aplica la inteligencia artificial", "en la detección de fraudes", "dentro del ecosistema Fintech", "enfocándonos no solo en lo técnico", "sino también en los aspectos éticos, laborales y sociales.",
+"Partimos de una hipótesis central", "la inteligencia artificial no es neutral", "Su diseño, entrenamiento y uso", "tienen impactos directos sobre las personas", "y la sociedad", "Por eso, creemos que su implementación", "debe ser crítica, responsable y ética."]
+
+[4.44, 2.112, 2.16, 7.8, 2.376, 4.224, 2.352, 2.688, 2.928, 4.824, 3.0, 3.672, 3.408, 3.384, 1.224, 3.48, 3.96]
