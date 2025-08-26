@@ -1,0 +1,163 @@
+**Unidad I**
+
+**Procesamiento de datos**
+
+**Fases del procesamiento de datos**
+
+**1. Recolección de datos**
+    * Orígenes: APIs, sensores IoT, bases de datos, web scraping, encuestas, archivos CSV/Excel, etc.
+    * Herramientas comunes: requests, pandas, beautifulsoup, SQL, etc.
+
+**2. Limpieza de datos (Data Cleaning)**
+    * Eliminar duplicados
+    * Corregir errores
+    * Tratar valores nulos o faltantes (NaN)
+    * Normalizar formatos (fechas, unidades, etc.)
+    * Herramientas: pandas, numpy, OpenRefine
+
+**3. Transformación de datos (Data Wrangling o Munging)**
+    * Convertir datos categóricos a numéricos (One-hot encoding, Label encoding)
+    * Normalización o estandarización
+    * Agrupar, unir o dividir datasets
+    * Creación de nuevas variables
+    * Herramientas: pandas, sklearn.preprocessing
+
+**4. Almacenamiento y gestión**
+    * Bases de datos SQL (PostgreSQL, MySQL) o NoSQL (MongoDB)
+    * Data lakes, warehouses
+    * Herramientas: SQLAlchemy, MongoDB, BigQuery, Azure, AWS
+
+**5. Visualización exploratoria (EDA - Exploratory Data Analysis)**
+    * Detectar patrones, tendencias, anomalías
+    * Graficar distribuciones, correlaciones
+    * Herramientas: matplotlib, seaborn, plotly, Tableau
+
+**6. Modelado y análisis predictivo (Machine Learning)**
+    * Aplicación de algoritmos para clasificar, predecir o agrupar datos
+    * Evaluación del rendimiento del modelo
+    * Herramientas: scikit-learn, XGBoost, TensorFlow, PyTorch
+
+**Objetivo final en Ciencia de Datos**
+* El procesamiento de datos permite que los modelos y análisis se basen en **datos confiables y útiles**, aumentando la precisión y calidad de las decisiones o predicciones.
+
+**Ejemplo rápido en Python (limpieza + análisis básico)**
+
+```python
+import pandas as pd
+
+# Cargar datos
+df = pd.read_csv('datos.csv')
+
+# Ver primeras filas
+print(df.head())
+
+# Eliminar duplicados
+df = df.drop_duplicates()
+
+# Rellenar valores nulos
+df['edad'] = df['edad'].fillna(df['edad'].mean())
+
+# Convertir columna categórica a numérica
+df['genero'] = df['genero'].map({'M': 0, 'F': 1})
+
+# Mostrar estadística descriptiva
+print(df.describe())
+```
+
+**Proyecto: Análisis de Ventas en una Tienda Online**
+
+**Objetivo**
+Explorar y procesar datos de ventas para:
+* Conocer los productos más vendidos
+* Identificar el comportamiento de los clientes
+* Detectar tendencias por categoría, día y región
+
+**Fases del procesamiento de datos**
+* Limpieza de datos
+* Transformaciones
+* Análisis exploratorio (EDA)
+* Visualizaciones básicas
+
+**Generación del Dataset**
+
+```python
+import pandas as pd
+import numpy as np
+import random
+from datetime import datetime, timedelta
+
+# --- Simular datos ---
+np.random.seed(42)
+n = 1000 # número de órdenes
+
+product_names = ['Laptop', 'Headphones', 'Smartphone', 'Monitor', 'Keyboard', 'Mouse']
+categories = ['Electronics', 'Accessories']
+regions = ['North', 'South', 'East', 'West']
+```
+
+```python
+# Reordenar columnas
+df = df[['order_id', 'product_id', 'product_name', 'category', 'price', 'quantity', 'customer_id', 'region', 'order_date']]
+print(df.head())
+```
+
+**Transformaciones Útiles**
+Agregamos una columna con el total de cada orden (precio * cantidad).
+
+`df['total'] = df['price'] * df['quantity']`
+
+También podemos extraer información útil como el mes o día de la semana para análisis de tendencias:
+
+```python
+df['month'] = df['order_date'].dt.month
+df['weekday'] = df['order_date'].dt.day_name()
+```
+
+**Análisis Exploratorio (EDA)**
+
+**Productos más vendidos**
+
+```python
+top_products = df.groupby('product_name')['quantity'].sum().sort_values(ascending=False)
+print(top_products)
+```
+
+**Ingresos por categoría**
+
+```python
+revenue_by_category = df.groupby('category')['total'].sum().sort_values(ascending=False)
+print(revenue_by_category)
+```
+
+**Ventas por región**
+
+```python
+sales_by_region = df.groupby('region')['total'].sum()
+print(sales_by_region)
+```
+
+**Ingresos por mes**
+
+```python
+monthly_revenue = df.groupby('month')['total'].sum()
+print(monthly_revenue)
+```
+
+**Tendencias**
+
+**1. Automatización del Aprendizaje Automático (AutoML)**
+La automatización de procesos de machine learning está ganando protagonismo, permitiendo que sistemas seleccionen modelos, ajusten hiperparámetros y realicen ingeniería de características de manera autónoma. Esto facilita que equipos con menos experiencia técnica implementen soluciones de IA de forma eficiente.
+
+**2. Analítica Aumentada**
+La combinación de inteligencia artificial y procesamiento de lenguaje natural está simplificando el análisis de datos, permitiendo que tanto usuarios técnicos como no técnicos interactúen con la información de manera más efectiva y tomen decisiones informadas.
+
+**3. Ética y Regulación en la IA**
+Con la creciente adopción de la inteligencia artificial, surgen debates sobre su regulación y las implicaciones éticas, especialmente en áreas como derechos de autor, privacidad y sesgos en los datos. Es esencial establecer marcos que aseguren un uso responsable y transparente de estas tecnologías.
+
+**4. Computación en el Borde (Edge Computing)**
+La necesidad de procesar datos en tiempo real ha impulsado la adopción de la computación en el borde, permitiendo análisis más rápidos y reduciendo la latencia al procesar datos cerca de su origen.
+
+**5. Democratización del Acceso a la IA Generativa**
+La IA generativa se ha vuelto más accesible al público general, permitiendo que personas sin conocimientos técnicos profundos utilicen herramientas como ChatGPT y generadores de imágenes en diversas aplicaciones.
+
+Estas tendencias reflejan la evolución constante en el procesamiento de datos y la inteligencia artificial, destacando la importancia de la automatización, la ética, la eficiencia y la accesibilidad en el desarrollo y aplicación de estas tecnologías.
