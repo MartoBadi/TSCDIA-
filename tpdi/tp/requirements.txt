@@ -6,4 +6,4 @@ scikit-learn
 dlib
 Pillow
 transformers 
-streamlit
+streamlit 
