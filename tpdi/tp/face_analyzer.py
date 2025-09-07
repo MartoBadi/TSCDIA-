@@ -1,29 +1,3 @@
-def superponer_prenda(img, prenda_path, y_offset=0, scale=1.0):
-    """Superpone una prenda PNG sobre la imagen base."""
-    prenda = cv2.imread(prenda_path, cv2.IMREAD_UNCHANGED)
-    if prenda is None:
-        return img
-    # Redimensionar prenda al ancho de la imagen base
-    prenda_w = int(img.shape[1] * scale)
-    prenda_h = int(prenda.shape[0] * prenda_w / prenda.shape[1])
-    prenda = cv2.resize(prenda, (prenda_w, prenda_h), interpolation=cv2.INTER_AREA)
-    # Coordenadas para superponer
-    x_offset = (img.shape[1] - prenda_w) // 2
-    y_offset = y_offset
-    # Separar canales
-    if prenda.shape[2] == 4:
-        alpha = prenda[:,:,3] / 255.0
-        for c in range(3):
-            y1 = y_offset
-            y2 = y_offset + prenda_h
-            x1 = x_offset
-            x2 = x_offset + prenda_w
-            if y2 > img.shape[0]:
-                y2 = img.shape[0]
-            if x2 > img.shape[1]:
-                x2 = img.shape[1]
-            img[y1:y2, x1:x2, c] = (1 - alpha[:y2-y1, :x2-x1]) * img[y1:y2, x1:x2, c] + alpha[:y2-y1, :x2-x1] * prenda[:y2-y1, :x2-x1, c]
-    return img
 import cv2
 import cv2.data
 import dlib
@@ -51,8 +25,7 @@ def analizar_imagen(image_path):
         "color_ojos": "desconocido",
         "forma_cara": "desconocido",
         "genero": "desconocido",
-        "peinado": "desconocido",
-        "imagen_atuendo": None
+        "peinado": "desconocido"
     }
     img = cv2.imread(image_path)
     if img is None:
@@ -69,20 +42,6 @@ def analizar_imagen(image_path):
     face_img = img[y:y+h, x:x+w].copy()
     face_rect = dlib.rectangle(int(x), int(y), int(x + w), int(y + h)) # type: ignore
 
-    # Superposición de prenda (si existe PNG de prenda)
-    prendas_dir = os.path.join(os.path.dirname(__file__), 'static', 'prendas')
-    if os.path.exists(prendas_dir):
-        # Ejemplo: elige una prenda por género
-        if resultado["genero"] == "Hombre":
-            prenda_file = "camiseta_azul.png"
-        else:
-            prenda_file = "blusa_blanca.png"
-        prenda_path = os.path.join(prendas_dir, prenda_file)
-        if os.path.exists(prenda_path):
-            img_con_prenda = superponer_prenda(img.copy(), prenda_path, y_offset=y+h, scale=0.7)
-            out_path = image_path.replace('.jpg', '_atuendo.jpg').replace('.png', '_atuendo.png')
-            cv2.imwrite(out_path, img_con_prenda)
-            resultado["imagen_atuendo"] = out_path
 
     # Género
     try:
