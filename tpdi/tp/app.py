@@ -2,6 +2,7 @@ from flask import Flask, render_template, request, jsonify
 from face_analyzer import analizar_imagen
 from fashion_recommender import recomendar_atuendo
 import os
+from flask import send_from_directory
 from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
@@ -28,6 +29,11 @@ def upload():
     # Sugerencia de atuendo
     sugerencia = recomendar_atuendo(resultado)
     return jsonify({'analisis': resultado, 'sugerencia': sugerencia})
+
+# Ruta para servir imágenes generadas en uploads
+@app.route('/uploads/<path:filename>')
+def uploaded_file(filename):
+    return send_from_directory(UPLOAD_FOLDER, filename)
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
