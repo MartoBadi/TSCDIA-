@@ -8,7 +8,7 @@ pipe = StableDiffusionPipeline.from_pretrained("stabilityai/stable-diffusion-2-1
 
 def generar_imagen_ia(prompt, output_path):
     result = pipe(prompt)
-    img = result.images[0]
+    img = result.images[0] # type: ignore
     # Si es PIL, guarda directo
     if isinstance(img, Image.Image):
         img.save(output_path)
