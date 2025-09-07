@@ -24,9 +24,9 @@
         if (data.analisis) {
             html += `<h2>Análisis Facial</h2><ul>`;
             for (const [k, v] of Object.entries(data.analisis)) {
-                if (k === "imagen_atuendo" && v) {
-                    html += `<li><b>Imagen con atuendo:</b><br><img src='/${v}' style='max-width:300px;'></li>`;
-                } else {
+                if (k === "imagen_ia" && v) {
+                    html += `<li><b>Imagen generada por IA:</b><br><img src='/${v}' style='max-width:300px;'></li>`;
+                } else if (k !== "imagen_atuendo") {
                     html += `<li><b>${k}:</b> ${v}</li>`;
                 }
             }
