@@ -3,7 +3,7 @@ opencv-python
 numpy
 pandas
 scikit-learn
-dlib
+# dlib
 Pillow
 transformers 
 streamlit 
