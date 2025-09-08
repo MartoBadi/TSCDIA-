@@ -1,11 +1,19 @@
 flask
-opencv-python
-numpy
+opencv-python==4.9.0.80
+numpy==1.26.4
 pandas
 scikit-learn
-# dlib
-Pillow
-transformers 
-streamlit 
-diffusers
-torch
+dlib
+Pillow==10.3.0
+transformers>=4.38.0
+tokenizers==0.15.2
+streamlit
+diffusers==0.24.0
+torch==2.3.0
+torchaudio==2.3.0
+torchvision==0.18.0
+moviepy==2.1.2
+numba==0.60.0
+tensorflow-intel
+huggingface_hub==0.19.4
+

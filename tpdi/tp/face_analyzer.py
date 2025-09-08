@@ -1,7 +1,7 @@
 import cv2
 import cv2.data
-import dlib
 import numpy as np
+import dlib
 import os
 
 MODELS_DIR = "models"
