@@ -16,4 +16,3 @@ numba==0.60.0
 tensorflow-intel
 huggingface_hub==0.21.0
 
-
