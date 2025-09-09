@@ -3,6 +3,7 @@ opencv-python
 numpy
 pandas
 diffusers
+torch
 scikit-learn
 Pillow
 streamlit
