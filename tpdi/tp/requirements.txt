@@ -2,8 +2,7 @@ flask
 opencv-python==4.9.0.80
 numpy==1.26.4
 pandas
-scikit-learn
-dlib
+scikit-learn 
 Pillow==10.3.0
 transformers>=4.38.0
 tokenizers==0.15.2
@@ -15,5 +14,6 @@ torchvision==0.18.0
 moviepy==2.1.2
 numba==0.60.0
 tensorflow-intel
-huggingface_hub==0.19.4
+huggingface_hub==0.21.0
+
 
