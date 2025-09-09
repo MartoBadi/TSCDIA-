@@ -8,9 +8,9 @@ transformers>=4.38.0
 tokenizers==0.15.2
 streamlit
 diffusers==0.24.0
-torch==2.3.0
-torchaudio==2.3.0
-torchvision==0.18.0
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
 moviepy==2.1.2
 numba==0.60.0
 tensorflow-intel
