@@ -1,3 +1,4 @@
+accelerate
 flask
 opencv-python
 numpy
