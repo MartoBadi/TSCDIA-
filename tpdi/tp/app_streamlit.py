@@ -1,5 +1,6 @@
 import streamlit as st
 from ia_image_generator import generar_imagen_ia
+import time
 
 st.title("Estilo Chick - Moda al Instante")
 st.write("Sube tu foto y genera tu atuendo con IA")
@@ -14,10 +15,6 @@ if uploaded_file is not None:
     st.success(f"Imagen guardada como {img_path}")
 
     output_path = "imagen_generada.png"  # Puedes cambiar el nombre si lo necesitas
-
-    import time
-import streamlit as st
-from ia_image_generator import generar_imagen_ia
 
 if st.button("Generar imagen IA"):
     start_time = time.time()
