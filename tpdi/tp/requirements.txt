@@ -15,4 +15,4 @@ moviepy
 numba
 rich
 tokenizers
-huggingface_hub
+huggingface_hub==0.15.1
