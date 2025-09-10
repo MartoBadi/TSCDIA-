@@ -12,7 +12,7 @@ if uploaded_file is not None:
     with open(img_path, "wb") as f:
         f.write(uploaded_file.getbuffer())
     st.success(f"Imagen guardada como {img_path}")
-    output_path = os.path.join("uploads", "ia_result.png")
-    st.write("Generando imagen IA, espera unos segundos...")
-    ia_img_path = generar_imagen_ia(prompt, output_path)
-    st.image(ia_img_path, caption="Imagen generada por IA", use_column_width=True)
+
+    if st.button("Generar imagen IA"):
+        ia_img_path = generar_imagen_ia(prompt, output_path)
+        st.image(ia_img_path)
