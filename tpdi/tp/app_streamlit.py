@@ -15,4 +15,8 @@ if uploaded_file is not None:
     output_path = os.path.join("uploads", "ia_result.png")
     st.write("Generando imagen IA, espera unos segundos...")
     ia_img_path = generar_imagen_ia(prompt, output_path)
-    st.image(ia_img_path, caption="Imagen generada por IA", use_column_width=True)
+    if ia_img_path is not None:
+        st.image(ia_img_path, caption="Imagen generada por IA", use_container_width=True)
+    else:
+        st.error("No se pudo generar la imagen con IA. Intenta nuevamente.")
+

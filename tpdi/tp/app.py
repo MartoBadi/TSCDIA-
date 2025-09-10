@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, make_response
 from face_analyzer import analizar_imagen
 from fashion_recommender import recomendar_atuendo
 from ia_image_generator import generar_imagen_ia
@@ -10,6 +10,11 @@ app = Flask(__name__)
 
 UPLOAD_FOLDER = 'uploads'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
+@app.after_request
+def add_csp_header(response):
+    response.headers['Content-Security-Policy'] = "script-src 'self' 'unsafe-eval';"
+    return response
 
 @app.route('/')
 def index():
@@ -46,4 +51,4 @@ def uploaded_file(filename):
     return send_from_directory(UPLOAD_FOLDER, filename)
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000, debug=False)
