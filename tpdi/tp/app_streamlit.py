@@ -15,9 +15,16 @@ if uploaded_file is not None:
 
     output_path = "imagen_generada.png"  # Puedes cambiar el nombre si lo necesitas
 
-    if st.button("Generar imagen IA"):
-        try:
-            ia_img_path = generar_imagen_ia(prompt, output_path)
-            st.image(ia_img_path)
-        except Exception as e:
-            st.error(f"Ocurrió un error al generar la imagen IA: {e}")
+    import time
+import streamlit as st
+from ia_image_generator import generar_imagen_ia
+
+if st.button("Generar imagen IA"):
+    start_time = time.time()
+    try:
+        ia_img_path = generar_imagen_ia(prompt, output_path)
+        elapsed = time.time() - start_time
+        st.image(ia_img_path)
+        st.success(f"Imagen generada en {elapsed:.2f} segundos.")
+    except Exception as e:
+        st.error(f"Ocurrió un error al generar la imagen IA: {e}")
