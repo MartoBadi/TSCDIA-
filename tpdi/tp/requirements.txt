@@ -1,10 +1,13 @@
-accelerate
 flask
 opencv-python
 numpy
 pandas
-diffusers
-torch
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+diffusers==0.24.0
+transformers==4.38.0
+accelerate
 scikit-learn
 Pillow
 streamlit
@@ -12,5 +15,4 @@ moviepy
 numba
 rich
 tokenizers
-transformers
 huggingface_hub
