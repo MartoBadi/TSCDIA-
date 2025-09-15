@@ -4,7 +4,6 @@ flask
 opencv-python
 numpy
 pandas
-<<<<<<< HEAD
 scikit-learn 
 Pillow==10.3.0
 transformers>=4.38.0
@@ -16,20 +15,7 @@ torchvision==0.18.0
 moviepy==2.1.2
 numba==0.60.0
 huggingface_hub==0.21.0
-
-=======
-torch==2.6.0
-torchvision==0.21.0
-torchaudio==2.6.0
-diffusers==0.24.0
-transformers==4.38.0
-accelerate
-scikit-learn
-Pillow
-streamlit
-moviepy
 numba
 rich
-tokenizers
-huggingface_hub==0.19.4
->>>>>>> 687867d7e4e44c83afacae70ee8617ee229f2b00
+
+

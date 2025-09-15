@@ -1,5 +1,6 @@
 import streamlit as st
-from ia_image_generator import generar_imagen_ia
+from ia_image_generator import generar_imagen_ia_streamlit
+from PIL import Image
 import time
 import os
 
@@ -14,9 +15,12 @@ if uploaded_file is not None:
     with open(img_path, "wb") as f:
         f.write(uploaded_file.getbuffer())
 
+    # Abrir la imagen como PIL.Image para img2img
+    input_image = Image.open(img_path).convert("RGB")
+
     output_path = os.path.join("uploads", "ia_result.png")
     st.write("Generando imagen IA, espera unos segundos...")
-    ia_img_path = generar_imagen_ia(prompt, output_path)
+    ia_img_path = generar_imagen_ia_streamlit(prompt, output_path, input_image)
 
     if ia_img_path is not None:
         st.image(ia_img_path, caption="Imagen generada por IA", use_container_width=True)
@@ -30,7 +34,7 @@ if uploaded_file is not None:
     if st.button("Generar imagen IA"):
         start_time = time.time()
         try:
-            ia_img_path = generar_imagen_ia(prompt, output_path)
+            ia_img_path = generar_imagen_ia_streamlit(prompt, output_path, input_image)
             elapsed = time.time() - start_time
             if ia_img_path is not None:
                 st.image(ia_img_path)
@@ -39,4 +43,3 @@ if uploaded_file is not None:
                 st.error("No se pudo generar la imagen con IA. Intenta nuevamente.")
         except Exception as e:
             st.error(f"Ocurrió un error al generar la imagen IA: {e}")
-

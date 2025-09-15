@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, jsonify, make_response
 from face_analyzer import analizar_imagen
 from fashion_recommender import recomendar_atuendo
-from ia_image_generator import generar_imagen_ia
+from ia_image_generator import generar_imagen_ia_streamlit
 import os
 from flask import send_from_directory
 from werkzeug.utils import secure_filename
@@ -36,10 +36,11 @@ def upload():
     sugerencia = recomendar_atuendo(resultado)
 
     # Generación de imagen IA (Stable Diffusion)
-    prompt = f"Retrato de un {'hombre' if resultado.get('genero') == 'Hombre' else 'mujer'} vistiendo: {sugerencia}"
+    prompt = f"Haz un retrato del o de la {'hombre' if resultado.get('genero') == 'Hombre' else 'mujer'} de la foto  vistiendo: {sugerencia}"
     ia_filename = secure_filename(filename.replace('.jpg', '_ia.jpg').replace('.png', '_ia.png'))
     output_ia_path = os.path.join(UPLOAD_FOLDER, ia_filename)
-    ia_img_path = generar_imagen_ia(prompt, output_ia_path)
+    input_image = filepath  # Definir input_image como la ruta de la imagen subida
+    ia_img_path = generar_imagen_ia_streamlit(prompt, output_ia_path, input_image)
     if ia_img_path:
         resultado['imagen_ia'] = f"uploads/{ia_filename}"
 
