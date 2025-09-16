@@ -7,16 +7,24 @@ import torch
 import threading
 import time
 import streamlit as st
+import cv2
+
+# Variable global para detener el hilo
+detener_hilo = False
 
 def mostrar_tiempo():
+    global detener_hilo
     inicio = time.time()
-    while True:
+    while not detener_hilo:
         transcurrido = int(time.time() - inicio)
         print(f"Tiempo desde inicio: {transcurrido} segundos", end='\r')
         time.sleep(1)
 
-# Inicia el hilo al arrancar la app
-threading.Thread(target=mostrar_tiempo, daemon=True).start()
+# Detener el hilo al cerrar el programa
+try:
+    threading.Thread(target=mostrar_tiempo, daemon=True).start()
+except KeyboardInterrupt:
+    detener_hilo = True
 
 MODELS_DIR = 'models'
 os.makedirs(MODELS_DIR, exist_ok=True)
@@ -48,8 +56,8 @@ def get_pipe():
     if _pipe_cache is None:
         print("[LOG] get_pipe: Cargando modelo img2img desde ruta local...")
         _pipe_cache = DiffusionPipeline.from_pretrained(
-        r"CompVis/stable-diffusion-v1-4",
-            torch_dtype=torch.float32, low_cpu_mem_usage=True
+        r"stable-diffusion-v1-5/stable-diffusion-v1-5",
+            torch_dtype=torch.float32, low_cpu_mem_usage=True, cache_dir="/tmp"
         ).to("cpu")
         print("[LOG] get_pipe: Modelo img2img cargado.")
     else:
@@ -61,68 +69,109 @@ def generar_imagen_ia_streamlit(prompt, output_path, input_image):
         print("[LOG] generar_imagen_ia_streamlit: Iniciando generación de imagen IA img2img...")
         pipe = get_pipe()
         print("[LOG] generar_imagen_ia_streamlit: Modelo img2img obtenido.")
-        progreso = st.progress(0, text="Generando imagen IA...")
-        tiempo_texto = st.empty()
-        start_time = time.time()
-        num_steps = 1
-        total_steps = 0
-    
-        def callback(step, timestep, latents):
-            try:
-                print(f"[LOG] callback: step={step}, timestep={timestep}")
-                if total_steps == 0:
-                    percent = 0
-                else:
-                    percent = int((step + 1) * 100 / total_steps)
-                estimated_total = (time.time() - start_time) * total_steps / (step + 1) if (step + 1) > 0 and total_steps else 0
-                remaining = estimated_total - (time.time() - start_time)
-                minutes = int(remaining // 60)
-                seconds = int(remaining % 60)
-                tiempo_texto.write(f"Tiempo restante: {minutes}m {seconds}s")
-                progreso.progress(percent, text=f"Progreso: {percent}%")
-            except Exception as e:
-                print(f"[LOG] Error en callback: {e}")
-                st.error(f"Error en callback: {e}")
 
-        print("[LOG] generar_imagen_ia_streamlit: Llamando a pipe img2img...")
-        if input_image is not None:
-            print("[LOG] Antes de llamar al pipeline img2img...")
-            result = pipe.images[0]
-            print("[LOG] Después de llamar al pipeline img2img...")
-        else:
-            st.error("Debes proporcionar una imagen base para img2img.")
-            return None
-        print("[LOG] generar_imagen_ia_streamlit: pipe terminado.")
-        print(f"[LOG] generar_imagen_ia_streamlit: result type={type(result)}")
-        img = result[0] if hasattr(result, "images") else result[0] if result else None
-        print(f"[LOG] generar_imagen_ia_streamlit: img type={type(img)}")
-        if img is None:
-            print("[LOG] generar_imagen_ia_streamlit: img es None")
-            st.error("No se pudo generar la imagen. Verifica el prompt y los recursos disponibles.")
-            tiempo_texto.empty()
-            progreso.empty()
-            return None
-        if isinstance(img, Image.Image):
-            print("[LOG] generar_imagen_ia_streamlit: Guardando imagen tipo PIL.Image")
+        # Generar un prompt dinámico basado en características
+        if not prompt:
+            prompt = generar_prompt_dinamico(input_image)
+            print(f"[LOG] Prompt generado automáticamente: {prompt}")
+
+        # Llamar al pipeline con los parámetros necesarios
+        result = pipe(prompt=prompt, image=input_image, num_inference_steps=50, guidance_scale=7.5)
+        print("[LOG] Después de llamar al pipeline img2img...")
+
+        # Asegurarse de que el resultado contiene imágenes
+        if hasattr(result, "images") and isinstance(result.images, list) and len(result.images) > 0:
+            img = result.images[0]  # Obtener la primera imagen generada
+            print(f"[LOG] generar_imagen_ia_streamlit: img type={type(img)}")
+            
+            # Guardar la imagen generada
             img.save(output_path)
-        elif isinstance(img, np.ndarray):
-            print("[LOG] generar_imagen_ia_streamlit: Guardando imagen tipo np.ndarray")
-            Image.fromarray((img * 255).astype(np.uint8)).save(output_path)
-        elif hasattr(img, 'cpu') and hasattr(img, 'numpy'):
-            print("[LOG] generar_imagen_ia_streamlit: Guardando imagen tipo tensor")
-            arr = img.cpu().numpy()
-            Image.fromarray((arr * 255).astype(np.uint8)).save(output_path)
+            print(f"[LOG] generar_imagen_ia_streamlit: Imagen guardada en {output_path}")
+            return output_path
         else:
-            print("[LOG] generar_imagen_ia_streamlit: Formato de imagen no soportado")
-            st.error("Formato de imagen no soportado.")
-            tiempo_texto.empty()
-            progreso.empty()
+            print("[LOG] generar_imagen_ia_streamlit: No se generaron imágenes.")
             return None
-        tiempo_texto.empty()
-        progreso.empty()
-        print(f"[LOG] generar_imagen_ia_streamlit: Imagen guardada en {output_path}")
-        return output_path
     except Exception as e:
         print(f"[LOG] Error general: {e}")
-        st.error(f"Error general: {e}")
         return None
+
+def generar_prompt_dinamico(input_image):
+    """
+    Genera un prompt dinámico basado en las características detectadas en la imagen.
+    """
+    print("[LOG] generar_prompt_dinamico: Analizando la imagen para generar el prompt...")
+    
+    # Convertir la imagen de PIL a formato OpenCV
+    cv_image = np.array(input_image)
+    cv_image = cv2.cvtColor(cv_image, cv2.COLOR_RGB2BGR)
+
+    # Cargar el modelo de detección de rostros
+    face_cascade = cv2.CascadeClassifier(os.path.join(MODELS_DIR, 'haarcascade_frontalface_default.xml'))
+    faces = face_cascade.detectMultiScale(cv_image, scaleFactor=1.1, minNeighbors=5, minSize=(30, 30))
+
+    if len(faces) == 0:
+        print("[LOG] generar_prompt_dinamico: No se detectaron rostros en la imagen.")
+        return "Retrato de una persona con cabello corto, ojos marrones, usando un traje elegante."
+
+    # Si se detecta al menos un rostro, proceder con el análisis
+    print(f"[LOG] generar_prompt_dinamico: {len(faces)} rostro(s) detectado(s).")
+
+    # Suponiendo que solo analizamos el primer rostro detectado
+    x, y, w, h = faces[0]
+    rostro = cv_image[y:y+h, x:x+w]
+
+    # Cargar el modelo de género
+    gender_net = cv2.dnn.readNetFromCaffe(
+        os.path.join(MODELS_DIR, 'gender_deploy.prototxt'),
+        os.path.join(MODELS_DIR, 'gender_net.caffemodel')
+    )
+
+    # Preprocesar el rostro para el modelo de género
+    blob = cv2.dnn.blobFromImage(rostro, 1.0, (227, 227), (78.4263377603, 87.7689143744, 114.895847746), swapRB=False)
+    gender_net.setInput(blob)
+    gender_preds = gender_net.forward()
+    gender = "hombre" if gender_preds[0][0] > 0.5 else "mujer"
+
+    # Detectar color de pelo (análisis simple en la parte superior del rostro)
+    hair_region = cv_image[y-20:y, x:x+w] if y-20 > 0 else cv_image[0:y, x:x+w]
+    hair_color = detectar_color_dominante(hair_region)
+
+    # Detectar color de ojos (análisis en la región de los ojos)
+    eye_region = rostro[int(h*0.3):int(h*0.6), int(w*0.2):int(w*0.8)]
+    eye_color = detectar_color_dominante(eye_region)
+
+    # Generar el prompt basado en las características detectadas
+    prompt = f"Retrato de un {gender} con cabello {hair_color}, ojos {eye_color}, usando un atuendo elegante."
+
+    print(f"[LOG] generar_prompt_dinamico: Prompt generado: {prompt}")
+    return prompt
+
+def detectar_color_dominante(region):
+    """
+    Detecta el color dominante en una región de la imagen.
+    """
+    if region.size == 0:
+        return "desconocido"
+    
+    # Convertir a HSV para mejor análisis de color
+    hsv = cv2.cvtColor(region, cv2.COLOR_BGR2HSV)
+    
+    # Calcular histograma de colores
+    hist = cv2.calcHist([hsv], [0], None, [180], [0, 180])
+    max_idx = np.argmax(hist)
+    
+    # Mapear a colores básicos
+    if max_idx < 15 or max_idx > 165:
+        return "rojo"
+    elif 15 <= max_idx < 45:
+        return "amarillo"
+    elif 45 <= max_idx < 75:
+        return "verde"
+    elif 75 <= max_idx < 105:
+        return "cian"
+    elif 105 <= max_idx < 135:
+        return "azul"
+    elif 135 <= max_idx < 165:
+        return "magenta"
+    else:
+        return "marrón"
