@@ -1,5 +1,5 @@
 import os
-from diffusers.pipelines.pipeline_utils import DiffusionPipeline
+from diffusers.pipelines.stable_diffusion.pipeline_stable_diffusion_img2img import StableDiffusionImg2ImgPipeline
 from PIL import Image
 import numpy as np
 import urllib.request
@@ -57,12 +57,12 @@ def get_pipe():
         print("[LOG] get_pipe: Cargando modelo img2img desde ruta local...")
         ruta = "/tmp/models--stable-diffusion-v1-5--stable-diffusion-v1-5"
         if os.path.exists(ruta):
-            _pipe_cache = DiffusionPipeline.from_pretrained(
+            _pipe_cache = StableDiffusionImg2ImgPipeline.from_pretrained(
         r"/tmp/models--stable-diffusion-v1-5--stable-diffusion-v1-5/snapshots/451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
             torch_dtype=torch.float32, low_cpu_mem_usage=True, 
         ).to("cpu")
         else:
-            _pipe_cache = DiffusionPipeline.from_pretrained(
+            _pipe_cache = StableDiffusionImg2ImgPipeline.from_pretrained(
         r"stable-diffusion-v1-5/stable-diffusion-v1-5",
             torch_dtype=torch.float32, low_cpu_mem_usage=True, cache_dir="/tmp"
         ).to("cpu")
