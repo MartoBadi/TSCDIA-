@@ -55,7 +55,14 @@ def get_pipe():
     print("[LOG] get_pipe: Iniciando carga del modelo img2img...")
     if _pipe_cache is None:
         print("[LOG] get_pipe: Cargando modelo img2img desde ruta local...")
-        _pipe_cache = DiffusionPipeline.from_pretrained(
+        ruta = "/tmp/models--stable-diffusion-v1-5--stable-diffusion-v1-5"
+        if os.path.exists(ruta):
+            _pipe_cache = DiffusionPipeline.from_pretrained(
+        r"/tmp/models--stable-diffusion-v1-5--stable-diffusion-v1-5",
+            torch_dtype=torch.float32, low_cpu_mem_usage=True, 
+        ).to("cpu")
+        else:
+            _pipe_cache = DiffusionPipeline.from_pretrained(
         r"stable-diffusion-v1-5/stable-diffusion-v1-5",
             torch_dtype=torch.float32, low_cpu_mem_usage=True, cache_dir="/tmp"
         ).to("cpu")
@@ -111,7 +118,7 @@ def generar_prompt_dinamico(input_image):
 
     if len(faces) == 0:
         print("[LOG] generar_prompt_dinamico: No se detectaron rostros en la imagen.")
-        return "Retrato de una persona con cabello corto, ojos marrones, usando un traje elegante."
+        return "Foto de cuerpo entero de una persona con cabello corto, ojos marrones, usando un traje elegante."
 
     # Si se detecta al menos un rostro, proceder con el análisis
     print(f"[LOG] generar_prompt_dinamico: {len(faces)} rostro(s) detectado(s).")
@@ -141,7 +148,7 @@ def generar_prompt_dinamico(input_image):
     eye_color = detectar_color_dominante(eye_region)
 
     # Generar el prompt basado en las características detectadas
-    prompt = f"Retrato de un {gender} con cabello {hair_color}, ojos {eye_color}, usando un atuendo elegante."
+    prompt = f"Foto de cuerpo entero de un {gender} con cabello {hair_color}, ojos {eye_color}, usando un atuendo elegante."
 
     print(f"[LOG] generar_prompt_dinamico: Prompt generado: {prompt}")
     return prompt
