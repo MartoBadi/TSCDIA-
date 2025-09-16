@@ -58,7 +58,7 @@ def get_pipe():
         ruta = "/tmp/models--stable-diffusion-v1-5--stable-diffusion-v1-5"
         if os.path.exists(ruta):
             _pipe_cache = DiffusionPipeline.from_pretrained(
-        r"/tmp/models--stable-diffusion-v1-5--stable-diffusion-v1-5",
+        r"/tmp/models--stable-diffusion-v1-5--stable-diffusion-v1-5/snapshots/451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
             torch_dtype=torch.float32, low_cpu_mem_usage=True, 
         ).to("cpu")
         else:
