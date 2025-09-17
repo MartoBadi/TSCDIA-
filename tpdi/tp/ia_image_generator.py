@@ -55,15 +55,8 @@ def get_pipe():
     print("[LOG] get_pipe: Iniciando carga del modelo img2img...")
     if _pipe_cache is None:
         print("[LOG] get_pipe: Cargando modelo img2img desde ruta local...")
-        ruta = "/tmp/models--stable-diffusion-v1-5--stable-diffusion-v1-5"
-        if os.path.exists(ruta):
-            _pipe_cache = StableDiffusionImg2ImgPipeline.from_pretrained(
-        r"/tmp/models--stable-diffusion-v1-5--stable-diffusion-v1-5/snapshots/451f4fe16113bff5a5d2269ed5ad43b0592e9a14",
-            torch_dtype=torch.float32, low_cpu_mem_usage=True, 
-        ).to("cpu")
-        else:
-            _pipe_cache = StableDiffusionImg2ImgPipeline.from_pretrained(
-        r"stable-diffusion-v1-5/stable-diffusion-v1-5",
+        _pipe_cache = StableDiffusionImg2ImgPipeline.from_pretrained(
+        r"stabilityai/stable-diffusion-xl-base-1.0",
             torch_dtype=torch.float32, low_cpu_mem_usage=True, cache_dir="/tmp"
         ).to("cpu")
         print("[LOG] get_pipe: Modelo img2img cargado.")
@@ -71,17 +64,21 @@ def get_pipe():
         print("[LOG] get_pipe: Usando modelo img2img en caché.")
     return _pipe_cache
 
-def generar_imagen_ia_streamlit(prompt, output_path, input_image, genero=None):  # Agrega genero
+def generar_imagen_ia_streamlit(prompt, output_path, input_image, genero=None):
     try:
         print("[LOG] generar_imagen_ia_streamlit: Iniciando generación de imagen IA img2img...")
+        if input_image is None or input_image.size[0] == 0 or input_image.size[1] == 0:
+            print("[LOG] Error: Imagen de entrada inválida.")
+            return None
+        
         pipe = get_pipe()
         print("[LOG] generar_imagen_ia_streamlit: Modelo img2img obtenido.")
         
         if not prompt:
-            prompt = generar_prompt_dinamico(input_image, genero)  # Pasa genero
+            prompt = generar_prompt_dinamico(input_image, genero)
             print(f"[LOG] Prompt generado automáticamente: {prompt}")
 
-        result = pipe(prompt=prompt, image=input_image, num_inference_steps=50, guidance_scale=7.5)
+        result = pipe(prompt=prompt, image=input_image, num_inference_steps=1, guidance_scale=7.5)
         print("[LOG] Después de llamar al pipeline img2img...")
         
         if hasattr(result, "images") and isinstance(result.images, list) and len(result.images) > 0:
