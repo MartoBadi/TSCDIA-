@@ -18,7 +18,7 @@ El script:
 
 import sys
 import os
-from time_series_model_testing import TimeSeriesModelTester
+from proyecto_integrador.tp.time_series_model_testing import TimeSeriesModelTester
 
 def main():
     """
