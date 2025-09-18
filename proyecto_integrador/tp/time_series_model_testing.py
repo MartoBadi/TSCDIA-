@@ -49,6 +49,7 @@ from statsmodels.stats.diagnostic import acorr_ljungbox
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import MinMaxScaler
+from sklearn.ensemble import RandomForestRegressor
 
 # Intentar importar Prophet si está disponible
 try:
@@ -79,7 +80,7 @@ class TimeSeriesModelTester:
         self.best_model = None
         self.metrics_df = None
         
-    def load_olist_data(self, data_dir: str = "/workspaces/TSCDIA-/proyecto_integrador/tp/data") -> pd.DataFrame:
+    def load_olist_data(self, data_dir: str = "/home/runner/work/TSCDIA-/TSCDIA-/proyecto_integrador/tp/data") -> pd.DataFrame:
         """
         Carga y prepara los datos de Olist para análisis de series de tiempo
         
@@ -115,6 +116,12 @@ class TimeSeriesModelTester:
         daily_orders['date'] = pd.to_datetime(daily_orders['date'])
         daily_orders = daily_orders.set_index('date').sort_index()
         
+        # Rellenar fechas faltantes para crear serie continua
+        date_range = pd.date_range(start=daily_orders.index.min(), 
+                                 end=daily_orders.index.max(), 
+                                 freq='D')
+        daily_orders = daily_orders.reindex(date_range, fill_value=0)
+        
         # Si hay datos de pagos, agregar valor total diario
         if os.path.exists(payments_path):
             payments = pd.read_csv(payments_path)
@@ -131,8 +138,14 @@ class TimeSeriesModelTester:
             daily_revenue['date'] = pd.to_datetime(daily_revenue['date'])
             daily_revenue = daily_revenue.set_index('date').sort_index()
             
+            # Rellenar fechas faltantes para ingresos
+            daily_revenue = daily_revenue.reindex(date_range, fill_value=0)
+            
             # Combinar órdenes y ingresos
             daily_orders = daily_orders.join(daily_revenue, how='outer').fillna(0)
+        
+        # Establecer frecuencia diaria explícitamente
+        daily_orders.index.freq = 'D'
         
         print(f"Datos cargados: {len(daily_orders)} observaciones diarias")
         print(f"Período: {daily_orders.index.min()} a {daily_orders.index.max()}")
@@ -141,7 +154,7 @@ class TimeSeriesModelTester:
     
     def prepare_time_series(self, df: pd.DataFrame, target_column: str = 'orders_count') -> pd.Series:
         """
-        Prepara la serie de tiempo para análisis
+        Prepara la serie de tiempo para análisis con preprocessing mejorado
         
         Args:
             df: DataFrame con datos
@@ -155,16 +168,37 @@ class TimeSeriesModelTester:
         
         ts = df[target_column].copy()
         
+        # Asegurar que tenga frecuencia
+        if ts.index.freq is None:
+            ts.index.freq = 'D'
+        
         # Rellenar valores faltantes con interpolación lineal
         ts = ts.interpolate(method='linear')
         
-        # Eliminar outliers extremos (fuera de 3 desviaciones estándar)
-        mean_val = ts.mean()
-        std_val = ts.std()
-        ts = ts.clip(lower=mean_val - 3*std_val, upper=mean_val + 3*std_val)
+        # Manejo mejorado de outliers usando IQR (más robusto)
+        Q1 = ts.quantile(0.25)
+        Q3 = ts.quantile(0.75)
+        IQR = Q3 - Q1
+        lower_bound = Q1 - 1.5 * IQR
+        upper_bound = Q3 + 1.5 * IQR
+        
+        # Solo recortar outliers extremos, no todos
+        outliers_mask = (ts < lower_bound) | (ts > upper_bound)
+        outliers_count = outliers_mask.sum()
+        
+        if outliers_count > 0:
+            print(f"Detectados {outliers_count} outliers ({outliers_count/len(ts)*100:.1f}%)")
+            # Reemplazar outliers con interpolación en lugar de recorte duro
+            ts_clean = ts.copy()
+            ts_clean[outliers_mask] = np.nan
+            ts = ts_clean.interpolate(method='linear')
+        
+        # Aplicar suavizado ligero para reducir ruido
+        ts = ts.rolling(window=3, center=True).mean().fillna(ts)
         
         self.ts_data = ts
         print(f"Serie de tiempo preparada: {len(ts)} observaciones")
+        print(f"Media: {ts.mean():.2f}, Std: {ts.std():.2f}, Min: {ts.min():.2f}, Max: {ts.max():.2f}")
         
         return ts
     
@@ -350,7 +384,7 @@ class TimeSeriesModelTester:
     
     def test_exponential_smoothing(self) -> Dict[str, Any]:
         """
-        Prueba modelos de suavizado exponencial (Holt-Winters)
+        Prueba modelos de suavizado exponencial (Holt-Winters) mejorado
         
         Returns:
             Resultados del modelo de suavizado exponencial
@@ -358,7 +392,7 @@ class TimeSeriesModelTester:
         print("Probando Exponential Smoothing...")
         
         try:
-            # Probar diferentes configuraciones
+            # Probar configuraciones más amplias y robustas
             best_aic = np.inf
             best_model = None
             best_config = None
@@ -366,14 +400,21 @@ class TimeSeriesModelTester:
             configs = [
                 {'trend': None, 'seasonal': None},
                 {'trend': 'add', 'seasonal': None},
+                {'trend': 'mul', 'seasonal': None},
                 {'trend': 'add', 'seasonal': 'add', 'seasonal_periods': 7},
-                {'trend': 'mul', 'seasonal': 'mul', 'seasonal_periods': 7}
+                {'trend': 'mul', 'seasonal': 'add', 'seasonal_periods': 7},
+                {'trend': 'add', 'seasonal': 'mul', 'seasonal_periods': 7},
+                {'trend': 'mul', 'seasonal': 'mul', 'seasonal_periods': 7},
+                # Añadir configuraciones con damped trend
+                {'trend': 'add', 'damped_trend': True, 'seasonal': None},
+                {'trend': 'add', 'damped_trend': True, 'seasonal': 'add', 'seasonal_periods': 7},
+                {'trend': 'mul', 'damped_trend': True, 'seasonal': 'add', 'seasonal_periods': 7}
             ]
             
             for config in configs:
                 try:
                     model = ExponentialSmoothing(self.train_data, **config)
-                    fitted_model = model.fit()
+                    fitted_model = model.fit(optimized=True, use_brute=True)
                     
                     if fitted_model.aic < best_aic:
                         best_aic = fitted_model.aic
@@ -543,6 +584,230 @@ class TimeSeriesModelTester:
         except Exception as e:
             return {'error': f'Error en Prophet: {str(e)}'}
     
+    def test_xgboost_model(self) -> Dict[str, Any]:
+        """
+        Prueba modelo XGBoost con características de lag
+        
+        Returns:
+            Resultados del modelo XGBoost
+        """
+        print("Probando XGBoost...")
+        
+        try:
+            from xgboost import XGBRegressor
+            
+            # Crear características de lag y rolling stats
+            def create_features(data, n_lags=7):
+                df = pd.DataFrame({'y': data})
+                
+                # Lags
+                for lag in range(1, n_lags + 1):
+                    df[f'lag_{lag}'] = df['y'].shift(lag)
+                
+                # Rolling statistics
+                for window in [3, 7, 14]:
+                    df[f'rolling_mean_{window}'] = df['y'].rolling(window).mean()
+                    df[f'rolling_std_{window}'] = df['y'].rolling(window).std()
+                
+                # Día de la semana y del mes
+                df['dayofweek'] = pd.to_datetime(data.index).dayofweek
+                df['dayofmonth'] = pd.to_datetime(data.index).day
+                df['month'] = pd.to_datetime(data.index).month
+                
+                return df.dropna()
+            
+            # Preparar datos de entrenamiento
+            train_features = create_features(self.train_data)
+            X_train = train_features.drop('y', axis=1)
+            y_train = train_features['y']
+            
+            # Modelo XGBoost con parámetros optimizados
+            model = XGBRegressor(
+                n_estimators=200,
+                learning_rate=0.1,
+                max_depth=6,
+                min_child_weight=1,
+                subsample=0.8,
+                colsample_bytree=0.8,
+                random_state=42,
+                early_stopping_rounds=20,
+                eval_metric='rmse'
+            )
+            
+            # Entrenar modelo
+            model.fit(X_train, y_train, eval_set=[(X_train, y_train)], verbose=False)
+            
+            # Preparar datos de prueba
+            # Necesitamos crear features para test usando solo datos hasta cada punto
+            forecasts = []
+            
+            for i in range(len(self.test_data)):
+                # Para cada predicción, usar datos hasta ese punto
+                available_data = pd.concat([self.train_data, self.test_data.iloc[:i+1]])
+                
+                if len(available_data) < 14:  # Necesitamos suficientes datos para features
+                    # Para los primeros puntos, usar solo train_data
+                    available_data = self.train_data
+                
+                # Crear features y predecir solo el último punto
+                features_df = create_features(available_data)
+                if len(features_df) > 0:
+                    X_pred = features_df.iloc[-1:].drop('y', axis=1)
+                    pred = model.predict(X_pred)[0]
+                else:
+                    # Fallback: usar la media del entrenamiento
+                    pred = self.train_data.mean()
+                
+                forecasts.append(pred)
+            
+            forecast_series = pd.Series(forecasts, index=self.test_data.index)
+            
+            # Calcular métricas
+            metrics = self.calculate_metrics(self.test_data, forecast_series, "XGBoost")
+            
+            return {
+                'model': model,
+                'forecast': forecast_series,
+                'feature_importance': dict(zip(X_train.columns, model.feature_importances_)),
+                'metrics': metrics
+            }
+            
+        except Exception as e:
+            return {'error': f'Error en XGBoost: {str(e)}'}
+    
+    def test_random_forest_model(self) -> Dict[str, Any]:
+        """
+        Prueba modelo Random Forest con características de lag
+        
+        Returns:
+            Resultados del modelo Random Forest
+        """
+        print("Probando Random Forest...")
+        
+        try:
+            from sklearn.ensemble import RandomForestRegressor
+            
+            # Usar la misma función de características que XGBoost
+            def create_features(data, n_lags=7):
+                df = pd.DataFrame({'y': data})
+                
+                # Lags
+                for lag in range(1, n_lags + 1):
+                    df[f'lag_{lag}'] = df['y'].shift(lag)
+                
+                # Rolling statistics
+                for window in [3, 7, 14]:
+                    df[f'rolling_mean_{window}'] = df['y'].rolling(window).mean()
+                    df[f'rolling_std_{window}'] = df['y'].rolling(window).std()
+                
+                # Día de la semana y del mes
+                df['dayofweek'] = pd.to_datetime(data.index).dayofweek
+                df['dayofmonth'] = pd.to_datetime(data.index).day
+                df['month'] = pd.to_datetime(data.index).month
+                
+                return df.dropna()
+            
+            # Preparar datos de entrenamiento
+            train_features = create_features(self.train_data)
+            X_train = train_features.drop('y', axis=1)
+            y_train = train_features['y']
+            
+            # Modelo Random Forest con parámetros optimizados
+            model = RandomForestRegressor(
+                n_estimators=200,
+                max_depth=10,
+                min_samples_split=5,
+                min_samples_leaf=2,
+                random_state=42,
+                n_jobs=-1
+            )
+            
+            # Entrenar modelo
+            model.fit(X_train, y_train)
+            
+            # Preparar datos de prueba
+            # Usar el mismo enfoque que XGBoost
+            forecasts = []
+            
+            for i in range(len(self.test_data)):
+                # Para cada predicción, usar datos hasta ese punto
+                available_data = pd.concat([self.train_data, self.test_data.iloc[:i+1]])
+                
+                if len(available_data) < 14:  # Necesitamos suficientes datos para features
+                    available_data = self.train_data
+                
+                # Crear features y predecir solo el último punto
+                features_df = create_features(available_data)
+                if len(features_df) > 0:
+                    X_pred = features_df.iloc[-1:].drop('y', axis=1)
+                    pred = model.predict(X_pred)[0]
+                else:
+                    pred = self.train_data.mean()
+                
+                forecasts.append(pred)
+            
+            forecast_series = pd.Series(forecasts, index=self.test_data.index)
+            
+            # Calcular métricas
+            metrics = self.calculate_metrics(self.test_data, forecast_series, "RandomForest")
+            
+            return {
+                'model': model,
+                'forecast': forecast_series,
+                'feature_importance': dict(zip(X_train.columns, model.feature_importances_)),
+                'metrics': metrics
+            }
+            
+        except Exception as e:
+            return {'error': f'Error en Random Forest: {str(e)}'}
+    
+    def test_ensemble_model(self) -> Dict[str, Any]:
+        """
+        Crea un modelo ensemble con los mejores modelos
+        
+        Returns:
+            Resultados del modelo ensemble
+        """
+        print("Probando Ensemble Model...")
+        
+        try:
+            # Recopilar predicciones de modelos exitosos
+            forecasts = []
+            weights = []
+            model_names = []
+            
+            for model_name, result in self.results.items():
+                if 'forecast' in result and 'metrics' in result:
+                    # Usar 1/RMSE como peso (mejor RMSE = mayor peso)
+                    rmse = result['metrics']['RMSE']
+                    if rmse > 0:
+                        forecasts.append(result['forecast'])
+                        weights.append(1.0 / rmse)
+                        model_names.append(model_name)
+            
+            if len(forecasts) < 2:
+                return {'error': 'Necesarios al menos 2 modelos exitosos para ensemble'}
+            
+            # Normalizar pesos
+            weights = np.array(weights)
+            weights = weights / weights.sum()
+            
+            # Crear predicción ensemble como promedio ponderado
+            ensemble_forecast = sum(w * f for w, f in zip(weights, forecasts))
+            
+            # Calcular métricas
+            metrics = self.calculate_metrics(self.test_data, ensemble_forecast, "Ensemble")
+            
+            return {
+                'model_names': model_names,
+                'weights': weights.tolist(),
+                'forecast': ensemble_forecast,
+                'metrics': metrics
+            }
+            
+        except Exception as e:
+            return {'error': f'Error en Ensemble: {str(e)}'}
+    
     def run_all_tests(self, seasonal_period: int = 7) -> Dict[str, Any]:
         """
         Ejecuta todas las pruebas de modelos
@@ -566,6 +831,14 @@ class TimeSeriesModelTester:
         results['LinearRegression'] = self.test_linear_regression()
         results['MovingAverages'] = self.test_moving_averages()
         results['Prophet'] = self.test_prophet_model()
+        results['XGBoost'] = self.test_xgboost_model()
+        results['RandomForest'] = self.test_random_forest_model()
+        
+        # Actualizar self.results antes del ensemble
+        self.results = results
+        
+        # Probar ensemble solo si hay modelos exitosos
+        results['Ensemble'] = self.test_ensemble_model()
         
         self.results = results
         return results
