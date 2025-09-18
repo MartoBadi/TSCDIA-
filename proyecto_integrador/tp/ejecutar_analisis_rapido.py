@@ -18,7 +18,7 @@ El script:
 
 import sys
 import os
-from proyecto_integrador.tp.time_series_model_testing import TimeSeriesModelTester
+from time_series_model_testing import TimeSeriesModelTester
 
 def main():
     """
@@ -28,14 +28,14 @@ def main():
     print("=" * 60)
     
     # Verificar si existen los datos
-    data_dir = "proyecto_integrador/tp/data/"
+    data_dir = "data/"
     orders_file = os.path.join(data_dir, "olist_orders_dataset.csv")
     
     if not os.path.exists(orders_file):
         print(f"❌ Error: No se encontró el archivo {orders_file}")
         print("📋 Asegúrese de que los datos de Olist estén en la ruta correcta:")
-        print("   - proyecto_integrador/tp/data/olist_orders_dataset.csv")
-        print("   - proyecto_integrador/tp/data/olist_order_payments_dataset.csv")
+        print("   - data/olist_orders_dataset.csv")
+        print("   - data/olist_order_payments_dataset.csv")
         return 1
     
     try:
