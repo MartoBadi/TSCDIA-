@@ -79,7 +79,7 @@ class TimeSeriesModelTester:
         self.best_model = None
         self.metrics_df = None
         
-    def load_olist_data(self, data_dir: str = "proyecto_integrador/tp/data/") -> pd.DataFrame:
+    def load_olist_data(self, data_dir: str = "/workspaces/TSCDIA-/proyecto_integrador/tp/data") -> pd.DataFrame:
         """
         Carga y prepara los datos de Olist para análisis de series de tiempo
         
