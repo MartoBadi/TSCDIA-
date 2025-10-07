@@ -1,0 +1,113 @@
+================================================================================
+REPORTE DE EVALUACIÓN DE MODELOS DE SERIES DE TIEMPO
+================================================================================
+Fecha de análisis: 2025-09-18 19:39:42
+
+INFORMACIÓN DEL DATASET:
+----------------------------------------
+Total de observaciones: 714
+Período de entrenamiento: 2016-09-15 00:00:00 a 2018-04-08 00:00:00 (571 observaciones)
+Período de prueba: 2018-04-09 00:00:00 a 2018-08-29 00:00:00 (143 observaciones)
+Valor promedio: 133.73
+Desviación estándar: 89.02
+
+MEJOR MODELO IDENTIFICADO:
+----------------------------------------
+Modelo: RandomForest
+Métricas del mejor modelo:
+  RMSE: 17.9693
+  MAE: 14.5149
+  MAPE: 9.9297
+  R²: 0.9176
+  AIC: nan
+  BIC: nan
+
+COMPARACIÓN COMPLETA DE MODELOS:
+----------------------------------------
+   RMSE     MAE    MAPE      R²                                                                    Model       AIC       BIC
+17.9693 14.5149  9.9297  0.9176                                                             RandomForest       NaN       NaN
+18.1556 13.7172 10.6324  0.9159                                                                  XGBoost       NaN       NaN
+32.0416 23.6021 23.4879  0.7380                                                                 Ensemble       NaN       NaN
+59.6369 44.1176 43.5152  0.0925                                                   SARIMA(1,1,1)(1,1,1,7) 4127.1240 4148.7904
+62.6055 48.4547 42.5863 -0.0001                                                                   SMA_14       NaN       NaN
+62.7061 48.2959 43.1015 -0.0033                                                                  EMA_0.1       NaN       NaN
+62.9873 45.6025 45.1346 -0.0123                                                                  Prophet       NaN       NaN
+62.9889 49.5981 41.6011 -0.0124                                                                  EMA_0.3       NaN       NaN
+63.1691 48.6462 44.2277 -0.0182                                                                   SMA_30       NaN       NaN
+63.3175 48.7852 44.5002 -0.0230                                                                    SMA_7       NaN       NaN
+63.3889 48.6971 44.6251 -0.0253                                                           ARIMA(3, 1, 3) 4092.5413 4122.9608
+64.3140 51.3352 40.8747 -0.0554                                                                  EMA_0.5       NaN       NaN
+67.6292 48.9971 51.2360 -0.1671 Exp_Smoothing_{'trend': 'add', 'seasonal': 'add', 'seasonal_periods': 7} 2755.2676       NaN
+96.2972 75.8467 70.9261 -1.3662                                                        Linear_Regression       NaN       NaN
+
+DETALLES POR MODELO:
+----------------------------------------
+
+ARIMA:
+  ✅ RMSE: 63.3889
+     MAE: 48.6971
+     MAPE: 44.63%
+     R²: -0.0253
+     AIC: 4092.54
+     BIC: 4122.96
+
+SARIMA:
+  ✅ RMSE: 59.6369
+     MAE: 44.1176
+     MAPE: 43.52%
+     R²: 0.0925
+     AIC: 4127.12
+     BIC: 4148.79
+
+EXPONENTIALSMOOTHING:
+  ✅ RMSE: 67.6292
+     MAE: 48.9971
+     MAPE: 51.24%
+     R²: -0.1671
+     AIC: 2755.27
+
+LINEARREGRESSION:
+  ✅ RMSE: 96.2972
+     MAE: 75.8467
+     MAPE: 70.93%
+     R²: -1.3662
+
+MOVINGAVERAGES:
+  ✅ SMA_7: RMSE=63.3175, MAE=48.7852, R²=-0.0230
+  ✅ SMA_14: RMSE=62.6055, MAE=48.4547, R²=-0.0001
+  ✅ SMA_30: RMSE=63.1691, MAE=48.6462, R²=-0.0182
+  ✅ EMA_0.1: RMSE=62.7061, MAE=48.2959, R²=-0.0033
+  ✅ EMA_0.3: RMSE=62.9889, MAE=49.5981, R²=-0.0124
+  ✅ EMA_0.5: RMSE=64.3140, MAE=51.3352, R²=-0.0554
+
+PROPHET:
+  ✅ RMSE: 62.9873
+     MAE: 45.6025
+     MAPE: 45.13%
+     R²: -0.0123
+
+XGBOOST:
+  ✅ RMSE: 18.1556
+     MAE: 13.7172
+     MAPE: 10.63%
+     R²: 0.9159
+
+RANDOMFOREST:
+  ✅ RMSE: 17.9693
+     MAE: 14.5149
+     MAPE: 9.93%
+     R²: 0.9176
+
+ENSEMBLE:
+  ✅ RMSE: 32.0416
+     MAE: 23.6021
+     MAPE: 23.49%
+     R²: 0.7380
+
+========================================
+RECOMENDACIONES:
+========================================
+1. Se recomienda usar el modelo RandomForest para predicciones futuras.
+4. Validar predicciones con datos reales periódicamente.
+5. Considerar re-entrenar el modelo con nuevos datos cada mes.
+6. Monitorear cambios en patrones del negocio que puedan afectar las predicciones.

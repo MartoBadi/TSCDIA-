@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Estilo Chick - Moda al Instante</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Estilo Chick - Moda al Instante</h1>
+    <form id="uploadForm" enctype="multipart/form-data">
+        <label for="image">Sube tu foto (rostro o medio cuerpo):</label><br>
+        <input type="file" id="image" name="image" accept="image/*" required><br><br>
+        <button type="submit">Analizar y Sugerir Atuendo</button>
+    </form>
+    <div id="resultado"></div>
+    <script>
+    document.getElementById('uploadForm').onsubmit = async function(e) {
+        e.preventDefault();
+        const formData = new FormData();
+        formData.append('image', document.getElementById('image').files[0]);
+        const res = await fetch('/upload', { method: 'POST', body: formData });
+        const data = await res.json();
+        let html = '';
+        if (data.analisis) {
+            html += `<h2>Análisis Facial</h2><ul>`;
+            for (const [k, v] of Object.entries(data.analisis)) {
+                if (k === "imagen_ia" && v) {
+                    html += `<li><b>Imagen generada por IA:</b><br><img src='/${v}' style='max-width:300px;'></li>`;
+                } else if (k !== "imagen_atuendo") {
+                    html += `<li><b>${k}:</b> ${v}</li>`;
+                }
+            }
+            html += `</ul>`;
+        }
+        if (data.sugerencia) {
+            html += `<h2>Sugerencia de Atuendo</h2><p>${data.sugerencia}</p>`;
+        }
+        if (data.error) {
+            html = `<p style='color:red;'>${data.error}</p>`;
+        }
+        document.getElementById('resultado').innerHTML = html;
+    };
+    </script>
+</body>
+</html>
