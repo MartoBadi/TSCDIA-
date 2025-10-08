@@ -2,10 +2,13 @@
   "name": "app_estudio",
   "version": "1.0.0",
   "description": "App para estudiar.",
-  "main": "/workspaces/TSCDIA-/proyecto_integrador/script.js",
+  "main": "index.js",
   "scripts": {
     "start": "electron .",
-    "pack": "electron-packager . app_estudio --platform=win32 --arch=x64 --out=dist"
+    "pack:win": "electron-packager . app_estudio --platform=win32 --arch=x64 --out=dist --overwrite",
+    "pack:linux": "electron-packager . app_estudio --platform=linux --arch=x64 --out=dist --overwrite",
+    "pack:mac": "electron-packager . app_estudio --platform=darwin --arch=x64 --out=dist --overwrite",
+    "pack:all": "electron-packager . app_estudio --platform=win32,linux,darwin --arch=x64 --out=dist --overwrite"
   },
   "keywords": [],
   "author": "",

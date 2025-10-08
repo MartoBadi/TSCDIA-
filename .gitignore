@@ -5,3 +5,13 @@ __pycache__/
 *.pyd
 .env
 .DS_Store
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+*.zip
+
+# Electron
+out/
