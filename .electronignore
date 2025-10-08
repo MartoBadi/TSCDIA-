@@ -1,0 +1,35 @@
+# Development files
+.git
+.gitignore
+.gitattributes
+.vscode
+README.md
+*.md
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node
+.npm
+.node_repl_history
+
+# Build outputs
+dist/
+out/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local

@@ -19,6 +19,11 @@ Esta es una aplicación de escritorio para estudiar, construida con Electron.
 
 ### 📦 Crear Ejecutables
 
+**Nota Importante:** Es recomendable compilar en el mismo sistema operativo donde se va a ejecutar la aplicación. Por ejemplo:
+- Si usas Windows, compila con `npm run pack:win` en Windows
+- Si usas Linux, compila con `npm run pack:linux` en Linux
+- Si usas macOS, compila con `npm run pack:mac` en macOS
+
 #### Para Windows
 ```bash
 npm run pack:win
@@ -41,6 +46,8 @@ La aplicación se generará en: `dist/app_estudio-darwin-x64/app_estudio.app`
 ```bash
 npm run pack:all
 ```
+
+**Advertencia sobre compilación cruzada:** Si intentas compilar para Windows desde Linux/macOS o viceversa, podrías encontrar errores relacionados con Wine u otras herramientas. En ese caso, compila desde el sistema operativo objetivo.
 
 ### 💻 Cómo Usar el Ejecutable
 
