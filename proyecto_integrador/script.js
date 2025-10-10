@@ -16,25 +16,53 @@ let isPlayingRecording = false;
 let recordingTimer;
 let recordingStartTime;
 
+// Variables para datos del main process
+let textos_exposicion = [];
+let duracionesAudios = [];
+let tiemposInicio = [];
+let REPETICIONES_POR_FRASE = 5;
+
 // Inicialización cuando se carga la página
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', async function() {
+    // Obtener datos del main process
+    await loadDataFromMainProcess();
+
     audioElement = document.getElementById('mainAudio');
-    
+
     // Configurar volumen inicial al 30%
     audioElement.volume = 0.3;
-    
+
     // Crear botones de frases
     createPhraseButtons();
-    
+
     // Crear contenido del guión
     createScriptContent();
-    
+
     // Configurar event listeners
     setupEventListeners();
-    
+
     // Inicializar display de tiempo
     updateTimeDisplay();
 });
+
+// Cargar datos desde el proceso principal
+async function loadDataFromMainProcess() {
+    try {
+        textos_exposicion = await window.electronAPI.getTextosExposicion();
+        duracionesAudios = await window.electronAPI.getDuracionesAudios();
+        tiemposInicio = await window.electronAPI.getTiemposInicio();
+        REPETICIONES_POR_FRASE = await window.electronAPI.getRepeticionesPorFrase();
+
+        console.log('Datos cargados desde el proceso principal:', {
+            textosCount: textos_exposicion.length,
+            duracionesCount: duracionesAudios.length,
+            tiemposCount: tiemposInicio.length,
+            repeticiones: REPETICIONES_POR_FRASE
+        });
+    } catch (error) {
+        console.error('Error al cargar datos del proceso principal:', error);
+    }
+}
 
 // Crear botones para cada frase
 function createPhraseButtons() {
@@ -449,3 +477,23 @@ function stopRecordingTimer() {
         recordingTimer = null;
     }
 }
+
+const { ipcRenderer } = require('electron');
+
+// Al cargar la app
+window.onload = async () => {
+  const clave = prompt('Ingresa tu clave de licencia:');
+  const response = await fetch('http://51.8.152.66:3000/validate-license', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ clave })
+  });
+  const data = await response.json();
+  if (!data.valid) {
+    alert('Licencia inválida. Compra una en nuestro sitio.');
+    window.close(); // Cierra la app
+  } else {
+    // Continúa con la app normal
+    console.log('Licencia válida');
+  }
+};
