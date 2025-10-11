@@ -5,7 +5,7 @@ const { MercadoPagoConfig, Preference } = require('mercadopago'); // Cambia a Pr
 
 // Configura MercadoPago con tu access token (reemplaza con tu token real de sandbox o producción)
 const client = new MercadoPagoConfig({
-  accessToken: 'TEST-8744013932187507-101020-5af998dd8dacd70f1338fb27a6595dbe-210254714', // Obtén de https://www.mercadopago.com.ar/developers
+  accessToken: 'APP_USR-3019635509030048-101111-6b777448d02697c001c636158c99ebef-210254714', // Obtén de https://www.mercadopago.com.ar/developers
   options: { timeout: 5000 }
 });
 
