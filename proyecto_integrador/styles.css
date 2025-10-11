@@ -121,6 +121,94 @@ header h2 {
     100% { transform: translateY(-2px) scale(1); }
 }
 
+.custom-buttons-section {
+    background: rgba(30, 30, 50, 0.95);
+    padding: 25px;
+    border-radius: 15px;
+    margin-bottom: 30px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.custom-buttons-section h3 {
+    color: #e0e0e0;
+    margin-bottom: 15px;
+    font-size: 1.3em;
+}
+
+#customText {
+    width: 100%;
+    height: 150px;
+    border: 2px solid #4a5568;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 1em;
+    font-family: inherit;
+    resize: vertical;
+    margin-bottom: 15px;
+    transition: border-color 0.3s ease;
+    background: rgba(20, 20, 35, 0.8);
+    color: #e0e0e0;
+}
+
+#customText:focus {
+    outline: none;
+    border-color: #e53e3e;
+}
+
+#customText::placeholder {
+    color: #a0a0a0;
+}
+
+.generate-btn {
+    background: linear-gradient(45deg, #38a169, #2f855a);
+    color: #e0e0e0;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    margin-bottom: 20px;
+}
+
+.generate-btn:hover {
+    background: linear-gradient(45deg, #2f855a, #38a169);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
+.custom-buttons {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+}
+
+.custom-btn {
+    background: linear-gradient(45deg, #805ad5, #6b46c1);
+    color: #e0e0e0;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.custom-btn:hover {
+    background: linear-gradient(45deg, #6b46c1, #805ad5);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+    border-color: rgba(255, 255, 255, 0.2);
+}
+
 .text-section {
     display: grid;
     grid-template-columns: 1fr 1fr;

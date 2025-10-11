@@ -113,6 +113,9 @@ function setupEventListeners() {
     document.getElementById('recordBtn').addEventListener('click', toggleRecording);
     document.getElementById('playRecordingBtn').addEventListener('click', togglePlayRecording);
     document.getElementById('discardBtn').addEventListener('click', discardRecording);
+    
+    // Event listener para generar botones personalizados
+    document.getElementById('generateButtonsBtn').addEventListener('click', generateCustomButtons);
 }
 
 // Saltar a una frase específica (al inicio de la primera repetición)
@@ -476,6 +479,44 @@ function stopRecordingTimer() {
         clearInterval(recordingTimer);
         recordingTimer = null;
     }
+}
+
+// Generar botones personalizados a partir del texto
+function generateCustomButtons() {
+    const customText = document.getElementById('customText').value.trim();
+    const customButtonsContainer = document.getElementById('customButtons');
+    
+    // Limpiar botones anteriores
+    customButtonsContainer.innerHTML = '';
+    
+    if (customText === '') {
+        alert('Por favor, ingresa algún texto para generar botones.');
+        return;
+    }
+    
+    // Dividir el texto por líneas y filtrar líneas vacías
+    const lines = customText.split('\n').filter(line => line.trim() !== '');
+    
+    if (lines.length === 0) {
+        alert('No se encontraron líneas válidas en el texto.');
+        return;
+    }
+    
+    // Crear un botón para cada línea
+    lines.forEach((line, index) => {
+        const button = document.createElement('button');
+        button.className = 'custom-btn';
+        button.textContent = `${index + 1}. ${line.trim()}`;
+        button.onclick = () => handleCustomButtonClick(line.trim(), index);
+        customButtonsContainer.appendChild(button);
+    });
+}
+
+// Manejar clic en botón personalizado
+function handleCustomButtonClick(text, index) {
+    // Por ahora, mostrar una alerta con el texto
+    alert(`Botón ${index + 1} clicado:\n${text}`);
+    // Aquí puedes agregar más funcionalidad, como reproducir audio, saltar a tiempo, etc.
 }
 
 const { ipcRenderer } = require('electron');
