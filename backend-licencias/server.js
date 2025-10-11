@@ -1,7 +1,15 @@
 const express = require('express');
 const jwt = require('jsonwebtoken');
 const sqlite3 = require('sqlite3').verbose();
-const stripe = require('stripe')('tu_clave_secreta_de_stripe'); // Obtén de Stripe Dashboard
+const { MercadoPagoConfig, Preference } = require('mercadopago'); // Cambia a Preference para simplicidad
+
+// Configura MercadoPago con tu access token (reemplaza con tu token real de sandbox o producción)
+const client = new MercadoPagoConfig({
+  accessToken: 'TEST-8744013932187507-101020-5af998dd8dacd70f1338fb27a6595dbe-210254714', // Obtén de https://www.mercadopago.com.ar/developers
+  options: { timeout: 5000 }
+});
+
+const preference = new Preference(client); // Usa Preference en lugar de Order
 
 const app = express();
 app.use(express.json());
@@ -23,17 +31,39 @@ app.post('/validate-license', (req, res) => {
   });
 });
 
-// Endpoint para procesar pago (simplificado)
+// Endpoint para procesar pago (usando Preference de MercadoPago)
 app.post('/create-payment', async (req, res) => {
   const { email } = req.body;
-  // Integra con Stripe para crear sesión de pago
-  const session = await stripe.checkout.sessions.create({
-    payment_method_types: ['card'],
-    line_items: [{ price_data: { currency: 'usd', product_data: { name: 'Licencia App' }, unit_amount: 1000 }, quantity: 1 }],
-    mode: 'payment',
-    success_url: 'http://tu-servidor/success?email=' + email,
-  });
-  res.json({ url: session.url });
+  const body = {
+    items: [{
+      title: 'Licencia App',
+      unit_price: 1000, // Precio en ARS
+      quantity: 1,
+      currency_id: 'ARS'
+    }],
+    payer: {
+      email: email
+    },
+    back_urls: {
+      success: 'https://httpbin.org/get?status=success', // URL pública dummy para testing
+      failure: 'https://httpbin.org/get?status=failure',
+      pending: 'https://httpbin.org/get?status=pending'
+    }
+    // Quita auto_return para evitar validaciones
+  };
+
+  try {
+    const response = await preference.create({ body });
+    res.json({ url: response.init_point }); // URL para pagar
+  } catch (error) {
+    console.error('Error de MercadoPago:', error.message); // Agrega logging detallado
+    res.status(500).json({ error: 'Error al crear el pago', details: error.message });
+  }
 });
 
 app.listen(3000, () => console.log('Servidor corriendo en puerto 3000'));
+
+// Endpoints para back_urls (simples para testing)
+app.get('/success', (req, res) => res.send('Pago exitoso!'));
+app.get('/failure', (req, res) => res.send('Pago fallido.'));
+app.get('/pending', (req, res) => res.send('Pago pendiente.'));

@@ -182,6 +182,7 @@
     "make-fetch-happen": "^10.2.1",
     "matcher": "^3.0.0",
     "math-intrinsics": "^1.1.0",
+    "mercadopago": "^2.9.0",
     "mime": "^2.6.0",
     "mime-db": "^1.52.0",
     "mime-types": "^2.1.35",
