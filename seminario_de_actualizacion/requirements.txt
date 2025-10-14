@@ -1,5 +1,4 @@
 moviepy
 pydub
-io
 ipython
 gtts
