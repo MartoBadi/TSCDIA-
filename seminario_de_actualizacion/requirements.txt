@@ -2,4 +2,4 @@ moviepy
 pydub
 ipython
 gtts
-pyaudioop
+
