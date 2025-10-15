@@ -2,7 +2,6 @@ import streamlit as st
 import io
 from moviepy.audio.AudioClip import concatenate_audioclips
 from moviepy.audio.io.AudioFileClip import AudioFileClip
-from pydub import AudioSegment
 from IPython.display import Audio
 from gtts import gTTS
 import os
